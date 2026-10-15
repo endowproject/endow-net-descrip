@@ -1,0 +1,443 @@
+Community,Network Layer,Average Proportion of Support Partners Who Are Kin,Average Proportion of Kin Who Are Support Partners
+AH,Borrow money,0.327,0.029
+AH,Lend money,0.506,0.044
+AH,Borrow goods,0.304,0.289
+AH,Lend goods,0.336,0.337
+AH,Women behav.,0.411,0.222
+AH,Men behav.,0.31,0.246
+AH,Women info.,0.207,0.192
+AH,Men info.,0.063,0.09
+AH,Aggregate,0.189,0.572
+AP,Borrow money,0.117,0.157
+AP,Lend money,0.397,0.438
+AP,Borrow goods,0.418,0.538
+AP,Lend goods,0.414,0.609
+AP,Women behav.,0.61,0.183
+AP,Men behav.,0.552,0.253
+AP,Women info.,0.373,0.397
+AP,Men info.,0.208,0.133
+AP,Aggregate,0.231,0.688
+AR,Borrow money,0.473,0.24
+AR,Lend money,0.463,0.294
+AR,Borrow goods,0.456,0.299
+AR,Lend goods,0.336,0.244
+AR,Women behav.,0.43,0.142
+AR,Men behav.,0.338,0.141
+AR,Women info.,0.325,0.204
+AR,Men info.,0.273,0.156
+AR,Aggregate,0.295,0.516
+AV,Borrow money,0.149,0.536
+AV,Lend money,0.137,0.608
+AV,Borrow goods,0.169,0.455
+AV,Lend goods,0.156,0.467
+AV,Women behav.,0.104,0.436
+AV,Men behav.,0.133,0.402
+AV,Women info.,0.123,0.19
+AV,Men info.,0.086,0.16
+AV,Aggregate,0.072,0.74
+AZ,Borrow money,0.141,0.43
+AZ,Lend money,0.095,0.361
+AZ,Borrow goods,0.102,0.388
+AZ,Lend goods,0.079,0.334
+AZ,Women behav.,0.145,0.399
+AZ,Men behav.,0.155,0.343
+AZ,Women info.,0.132,0.377
+AZ,Men info.,0.156,0.33
+AZ,Aggregate,0.088,0.645
+BD,Borrow money,0.167,0.362
+BD,Lend money,0.095,0.328
+BD,Borrow goods,0.046,0.241
+BD,Lend goods,0.051,0.259
+BD,Women behav.,0.123,0.276
+BD,Men behav.,0.271,0.328
+BD,Women info.,0.065,0.328
+BD,Men info.,0.158,0.259
+BD,Aggregate,0.078,0.724
+BM,Borrow money,0.506,0.246
+BM,Lend money,0.422,0.142
+BM,Borrow goods,0.455,0.122
+BM,Lend goods,0.514,0.175
+BM,Women behav.,0.622,0.23
+BM,Men behav.,0.231,0.229
+BM,Women info.,0.597,0.213
+BM,Men info.,0.517,0.267
+BM,Aggregate,0.339,0.582
+BY,Borrow money,0.312,0.016
+BY,Lend money,0.564,0.304
+BY,Borrow goods,0.454,0.548
+BY,Lend goods,0.468,0.622
+BY,Women behav.,0.561,0.427
+BY,Men behav.,0.483,0.405
+BY,Women info.,0.38,0.517
+BY,Men info.,0.361,0.441
+BY,Aggregate,0.342,0.843
+CP,Borrow money,0.511,0.227
+CP,Lend money,0.552,0.201
+CP,Borrow goods,0.35,0.253
+CP,Lend goods,0.293,0.085
+CP,Women behav.,0.4,0.019
+CP,Men behav.,0.588,0.077
+CP,Women info.,0.455,0.105
+CP,Men info.,0.364,0.107
+CP,Aggregate,0.363,0.491
+CR,Borrow money,0.669,0.147
+CR,Lend money,0.798,0.218
+CR,Borrow goods,0.722,0.276
+CR,Lend goods,0.738,0.297
+CR,Women behav.,0.667,0.035
+CR,Men behav.,0.683,0.08
+CR,Women info.,0.763,0.299
+CR,Men info.,0.463,0.142
+CR,Aggregate,0.575,0.5
+DJ,Borrow money,0.344,0.202
+DJ,Lend money,0.302,0.201
+DJ,Borrow goods,0.439,0.137
+DJ,Lend goods,0.306,0.118
+DJ,Women behav.,0.467,0.058
+DJ,Men behav.,0.183,0.03
+DJ,Women info.,0.238,0.185
+DJ,Men info.,0.217,0.169
+DJ,Aggregate,0.216,0.429
+EK,Borrow money,0.854,0.254
+EK,Lend money,0.867,0.118
+EK,Borrow goods,0.64,0.234
+EK,Lend goods,0.657,0.252
+EK,Women behav.,0.839,0.369
+EK,Men behav.,0.667,0.281
+EK,Women info.,0.436,0.354
+EK,Men info.,0.486,0.086
+EK,Aggregate,0.514,0.601
+FF,Borrow money,0.1,0.077
+FF,Lend money,0.125,0.077
+FF,Borrow goods,0.094,0.308
+FF,Lend goods,0.124,0.385
+FF,Women behav.,0.333,0.077
+FF,Men behav.,0.2,0.077
+FF,Women info.,0.111,0.231
+FF,Men info.,0.112,0.308
+FF,Aggregate,0.121,0.615
+FJ,Borrow money,0.412,0.396
+FJ,Lend money,0.223,0.24
+FJ,Borrow goods,0.194,0.185
+FJ,Lend goods,0.179,0.284
+FJ,Women behav.,0.11,0.232
+FJ,Men behav.,0.123,0.169
+FJ,Women info.,0.116,0.26
+FJ,Men info.,0.086,0.115
+FJ,Aggregate,0.13,0.701
+HE,Borrow money,0.221,0.268
+HE,Lend money,0.185,0.179
+HE,Borrow goods,0.189,0.239
+HE,Lend goods,0.242,0.307
+HE,Women behav.,0.214,0.276
+HE,Men behav.,0.224,0.186
+HE,Women info.,0.197,0.241
+HE,Men info.,0.176,0.2
+HE,Aggregate,0.172,0.566
+HI,Borrow money,0.25,0.147
+HI,Lend money,0.233,0.17
+HI,Borrow goods,0.213,0.196
+HI,Lend goods,0.191,0.203
+HI,Women behav.,0.588,0.114
+HI,Men behav.,0.264,0.114
+HI,Women info.,0.324,0.313
+HI,Men info.,0.247,0.259
+HI,Aggregate,0.233,0.451
+IH,Borrow money,0.438,0.269
+IH,Borrow goods,0.75,0.155
+IH,Lend goods,0.5,0.107
+IH,Women behav.,0.056,0.016
+IH,Men behav.,0.167,0.022
+IH,Women info.,0.167,0.06
+IH,Men info.,0.1,0.02
+IH,Aggregate,0.294,0.364
+KA,Borrow money,0.275,0.471
+KA,Lend money,0.217,0.385
+KA,Borrow goods,0.203,0.395
+KA,Lend goods,0.212,0.38
+KA,Women behav.,0.371,0.452
+KA,Men behav.,0.113,0.132
+KA,Women info.,0.068,0.146
+KA,Men info.,0.027,0.037
+KA,Aggregate,0.105,0.68
+KM,Borrow money,0.242,0.276
+KM,Lend money,0.22,0.217
+KM,Borrow goods,0.227,0.226
+KM,Lend goods,0.162,0.177
+KM,Women behav.,0.471,0.234
+KM,Men behav.,0.312,0.184
+KM,Women info.,0.265,0.222
+KM,Men info.,0.174,0.157
+KM,Aggregate,0.183,0.54
+KO,Borrow money,0.019,0.133
+KO,Lend money,0.009,0.133
+KO,Borrow goods,0.007,0.1
+KO,Lend goods,0.012,0.133
+KO,Women behav.,0.013,0.133
+KO,Men behav.,0.003,0.067
+KO,Women info.,0.016,0.167
+KO,Men info.,0,0
+KO,Aggregate,0.009,0.3
+KS,Borrow money,0.323,0.25
+KS,Lend money,0.559,0.481
+KS,Borrow goods,0.534,0.538
+KS,Lend goods,0.564,0.538
+KS,Women behav.,0.691,0.349
+KS,Men behav.,0.416,0.364
+KS,Women info.,0.452,0.477
+KS,Men info.,0.326,0.304
+KS,Aggregate,0.318,0.757
+KT,Borrow money,0.6,0.299
+KT,Lend money,1,0.206
+KT,Borrow goods,0.877,0.669
+KT,Lend goods,0.844,0.569
+KT,Women behav.,0.587,0.12
+KT,Men behav.,0.667,0.111
+KT,Women info.,0.607,0.536
+KT,Men info.,0.619,0.432
+KT,Aggregate,0.594,0.837
+LB,Borrow money,0.889,0.177
+LB,Lend money,0.622,0.383
+LB,Borrow goods,0.485,0.442
+LB,Lend goods,0.208,0.11
+LB,Women behav.,0.269,0.108
+LB,Men behav.,0.333,0.078
+LB,Women info.,0.526,0.225
+LB,Men info.,0.583,0.195
+LB,Aggregate,0.426,0.542
+MA,Borrow money,0.025,0.123
+MA,Lend money,0.054,0.175
+MA,Borrow goods,0.036,0.07
+MA,Lend goods,0.092,0.228
+MA,Women behav.,0.229,0.39
+MA,Men behav.,0.106,0.36
+MA,Women info.,0.078,0.285
+MA,Men info.,0.075,0.228
+MA,Aggregate,0.075,0.746
+MC,Borrow money,0.229,0.184
+MC,Lend money,0.42,0.288
+MC,Borrow goods,0.416,0.496
+MC,Lend goods,0.391,0.478
+MC,Women behav.,0.591,0.072
+MC,Men behav.,0.483,0.15
+MC,Women info.,0.191,0.131
+MC,Men info.,0.185,0.075
+MC,Aggregate,0.263,0.64
+MG,Borrow money,0.36,0.623
+MG,Lend money,0.345,0.6
+MG,Borrow goods,0.45,0.506
+MG,Lend goods,0.477,0.546
+MG,Women behav.,0.291,0.391
+MG,Men behav.,0.262,0.331
+MG,Women info.,0.274,0.359
+MG,Men info.,0.196,0.262
+MG,Aggregate,0.222,0.734
+MK,Borrow money,0.577,0.452
+MK,Lend money,0.476,0.478
+MK,Borrow goods,0.596,0.68
+MK,Lend goods,0.595,0.718
+MK,Aggregate,0.473,0.824
+MN,Borrow money,0.689,0.466
+MN,Lend money,0.417,0.468
+MN,Borrow goods,0.605,0.41
+MN,Lend goods,0.54,0.261
+MN,Women behav.,0.54,0.319
+MN,Men behav.,0.567,0.478
+MN,Women info.,0.289,0.339
+MN,Men info.,0.265,0.377
+MN,Aggregate,0.263,0.758
+MY,Borrow money,0.667,0.18
+MY,Lend money,0.664,0.206
+MY,Borrow goods,0.614,0.276
+MY,Lend goods,0.554,0.267
+MY,Women behav.,0.837,0.227
+MY,Men behav.,0.746,0.226
+MY,Women info.,0.729,0.347
+MY,Men info.,0.576,0.244
+MY,Aggregate,0.553,0.596
+NI,Borrow money,0.36,0.182
+NI,Lend money,0.502,0.53
+NI,Borrow goods,0.45,0.53
+NI,Lend goods,0.421,0.686
+NI,Women behav.,0.615,0.59
+NI,Men behav.,0.671,0.604
+NI,Women info.,0.528,0.652
+NI,Men info.,0.378,0.533
+NI,Aggregate,0.314,0.839
+NP,Borrow money,0.155,0.411
+NP,Lend money,0.081,0.27
+NP,Borrow goods,0.119,0.447
+NP,Lend goods,0.108,0.452
+NP,Women behav.,0.18,0.314
+NP,Men behav.,0.139,0.355
+NP,Women info.,0.126,0.507
+NP,Men info.,0.085,0.371
+NP,Aggregate,0.092,0.758
+PC,Borrow money,0.369,0.257
+PC,Borrow goods,0.355,0.223
+PC,Lend goods,0.326,0.181
+PC,Women behav.,0.4,0.089
+PC,Men behav.,0.316,0.097
+PC,Women info.,0.231,0.2
+PC,Men info.,0.196,0.129
+PC,Aggregate,0.301,0.57
+PE,Borrow money,0.259,0.507
+PE,Lend money,0.229,0.515
+PE,Borrow goods,0.299,0.625
+PE,Lend goods,0.28,0.608
+PE,Women behav.,0.443,0.413
+PE,Men behav.,0.254,0.207
+PE,Women info.,0.216,0.478
+PE,Men info.,0.22,0.206
+PE,Aggregate,0.206,0.773
+PQ,Borrow money,0.335,0.322
+PQ,Lend money,0.32,0.373
+PQ,Borrow goods,0.262,0.084
+PQ,Lend goods,0.278,0.109
+PQ,Women behav.,0.139,0.014
+PQ,Men behav.,0.143,0.016
+PQ,Women info.,0.341,0.232
+PQ,Men info.,0.257,0.165
+PQ,Aggregate,0.255,0.483
+PT,Borrow money,0.465,0.225
+PT,Lend money,0.609,0.25
+PT,Borrow goods,0.635,0.259
+PT,Lend goods,0.586,0.251
+PT,Women behav.,0.723,0.132
+PT,Men behav.,0.763,0.14
+PT,Women info.,0.666,0.255
+PT,Men info.,0.558,0.241
+PT,Aggregate,0.498,0.48
+RA,Borrow money,0.26,0.342
+RA,Lend money,0.314,0.375
+RA,Borrow goods,0.283,0.422
+RA,Lend goods,0.248,0.365
+RA,Women behav.,0.377,0.406
+RA,Men behav.,0.267,0.211
+RA,Women info.,0.202,0.222
+RA,Men info.,0.213,0.184
+RA,Aggregate,0.2,0.72
+SH,Borrow money,0.535,0.332
+SH,Lend money,0.539,0.364
+SH,Borrow goods,0.406,0.347
+SH,Lend goods,0.402,0.342
+SH,Women behav.,0.685,0.394
+SH,Men behav.,0.406,0.396
+SH,Women info.,0.207,0.249
+SH,Men info.,0.181,0.112
+SH,Aggregate,0.284,0.706
+SN,Borrow money,0.426,0.479
+SN,Lend money,0.406,0.438
+SN,Borrow goods,0.284,0.475
+SN,Lend goods,0.271,0.521
+SN,Women behav.,0.491,0.654
+SN,Men behav.,0.403,0.592
+SN,Women info.,0.412,0.608
+SN,Men info.,0.229,0.34
+SN,Aggregate,0.299,0.899
+TE,Borrow money,0.132,0.326
+TE,Lend money,0.121,0.263
+TE,Borrow goods,0.105,0.346
+TE,Lend goods,0.094,0.335
+TE,Women behav.,0.21,0.344
+TE,Men behav.,0.16,0.26
+TE,Women info.,0.144,0.309
+TE,Men info.,0.131,0.265
+TE,Aggregate,0.082,0.637
+TI,Borrow money,0.738,0.077
+TI,Lend money,0.542,0.037
+TI,Borrow goods,0.755,0.441
+TI,Lend goods,0.66,0.441
+TI,Women behav.,0.933,0.166
+TI,Men behav.,0.565,0.137
+TI,Women info.,0.41,0.36
+TI,Men info.,0.37,0.329
+TI,Aggregate,0.44,0.722
+TM,Borrow money,0.488,0.255
+TM,Lend money,0.514,0.25
+TM,Borrow goods,0.601,0.378
+TM,Lend goods,0.626,0.385
+TM,Women behav.,0.63,0.397
+TM,Men behav.,0.534,0.282
+TM,Women info.,0.672,0.407
+TM,Men info.,0.466,0.281
+TM,Aggregate,0.445,0.643
+TP,Borrow money,0.725,0.236
+TP,Lend money,0.832,0.266
+TP,Borrow goods,0.7,0.269
+TP,Lend goods,0.648,0.284
+TP,Women behav.,0.685,0.117
+TP,Men behav.,0.579,0.117
+TP,Women info.,0.379,0.147
+TP,Men info.,0.198,0.085
+TP,Aggregate,0.422,0.471
+TS,Borrow money,0.333,0.005
+TS,Lend money,0.667,0.005
+TS,Borrow goods,0.771,0.187
+TS,Lend goods,0.748,0.153
+TS,Women behav.,0.828,0.105
+TS,Men behav.,0.758,0.133
+TS,Women info.,0.775,0.181
+TS,Men info.,0.564,0.137
+TS,Aggregate,0.658,0.373
+TZ,Borrow money,0.172,0.281
+TZ,Lend money,0.126,0.095
+TZ,Borrow goods,0.226,0.304
+TZ,Lend goods,0.148,0.311
+TZ,Women behav.,0.143,0.053
+TZ,Men behav.,0.146,0.097
+TZ,Women info.,0.155,0.244
+TZ,Men info.,0.032,0.086
+TZ,Aggregate,0.115,0.527
+UP,Borrow money,0.254,0.615
+UP,Lend money,0.251,0.548
+UP,Borrow goods,0.259,0.679
+UP,Lend goods,0.216,0.621
+UP,Women behav.,0.358,0.634
+UP,Men behav.,0.26,0.627
+UP,Women info.,0.236,0.591
+UP,Men info.,0.123,0.465
+UP,Aggregate,0.121,0.869
+VT,Borrow money,0.4,0.031
+VT,Lend money,0.321,0.175
+VT,Borrow goods,0.228,0.368
+VT,Lend goods,0.106,0.25
+VT,Women behav.,0.317,0.338
+VT,Men behav.,0.173,0.39
+VT,Women info.,0.16,0.228
+VT,Men info.,0.067,0.11
+VT,Aggregate,0.132,0.662
+WH,Borrow money,0.188,0.25
+WH,Borrow goods,0.375,0.139
+WH,Lend goods,0.222,0.167
+WH,Women behav.,0.167,0.083
+WH,Men behav.,0,0
+WH,Women info.,0.283,0.403
+WH,Men info.,0.044,0.083
+WH,Aggregate,0.145,0.611
+WL,Borrow money,0.208,0.217
+WL,Borrow goods,0.221,0.119
+WL,Lend goods,0.161,0.154
+WL,Women behav.,0.204,0.067
+WL,Men behav.,0.107,0.01
+WL,Women info.,0.12,0.289
+WL,Men info.,0.087,0.13
+WL,Aggregate,0.126,0.52
+YI,Borrow money,0.396,0.174
+YI,Lend money,0.467,0.225
+YI,Borrow goods,0.284,0.277
+YI,Lend goods,0.298,0.281
+YI,Women behav.,0.309,0.248
+YI,Men behav.,0.316,0.287
+YI,Women info.,0.33,0.231
+YI,Men info.,0.209,0.229
+YI,Aggregate,0.246,0.455
+YN,Borrow money,0.375,0.125
+YN,Lend money,0.25,0.042
+YN,Borrow goods,0.341,0.154
+YN,Lend goods,0.229,0.112
+YN,Women behav.,1,0.106
+YN,Men behav.,0.25,0.125
+YN,Women info.,0.75,0.083
+YN,Men info.,0.071,0.102
+YN,Aggregate,0.141,0.383

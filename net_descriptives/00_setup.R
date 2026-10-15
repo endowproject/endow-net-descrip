@@ -8,82 +8,6 @@
 ## Run this first (or simply source it from any downstream script).
 ## ============================================================================
 
-## Network Descriptive Statistics
-##
-## Generates summary statistics of social support nominations and networks
-##
-## Outputs:
-##
-## -- Name generator prompts --
-##   Tables/DescriptiveStats/name-generator-prompts/*.tex      - prompt wording used for each name generator, by community
-##
-## -- Network-level summary statistics --
-##   Tables/DescriptiveStats/network-summary-stats/net-summary-stat-*.tex      - per-layer tables of basic network summary statistics (density, degree, centralization, clustering, etc.), by community
-##   Tables/DescriptiveStats/network-summary-stats/global-net-summary-medians.tex - median summary statistics across communities, one column per network layer
-##   Figures/DescriptiveStats/*_distrib_violin.png             - violin plots showing the cross-community distribution of each network summary statistic, by layer
-##   Figures/DescriptiveStats/density_vs_size.png               - aggregate-network density vs. number of sharing units, by community
-##   Figures/DescriptiveStats/selfloop_prop_distrib_violin.png  - violin plot of the proportion of self-loop ties, by layer
-##
-## -- Respondent coverage --
-##   Tables/DescriptiveStats/respondents_by_site.tex            - sharing-unit and respondent coverage by community
-##
-## -- Nomination counts and composition --
-##   Tables/DescriptiveStats/nomination-summary-stats/global-nominations-summary.tex   - mean/SD nomination counts pooled across all communities, by name generator
-##   Tables/DescriptiveStats/nomination-summary-stats/nominations-summary-*.tex          - mean/SD nomination counts by community, one table per name generator
-##   Figures/DescriptiveStats/prop_external_violin.png          - distribution of the proportion of nominations to external alters, by name generator
-##   Figures/DescriptiveStats/nomination_counts_boxplot.png      - per-respondent nomination counts, faceted by name generator and community
-##   Figures/DescriptiveStats/nomination_counts_density.png      - density of mean nominations per respondent, faceted by paired name generator
-##   Figures/DescriptiveStats/nomination_counts_violin.png       - mean nominations per respondent (individuals vs. sharing units), by name generator
-##   Figures/DescriptiveStats/internal_external_violin.png       - proportion of nominations that are within-sharing-unit vs. external to the community
-##   Figures/DescriptiveStats/own_su_prop_violin.png              - proportion of respondents naming their own sharing unit, by name generator
-##   Figures/DescriptiveStats/count_alters_both.png                - aggregate nomination counts (individuals and sharing units) by community
-##   Figures/DescriptiveStats/count_alters_gender_both.png          - aggregate nomination counts by community, split by respondent gender
-##   Figures/DescriptiveStats/count_alters_gender_age.png            - aggregate nomination counts vs. respondent age, by gender and community
-##   Figures/DescriptiveStats/nomination_gender_diffs.png            - heatmap of male-minus-female mean nominations, by community and name generator
-##
-## -- Within-sharing-unit concordance --
-##   Figures/DescriptiveStats/su_concordance_layerwise_personid.png  - concordance in individual-level nominations among co-resident sharing-unit members, by layer
-##   Figures/DescriptiveStats/su_concordance_layerwise_suid.png       - concordance in sharing-unit-level nominations among co-resident members, by layer
-##   Figures/DescriptiveStats/su_concordance_aggregate_both.png        - aggregate-network concordance (individuals and sharing units), by community
-##   Figures/DescriptiveStats/su_concordance_aggregate_gender_both.png - aggregate-network concordance by community, split by gender
-##
-## -- Request/give double-sampling concordance --
-##   Tables/DescriptiveStats/double_sampled_concordance.tex     - proportion of concordant ties between paired request and give networks (loan, exchange), by community
-##   Figures/DescriptiveStats/double_sampled_concordance.png    - distribution of concordance proportions, by paired name generator
-##
-## -- Degree distributions --
-##   Figures/DescriptiveStats/degree_distributions.png          - CCDF degree distributions by layer, all communities overlaid
-##   Figures/DescriptiveStats/degree_distribution_aggregate.png  - CCDF degree distribution for the aggregate network, all communities overlaid
-##
-## -- Network visualizations --
-##   Figures/Networks/*_all_sites.pdf       - one network-layer visualization per community, for each network type
-##   Figures/Networks/*_all_nets.pdf         - all network-layer visualizations for a single community, one PDF per community
-##   Figures/Networks/eg_agg_nets.pdf         - example aggregate-network visualizations for selected communities
-##
-## -- Layer overlap (edge- and alter-level) --
-##   Figures/Networks/edge_overlap_heatmap.pdf          - edge-weight and binary-edge correlation across layers, by community
-##   Figures/Networks/edge_overlap_heatmap_pooled.png    - edge-weight and binary-edge correlation across layers, pooled across communities
-##   Figures/Networks/alter_overlap_heatmap.pdf           - Jaccard similarity of nominated individuals/sharing units across layers, by community
-##   Figures/Networks/alter_overlap_heatmap_pooled.png     - Jaccard similarity of nominated individuals/sharing units across layers, pooled
-##
-## -- Principal component analysis of network layers --
-##   Tables/pca_loadings_weighted_pooled.tex            - PCA loadings on edge weights, pooled across communities
-##   Tables/pca_loadings_weighted_sites.tex              - PCA loadings on edge weights, by community
-##   Tables/pca_loadings_binary_sites.tex                 - PCA loadings on binarized edges, by community
-##   Figures/Networks/pca_scree_weighted_sites.pdf        - variance explained by PC (weighted), by community
-##   Figures/Networks/pca_biplot_weighted_sites.pdf        - PC1/PC2 correlation circle (weighted), by community
-##   Figures/Networks/pca_biplot_weighted_23_sites.pdf      - PC2/PC3 correlation circle (weighted), by community
-##   Figures/Networks/pca_scree_binary_sites.pdf             - variance explained by PC (binary), by community
-##   Figures/Networks/pca_biplot_binary_sites.pdf             - PC1/PC2 correlation circle (binary), by community
-##   Figures/Networks/pca_biplot_binary_23_sites.pdf            - PC2/PC3 correlation circle (binary), by community
-##   Figures/Networks/pca_scree_weighted_pooled.png              - variance explained by PC (weighted), pooled
-##   Figures/Networks/pca_biplot_weighted_pooled.png               - PC1/PC2 correlation circle (weighted), pooled
-##   Figures/Networks/pca_biplot_weighted_23_pooled.png             - PC2/PC3 correlation circle (weighted), pooled
-##   Figures/Networks/pca_scree_binary_pooled.png                    - variance explained by PC (binary), pooled
-##   Figures/Networks/pca_biplot_binary_pooled.png                    - PC1/PC2 correlation circle (binary), pooled
-##   Figures/Networks/pca_biplot_binary_23_pooled.png                  - PC2/PC3 correlation circle (binary), pooled
-##   Figures/Networks/pca_biplot_weighted_az.png, _ti.png, _ni.png       - PC1/PC2 correlation circles for selected individual communities
-
 # to prevent function conflicts!
 if ("package:reshape2" %in% search()) {
   detach("package:reshape2", unload = TRUE)
@@ -95,27 +19,16 @@ if ("package:plyr" %in% search()) {
 
 library(dplyr)
 library(ggplot2)
-library(plm)
 library(tidyverse)
-library(gridExtra)
 library(igraph)
 library(patchwork)
-library(ggforce)
 
 ## specifying here sites to drop:
 SITES_TO_DROP <- c("BZ", "PS")
-#  "BZ" # not fully processed through, and doesn't want to be included
+#  "BZ" # not fully processed through
 #  "PS" # poor coverage of sharing units (53%)
 
-# NOTE: If this sources versions of the underlying data files generated for
-# the main ENDOW paper *you will be missing some sites that we can include
-# here* -- sites that are dropped there because of poor _wealth_ coverage.
-# If so, you need to go back to 00_run_all.R and regenerate the main files.
-
-# These three variables must be defined in your .Rprofile (see README.md).
-# EndowGitHub  — path to this repository (ENDOW-wealth-corr)
-# EndowDatabase — path to the endow-database repository
-# EndowDropbox — path to your local ENDOW Dropbox folder
+# These variables must be defined in your .Rprofile (see README.md).
 
 if (!exists("EndowGitHub") || !is.character(EndowGitHub)) {
   stop(
@@ -147,6 +60,22 @@ if (!exists("EndowDerivedData")) {
 
 figpath <- file.path(EndowDropbox, "Figures", "DescriptiveStats")
 tablepath <- file.path(EndowDropbox, "Tables", "DescriptiveStats")
+csvpath <- file.path(
+  gsub("endow-wealth-corr", "endow-net-descrip", EndowGitHub, ignore.case = TRUE),
+  "FauxDataOutputs"
+) # in our private codebase with access to the actual data, this what writes to "ActualDataOutputs" in _this_ repo.
+
+# create any folders, if needed
+for (d in c(
+    file.path(EndowDropbox, "Figures", c("DescriptiveStats", "Networks")),
+    file.path(EndowDropbox, "Tables", "DescriptiveStats",
+              c("name-generator-prompts", "network-summary-stats", "nomination-summary-stats")),
+    file.path(csvpath, c("name-generator-prompts", "network-summary-stats", "nomination-summary-stats"))
+  )) dir.create(d, recursive = TRUE, showWarnings = FALSE)
+
+sysfonts::font_add_google("Roboto Mono", "roboto", regular.wt = 400)
+showtext::showtext_auto()
+showtext::showtext_opts(dpi = 300)
 
 # Load key data files
 load(file.path(EndowDerivedData, "su_alters.rdata"))
@@ -168,14 +97,18 @@ site_codes <- sort(names(su_alters))
 
 ## specifically for NP, for the counts here, need to drop people who are not residents
 # some of them did the survey but the ethnog says they shouldn't be included
-people_observations$NP <- people_observations$NP[people_observations$NP$is_resident == 1,]
+if ("NP" %in% names(people_observations)) {
+  people_observations$NP <- people_observations$NP[people_observations$NP$is_resident == 1,]
+}
 
 ## For MY, M and F household heads surveyed jointly, vars are female_hh, male_hh
 # NOTE: this presumes that if recorded as male_hh (or female_hh), were present!
-people_observations$MY$surveyed <- people_observations$MY$personid %in%
-  c(networks$MY$female_hh, networks$MY$male_hh)
-# treating female_hh as single reporter for our purposes to get personid variable
-networks$MY$personid <- networks$MY$female_hh
+if ("MY" %in% names(people_observations)) {
+  people_observations$MY$surveyed <- people_observations$MY$personid %in%
+    c(networks$MY$female_hh, networks$MY$male_hh)
+  # treating female_hh as single reporter for our purposes to get personid variable
+  networks$MY$personid <- networks$MY$female_hh
+}
 
 ## For MK, questions 5/6 asked without gender specification of everyone; two
 ## questions posed (so entries in networks of 5/6a and 5/6b; in agg network, use
@@ -184,71 +117,70 @@ networks$MY$personid <- networks$MY$female_hh
 ## that for 'aggregate' nominations, end up with same set used in main analyses
 ## but then for things using gender-specific questions, removing those questions
 ## (see below following delineation of alters_summary object)
-networks$MK <- networks$MK |>
-  dplyr::mutate(tie_orig = tie) |>
-  # Expand "7/8" rows into two rows before recoding
-  #(\(d) {
-    #dplyr::bind_rows(
-    #  d,
-    #  d |> dplyr::filter(tie == "7/8") |> dplyr::mutate(tie = "8")
-    #)
-  #})() |>
-  dplyr::mutate(
-    tie = dplyr::case_when(
-      tie == "5/6a" ~ "5",
-      #tie == "5/6b" ~ "6",
-      tie == "7/8" ~ "7",
-      TRUE ~ tie
-    ),
-    tie = as.numeric(tie)
-  )
+if ("MK" %in% names(networks)) {
+  networks$MK <- networks$MK |>
+    dplyr::mutate(tie_orig = tie) |>
+    dplyr::mutate(
+      tie = dplyr::case_when(
+        tie == "5/6a" ~ "5",
+        #tie == "5/6b" ~ "6",
+        tie == "7/8" ~ "7",
+        TRUE ~ tie
+      ),
+      tie = as.numeric(tie)
+    )
+}
 
 ## split AZ and TE from TN
-networks$AZ <- networks$TN |>
-  dplyr::filter(personid %in% (
-    people_observations$TN |>
-      dplyr::filter(location == "alakapuram") |>
-      dplyr::pull(personid)
-  ))
+if ("TN" %in% names(networks)) {
+  networks$AZ <- networks$TN |>
+    dplyr::filter(personid %in% (
+      people_observations$TN |>
+        dplyr::filter(location == "alakapuram") |>
+        dplyr::pull(personid)
+    ))
 
-networks$TE <- networks$TN |>
-  dplyr::filter(personid %in% (
-    people_observations$TN |>
-      dplyr::filter(location == "tenpatti") |>
-      dplyr::pull(personid)
-  ))
+  networks$TE <- networks$TN |>
+    dplyr::filter(personid %in% (
+      people_observations$TN |>
+        dplyr::filter(location == "tenpatti") |>
+        dplyr::pull(personid)
+    ))
+}
 
 ## split MC into MC and AP
-networks$AP <- networks$MC |>
-  dplyr::filter(personid %in% (
-    people_observations$MC |>
-      dplyr::filter(location == "2") |>
-      dplyr::pull(personid)
-  ))
+if ("MC" %in% names(networks)) {
+  networks$AP <- networks$MC |>
+    dplyr::filter(personid %in% (
+      people_observations$MC |>
+        dplyr::filter(location == "2") |>
+        dplyr::pull(personid)
+    ))
 
-networks$MC <- networks$MC |>
-  dplyr::filter(personid %in% (
-    people_observations$MC |>
-      dplyr::filter(location == "1") |>
-      dplyr::pull(personid)
-  ))
+  networks$MC <- networks$MC |>
+    dplyr::filter(personid %in% (
+      people_observations$MC |>
+        dplyr::filter(location == "1") |>
+        dplyr::pull(personid)
+    ))
+}
 
 ## Defining some sets of sites based on who was asked which questions, used in
 ## nomination_counts_composition and concordance_within_su.
 ## In MA and KO, *all* questions seem to have been asked *either* of men or women
 ## specifically: men asked 1, 2, 6, 8, 9, 10; women asked 3, 4, 5, 7
 ## no exceptions to this in MA, a few exceptions to this in KO --  WRONG to be
-## listing both genders in as having been presented all questions, so below we
-## turn these two sites to NAs (meaning we ignore the handful of exceptions in KO)
+## listing both genders as having been presented all questions, so below we
+## turn these two sites to NAs (meaning we ignore the handful of exceptions in KO).
 ## In MK, behav and info questions were asked of all respondents (56a, 56b, 78), but
 ## questions weren't gender-specific, so wouldn't fit in with those name gens.
 ## They did have questions which are used in the aggregate, but we can't label
 ## them within the men or women-specific questions. So used to construct agg, then
-## removed from outputs using gender-specific name gen/layer
-## In MG, men were asked Qs now coded as: 1, 2, 3, 4, 6, 8, 9, 10 (no female Qs)
-## In MG, *married* women were asked Qs now coded as: 1:10 (for 1:4, 9, 10 this
+## removed from outputs using gender-specific name gen/layer.
+## In MG, men were asked Qs coded as: 1, 2, 3, 4, 6, 8, 9, 10 (no female Qs)
+## In MG, *married* women were asked Qs coded as: 1:10 (for 1:4, 9, 10 this
 ## collapses questions posed about them and about their husbands)
-## In MG, other women were asked 1, 2, 3, 4, 5, 7, 9, 10
+## In MG, other women were asked 1, 2, 3, 4, 5, 7, 9, 10.
 
 gender_specific_sites <- c("IH", "WH", "PC", "WL", "AV", "DJ", "PE", "TZ", "AP", "MC", "PQ")
 two_nine_ten <- c("PC", "IH", "WH", "WL")
@@ -259,11 +191,6 @@ ko_ma_women <- c(3, 4, 5, 7)
 mg_men <- c(1, 2, 3, 4, 6, 8, 9, 10)
 mg_married_women <- 1:10
 mg_other_women <- c(1, 2, 3, 4, 5, 7, 9, 10)
-# for MG, also have mg_resp object created in process_data.R
-
-sysfonts::font_add_google("Roboto Mono", "roboto", regular.wt = 400)
-showtext::showtext_auto()
-showtext::showtext_opts(dpi = 300)
 
 # ── Common look ups for plots and tables ────────────────────────────────────────────────
 
@@ -343,7 +270,9 @@ site_style <- data.frame(
 site_colour_map   <- setNames(site_style$colour,   site_style$site)
 site_linetype_map <- setNames(site_style$linetype, site_style$site)
 
+# ── Edge Weights ────────────────────────────────────────────────
 ## create new weighted edges that for each layer align with what we do in the aggregate "sum" network
+
 layer_divisor_map <- list(
   loan_req     = "num_surv",
   loan_giv     = "num_surv",
@@ -353,8 +282,8 @@ layer_divisor_map <- list(
   f_info       = "num_surv_female_q",
   m_behav      = "num_surv_male_q",
   m_info       = "num_surv_male_q",
-  govt         = "num_surv",
-  external     = "num_surv"
+  govt         = "num_surv"
+  #external     = "num_surv" # this is already normalized by num_surv in analyse_data_and_create_networks.R
 )
 
 for (site_name in names(su_nets_expanded)) {
@@ -368,12 +297,13 @@ for (site_name in names(su_nets_expanded)) {
     divisor_vals <- igraph::vertex_attr(g, divisor_attr)
 
     if(site_name == "MG") {
-      if(layer_name %in% c("loan_req", "loan_giv", "govt", "external")) {
+      if (layer_name %in% c("loan_req", "loan_giv", "govt")) {
         # for these questions, married women were additionally
         # asked second name generators *about their husbands*, giving them two chances to
         # name partners, so while there is only 1 respondent, then number of opportunities
-        # to answer for those questions were 2, not one.
+        # to answer for those questions was 2, not one.
         # doing equivalent here as in process_data.R and analyse_data_and_create_networks.R
+        # not doing external, as already done in analyse_data_and_create_networks.R
         mg_resp <- people_observations$MG |>
           dplyr::filter(personid %in% networks$MG$personid) |>
           dplyr::select(su_id, personid, gender, marital_status) |>
@@ -388,7 +318,7 @@ for (site_name in names(su_nets_expanded)) {
         divisor_vals <- mg_resp$surveyed_loan_ext[match(
           igraph::vertex_attr(g, "name"),
           mg_resp$su_id
-          )]
+        )]
       }
     }
 
@@ -408,12 +338,16 @@ for (site_name in names(su_nets_expanded)) {
   }
 }
 
-# for ease, adding similarly named edge attr for sum network
+# These saved layers are already normalized during network construction
+# (including the MG adjustments) in analyse_data_and_create_networks.R.
+# Reuse their weights.
 for (site_name in names(su_nets_expanded)) {
-    g <- su_nets_expanded[[site_name]]$sum
+  for (layer_name in c("sum", "external")) {
+    g <- su_nets_expanded[[site_name]][[layer_name]]
     if (is.null(g)) next
     igraph::edge_attr(g, "weight_per_resp") <- igraph::edge_attr(g, "weight")
-    su_nets_expanded[[site_name]]$sum <- g
+    su_nets_expanded[[site_name]][[layer_name]] <- g
+  }
 }
 
 # DROP SHARING UNITS NOT SAMPLED FOR NETWORK QUESTIONS

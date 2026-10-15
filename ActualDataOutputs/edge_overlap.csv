@@ -1,0 +1,4591 @@
+Community,Layer 1,Layer 2,Pearsons r Weighted,Pearsons r Binary
+all,Lend money,Borrow money,0.595,0.535
+all,Borrow goods,Borrow money,0.428,0.383
+all,Lend goods,Borrow money,0.362,0.331
+all,Women behav.,Borrow money,0.334,0.282
+all,Men behav.,Borrow money,0.304,0.255
+all,Women info.,Borrow money,0.371,0.326
+all,Men info.,Borrow money,0.312,0.279
+all,Gov/NGO,Borrow money,0.062,0.058
+all,External support,Borrow money,0.078,0.097
+all,Borrow money,Lend money,0.595,0.535
+all,Borrow goods,Lend money,0.444,0.397
+all,Lend goods,Lend money,0.431,0.396
+all,Women behav.,Lend money,0.358,0.305
+all,Men behav.,Lend money,0.323,0.277
+all,Women info.,Lend money,0.394,0.353
+all,Men info.,Lend money,0.318,0.29
+all,Gov/NGO,Lend money,0.044,0.041
+all,External support,Lend money,0.062,0.074
+all,Borrow money,Borrow goods,0.428,0.383
+all,Lend money,Borrow goods,0.444,0.397
+all,Lend goods,Borrow goods,0.698,0.625
+all,Women behav.,Borrow goods,0.465,0.382
+all,Men behav.,Borrow goods,0.382,0.315
+all,Women info.,Borrow goods,0.481,0.409
+all,Men info.,Borrow goods,0.332,0.281
+all,Gov/NGO,Borrow goods,0.041,0.043
+all,External support,Borrow goods,0.063,0.084
+all,Borrow money,Lend goods,0.362,0.331
+all,Lend money,Lend goods,0.431,0.396
+all,Borrow goods,Lend goods,0.698,0.625
+all,Women behav.,Lend goods,0.441,0.375
+all,Men behav.,Lend goods,0.368,0.304
+all,Women info.,Lend goods,0.48,0.413
+all,Men info.,Lend goods,0.331,0.28
+all,Gov/NGO,Lend goods,0.035,0.036
+all,External support,Lend goods,0.036,0.053
+all,Borrow money,Women behav.,0.334,0.282
+all,Lend money,Women behav.,0.358,0.305
+all,Borrow goods,Women behav.,0.465,0.382
+all,Lend goods,Women behav.,0.441,0.375
+all,Men behav.,Women behav.,0.375,0.286
+all,Women info.,Women behav.,0.465,0.383
+all,Men info.,Women behav.,0.266,0.207
+all,Gov/NGO,Women behav.,0.024,0.026
+all,External support,Women behav.,0.035,0.051
+all,Borrow money,Men behav.,0.304,0.255
+all,Lend money,Men behav.,0.323,0.277
+all,Borrow goods,Men behav.,0.382,0.315
+all,Lend goods,Men behav.,0.368,0.304
+all,Women behav.,Men behav.,0.375,0.286
+all,Women info.,Men behav.,0.314,0.238
+all,Men info.,Men behav.,0.398,0.348
+all,Gov/NGO,Men behav.,0.035,0.032
+all,External support,Men behav.,0.037,0.056
+all,Borrow money,Women info.,0.371,0.326
+all,Lend money,Women info.,0.394,0.353
+all,Borrow goods,Women info.,0.481,0.409
+all,Lend goods,Women info.,0.48,0.413
+all,Women behav.,Women info.,0.465,0.383
+all,Men behav.,Women info.,0.314,0.238
+all,Men info.,Women info.,0.327,0.255
+all,Gov/NGO,Women info.,0.036,0.041
+all,External support,Women info.,0.045,0.058
+all,Borrow money,Men info.,0.312,0.279
+all,Lend money,Men info.,0.318,0.29
+all,Borrow goods,Men info.,0.332,0.281
+all,Lend goods,Men info.,0.331,0.28
+all,Women behav.,Men info.,0.266,0.207
+all,Men behav.,Men info.,0.398,0.348
+all,Women info.,Men info.,0.327,0.255
+all,Gov/NGO,Men info.,0.048,0.051
+all,External support,Men info.,0.05,0.069
+all,Borrow money,Gov/NGO,0.062,0.058
+all,Lend money,Gov/NGO,0.044,0.041
+all,Borrow goods,Gov/NGO,0.041,0.043
+all,Lend goods,Gov/NGO,0.035,0.036
+all,Women behav.,Gov/NGO,0.024,0.026
+all,Men behav.,Gov/NGO,0.035,0.032
+all,Women info.,Gov/NGO,0.036,0.041
+all,Men info.,Gov/NGO,0.048,0.051
+all,External support,Gov/NGO,0.051,0.053
+all,Borrow money,External support,0.078,0.097
+all,Lend money,External support,0.062,0.074
+all,Borrow goods,External support,0.063,0.084
+all,Lend goods,External support,0.036,0.053
+all,Women behav.,External support,0.035,0.051
+all,Men behav.,External support,0.037,0.056
+all,Women info.,External support,0.045,0.058
+all,Men info.,External support,0.05,0.069
+all,Gov/NGO,External support,0.051,0.053
+AH,Lend money,Borrow money,0.151,0.122
+AH,Borrow goods,Borrow money,0.047,0.047
+AH,Lend goods,Borrow money,0.064,0.059
+AH,Women behav.,Borrow money,0.065,0.064
+AH,Men behav.,Borrow money,0.026,0.025
+AH,Women info.,Borrow money,0.061,0.048
+AH,Men info.,Borrow money,0.018,0.021
+AH,Gov/NGO,Borrow money,0.014,0.016
+AH,External support,Borrow money,0.046,0.047
+AH,Borrow money,Lend money,0.151,0.122
+AH,Borrow goods,Lend money,0.107,0.125
+AH,Lend goods,Lend money,0.132,0.1
+AH,Women behav.,Lend money,0.046,0.05
+AH,Men behav.,Lend money,0.09,0.064
+AH,Women info.,Lend money,0.027,0.036
+AH,Men info.,Lend money,0.029,0.031
+AH,Gov/NGO,Lend money,-0.003,-0.003
+AH,External support,Lend money,0.034,0.038
+AH,Borrow money,Borrow goods,0.047,0.047
+AH,Lend money,Borrow goods,0.107,0.125
+AH,Lend goods,Borrow goods,0.403,0.403
+AH,Women behav.,Borrow goods,0.196,0.204
+AH,Men behav.,Borrow goods,0.34,0.328
+AH,Women info.,Borrow goods,0.158,0.163
+AH,Men info.,Borrow goods,0.18,0.18
+AH,Gov/NGO,Borrow goods,0.036,0.037
+AH,External support,Borrow goods,0.002,0.008
+AH,Borrow money,Lend goods,0.064,0.059
+AH,Lend money,Lend goods,0.132,0.1
+AH,Borrow goods,Lend goods,0.403,0.403
+AH,Women behav.,Lend goods,0.229,0.234
+AH,Men behav.,Lend goods,0.278,0.272
+AH,Women info.,Lend goods,0.196,0.185
+AH,Men info.,Lend goods,0.178,0.18
+AH,Gov/NGO,Lend goods,0.042,0.043
+AH,External support,Lend goods,-0.005,-0.005
+AH,Borrow money,Women behav.,0.065,0.064
+AH,Lend money,Women behav.,0.046,0.05
+AH,Borrow goods,Women behav.,0.196,0.204
+AH,Lend goods,Women behav.,0.229,0.234
+AH,Men behav.,Women behav.,0.159,0.142
+AH,Women info.,Women behav.,0.232,0.235
+AH,Men info.,Women behav.,0.057,0.056
+AH,Gov/NGO,Women behav.,0.036,0.028
+AH,External support,Women behav.,-0.003,-0.003
+AH,Borrow money,Men behav.,0.026,0.025
+AH,Lend money,Men behav.,0.09,0.064
+AH,Borrow goods,Men behav.,0.34,0.328
+AH,Lend goods,Men behav.,0.278,0.272
+AH,Women behav.,Men behav.,0.159,0.142
+AH,Women info.,Men behav.,0.105,0.114
+AH,Men info.,Men behav.,0.237,0.238
+AH,Gov/NGO,Men behav.,0.044,0.044
+AH,External support,Men behav.,-0.004,-0.004
+AH,Borrow money,Women info.,0.061,0.048
+AH,Lend money,Women info.,0.027,0.036
+AH,Borrow goods,Women info.,0.158,0.163
+AH,Lend goods,Women info.,0.196,0.185
+AH,Women behav.,Women info.,0.232,0.235
+AH,Men behav.,Women info.,0.105,0.114
+AH,Men info.,Women info.,0.124,0.112
+AH,Gov/NGO,Women info.,0.054,0.057
+AH,External support,Women info.,0.014,0.02
+AH,Borrow money,Men info.,0.018,0.021
+AH,Lend money,Men info.,0.029,0.031
+AH,Borrow goods,Men info.,0.18,0.18
+AH,Lend goods,Men info.,0.178,0.18
+AH,Women behav.,Men info.,0.057,0.056
+AH,Men behav.,Men info.,0.237,0.238
+AH,Women info.,Men info.,0.124,0.112
+AH,Gov/NGO,Men info.,0.06,0.067
+AH,External support,Men info.,0.007,0.006
+AH,Borrow money,Gov/NGO,0.014,0.016
+AH,Lend money,Gov/NGO,-0.003,-0.003
+AH,Borrow goods,Gov/NGO,0.036,0.037
+AH,Lend goods,Gov/NGO,0.042,0.043
+AH,Women behav.,Gov/NGO,0.036,0.028
+AH,Men behav.,Gov/NGO,0.044,0.044
+AH,Women info.,Gov/NGO,0.054,0.057
+AH,Men info.,Gov/NGO,0.06,0.067
+AH,External support,Gov/NGO,-0.002,-0.002
+AH,Borrow money,External support,0.046,0.047
+AH,Lend money,External support,0.034,0.038
+AH,Borrow goods,External support,0.002,0.008
+AH,Lend goods,External support,-0.005,-0.005
+AH,Women behav.,External support,-0.003,-0.003
+AH,Men behav.,External support,-0.004,-0.004
+AH,Women info.,External support,0.014,0.02
+AH,Men info.,External support,0.007,0.006
+AH,Gov/NGO,External support,-0.002,-0.002
+AP,Lend money,Borrow money,0.066,0.068
+AP,Borrow goods,Borrow money,0.158,0.157
+AP,Lend goods,Borrow money,0.169,0.175
+AP,Women behav.,Borrow money,0.153,0.149
+AP,Men behav.,Borrow money,0.086,0.082
+AP,Women info.,Borrow money,0.174,0.181
+AP,Men info.,Borrow money,0.318,0.272
+AP,Gov/NGO,Borrow money,0.025,0.035
+AP,External support,Borrow money,NA,NA
+AP,Borrow money,Lend money,0.066,0.068
+AP,Borrow goods,Lend money,0.644,0.551
+AP,Lend goods,Lend money,0.627,0.544
+AP,Women behav.,Lend money,0.291,0.288
+AP,Men behav.,Lend money,0.435,0.416
+AP,Women info.,Lend money,0.429,0.4
+AP,Men info.,Lend money,0.168,0.152
+AP,Gov/NGO,Lend money,-0.017,-0.018
+AP,External support,Lend money,NA,NA
+AP,Borrow money,Borrow goods,0.158,0.157
+AP,Lend money,Borrow goods,0.644,0.551
+AP,Lend goods,Borrow goods,0.889,0.862
+AP,Women behav.,Borrow goods,0.403,0.378
+AP,Men behav.,Borrow goods,0.431,0.378
+AP,Women info.,Borrow goods,0.574,0.558
+AP,Men info.,Borrow goods,0.197,0.193
+AP,Gov/NGO,Borrow goods,0.007,-0.001
+AP,External support,Borrow goods,NA,NA
+AP,Borrow money,Lend goods,0.169,0.175
+AP,Lend money,Lend goods,0.627,0.544
+AP,Borrow goods,Lend goods,0.889,0.862
+AP,Women behav.,Lend goods,0.412,0.393
+AP,Men behav.,Lend goods,0.42,0.371
+AP,Women info.,Lend goods,0.588,0.552
+AP,Men info.,Lend goods,0.202,0.22
+AP,Gov/NGO,Lend goods,0.023,0.03
+AP,External support,Lend goods,NA,NA
+AP,Borrow money,Women behav.,0.153,0.149
+AP,Lend money,Women behav.,0.291,0.288
+AP,Borrow goods,Women behav.,0.403,0.378
+AP,Lend goods,Women behav.,0.412,0.393
+AP,Men behav.,Women behav.,0.257,0.246
+AP,Women info.,Women behav.,0.404,0.392
+AP,Men info.,Women behav.,0.161,0.163
+AP,Gov/NGO,Women behav.,0.032,0.034
+AP,External support,Women behav.,NA,NA
+AP,Borrow money,Men behav.,0.086,0.082
+AP,Lend money,Men behav.,0.435,0.416
+AP,Borrow goods,Men behav.,0.431,0.378
+AP,Lend goods,Men behav.,0.42,0.371
+AP,Women behav.,Men behav.,0.257,0.246
+AP,Women info.,Men behav.,0.251,0.246
+AP,Men info.,Men behav.,0.168,0.164
+AP,Gov/NGO,Men behav.,-0.006,-0.006
+AP,External support,Men behav.,NA,NA
+AP,Borrow money,Women info.,0.174,0.181
+AP,Lend money,Women info.,0.429,0.4
+AP,Borrow goods,Women info.,0.574,0.558
+AP,Lend goods,Women info.,0.588,0.552
+AP,Women behav.,Women info.,0.404,0.392
+AP,Men behav.,Women info.,0.251,0.246
+AP,Men info.,Women info.,0.13,0.136
+AP,Gov/NGO,Women info.,0.038,0.046
+AP,External support,Women info.,NA,NA
+AP,Borrow money,Men info.,0.318,0.272
+AP,Lend money,Men info.,0.168,0.152
+AP,Borrow goods,Men info.,0.197,0.193
+AP,Lend goods,Men info.,0.202,0.22
+AP,Women behav.,Men info.,0.161,0.163
+AP,Men behav.,Men info.,0.168,0.164
+AP,Women info.,Men info.,0.13,0.136
+AP,Gov/NGO,Men info.,-0.026,-0.031
+AP,External support,Men info.,NA,NA
+AP,Borrow money,Gov/NGO,0.025,0.035
+AP,Lend money,Gov/NGO,-0.017,-0.018
+AP,Borrow goods,Gov/NGO,0.007,-0.001
+AP,Lend goods,Gov/NGO,0.023,0.03
+AP,Women behav.,Gov/NGO,0.032,0.034
+AP,Men behav.,Gov/NGO,-0.006,-0.006
+AP,Women info.,Gov/NGO,0.038,0.046
+AP,Men info.,Gov/NGO,-0.026,-0.031
+AP,External support,Gov/NGO,NA,NA
+AP,Borrow money,External support,NA,NA
+AP,Lend money,External support,NA,NA
+AP,Borrow goods,External support,NA,NA
+AP,Lend goods,External support,NA,NA
+AP,Women behav.,External support,NA,NA
+AP,Men behav.,External support,NA,NA
+AP,Women info.,External support,NA,NA
+AP,Men info.,External support,NA,NA
+AP,Gov/NGO,External support,NA,NA
+AR,Lend money,Borrow money,0.52,0.526
+AR,Borrow goods,Borrow money,0.382,0.345
+AR,Lend goods,Borrow money,0.261,0.249
+AR,Women behav.,Borrow money,0.299,0.284
+AR,Men behav.,Borrow money,0.21,0.199
+AR,Women info.,Borrow money,0.25,0.258
+AR,Men info.,Borrow money,0.192,0.161
+AR,Gov/NGO,Borrow money,0.037,0.034
+AR,External support,Borrow money,0.053,0.055
+AR,Borrow money,Lend money,0.52,0.526
+AR,Borrow goods,Lend money,0.468,0.41
+AR,Lend goods,Lend money,0.403,0.386
+AR,Women behav.,Lend money,0.414,0.34
+AR,Men behav.,Lend money,0.272,0.246
+AR,Women info.,Lend money,0.306,0.313
+AR,Men info.,Lend money,0.259,0.213
+AR,Gov/NGO,Lend money,0.032,0.028
+AR,External support,Lend money,0.057,0.051
+AR,Borrow money,Borrow goods,0.382,0.345
+AR,Lend money,Borrow goods,0.468,0.41
+AR,Lend goods,Borrow goods,0.463,0.474
+AR,Women behav.,Borrow goods,0.301,0.263
+AR,Men behav.,Borrow goods,0.189,0.157
+AR,Women info.,Borrow goods,0.36,0.361
+AR,Men info.,Borrow goods,0.174,0.148
+AR,Gov/NGO,Borrow goods,0.017,0.01
+AR,External support,Borrow goods,0.1,0.092
+AR,Borrow money,Lend goods,0.261,0.249
+AR,Lend money,Lend goods,0.403,0.386
+AR,Borrow goods,Lend goods,0.463,0.474
+AR,Women behav.,Lend goods,0.275,0.259
+AR,Men behav.,Lend goods,0.185,0.165
+AR,Women info.,Lend goods,0.285,0.287
+AR,Men info.,Lend goods,0.14,0.146
+AR,Gov/NGO,Lend goods,0.042,0.015
+AR,External support,Lend goods,0.05,0.043
+AR,Borrow money,Women behav.,0.299,0.284
+AR,Lend money,Women behav.,0.414,0.34
+AR,Borrow goods,Women behav.,0.301,0.263
+AR,Lend goods,Women behav.,0.275,0.259
+AR,Men behav.,Women behav.,0.298,0.284
+AR,Women info.,Women behav.,0.268,0.258
+AR,Men info.,Women behav.,0.125,0.113
+AR,Gov/NGO,Women behav.,0.029,0.034
+AR,External support,Women behav.,0.023,0.023
+AR,Borrow money,Men behav.,0.21,0.199
+AR,Lend money,Men behav.,0.272,0.246
+AR,Borrow goods,Men behav.,0.189,0.157
+AR,Lend goods,Men behav.,0.185,0.165
+AR,Women behav.,Men behav.,0.298,0.284
+AR,Women info.,Men behav.,0.205,0.185
+AR,Men info.,Men behav.,0.276,0.277
+AR,Gov/NGO,Men behav.,0.006,0.008
+AR,External support,Men behav.,0.069,0.065
+AR,Borrow money,Women info.,0.25,0.258
+AR,Lend money,Women info.,0.306,0.313
+AR,Borrow goods,Women info.,0.36,0.361
+AR,Lend goods,Women info.,0.285,0.287
+AR,Women behav.,Women info.,0.268,0.258
+AR,Men behav.,Women info.,0.205,0.185
+AR,Men info.,Women info.,0.152,0.141
+AR,Gov/NGO,Women info.,0.062,0.058
+AR,External support,Women info.,0.032,0.037
+AR,Borrow money,Men info.,0.192,0.161
+AR,Lend money,Men info.,0.259,0.213
+AR,Borrow goods,Men info.,0.174,0.148
+AR,Lend goods,Men info.,0.14,0.146
+AR,Women behav.,Men info.,0.125,0.113
+AR,Men behav.,Men info.,0.276,0.277
+AR,Women info.,Men info.,0.152,0.141
+AR,Gov/NGO,Men info.,0.002,-0.001
+AR,External support,Men info.,0.032,0.04
+AR,Borrow money,Gov/NGO,0.037,0.034
+AR,Lend money,Gov/NGO,0.032,0.028
+AR,Borrow goods,Gov/NGO,0.017,0.01
+AR,Lend goods,Gov/NGO,0.042,0.015
+AR,Women behav.,Gov/NGO,0.029,0.034
+AR,Men behav.,Gov/NGO,0.006,0.008
+AR,Women info.,Gov/NGO,0.062,0.058
+AR,Men info.,Gov/NGO,0.002,-0.001
+AR,External support,Gov/NGO,0.018,0.008
+AR,Borrow money,External support,0.053,0.055
+AR,Lend money,External support,0.057,0.051
+AR,Borrow goods,External support,0.1,0.092
+AR,Lend goods,External support,0.05,0.043
+AR,Women behav.,External support,0.023,0.023
+AR,Men behav.,External support,0.069,0.065
+AR,Women info.,External support,0.032,0.037
+AR,Men info.,External support,0.032,0.04
+AR,Gov/NGO,External support,0.018,0.008
+AV,Lend money,Borrow money,0.656,0.611
+AV,Borrow goods,Borrow money,0.538,0.492
+AV,Lend goods,Borrow money,0.403,0.377
+AV,Women behav.,Borrow money,0.435,0.368
+AV,Men behav.,Borrow money,0.422,0.395
+AV,Women info.,Borrow money,0.351,0.27
+AV,Men info.,Borrow money,0.277,0.274
+AV,Gov/NGO,Borrow money,NA,NA
+AV,External support,Borrow money,NA,NA
+AV,Borrow money,Lend money,0.656,0.611
+AV,Borrow goods,Lend money,0.578,0.477
+AV,Lend goods,Lend money,0.488,0.453
+AV,Women behav.,Lend money,0.509,0.4
+AV,Men behav.,Lend money,0.461,0.418
+AV,Women info.,Lend money,0.36,0.29
+AV,Men info.,Lend money,0.286,0.285
+AV,Gov/NGO,Lend money,NA,NA
+AV,External support,Lend money,NA,NA
+AV,Borrow money,Borrow goods,0.538,0.492
+AV,Lend money,Borrow goods,0.578,0.477
+AV,Lend goods,Borrow goods,0.479,0.434
+AV,Women behav.,Borrow goods,0.461,0.329
+AV,Men behav.,Borrow goods,0.356,0.31
+AV,Women info.,Borrow goods,0.403,0.299
+AV,Men info.,Borrow goods,0.229,0.248
+AV,Gov/NGO,Borrow goods,NA,NA
+AV,External support,Borrow goods,NA,NA
+AV,Borrow money,Lend goods,0.403,0.377
+AV,Lend money,Lend goods,0.488,0.453
+AV,Borrow goods,Lend goods,0.479,0.434
+AV,Women behav.,Lend goods,0.373,0.326
+AV,Men behav.,Lend goods,0.309,0.277
+AV,Women info.,Lend goods,0.255,0.253
+AV,Men info.,Lend goods,0.194,0.203
+AV,Gov/NGO,Lend goods,NA,NA
+AV,External support,Lend goods,NA,NA
+AV,Borrow money,Women behav.,0.435,0.368
+AV,Lend money,Women behav.,0.509,0.4
+AV,Borrow goods,Women behav.,0.461,0.329
+AV,Lend goods,Women behav.,0.373,0.326
+AV,Men behav.,Women behav.,0.14,0.106
+AV,Women info.,Women behav.,0.439,0.397
+AV,Men info.,Women behav.,0.075,0.06
+AV,Gov/NGO,Women behav.,NA,NA
+AV,External support,Women behav.,NA,NA
+AV,Borrow money,Men behav.,0.422,0.395
+AV,Lend money,Men behav.,0.461,0.418
+AV,Borrow goods,Men behav.,0.356,0.31
+AV,Lend goods,Men behav.,0.309,0.277
+AV,Women behav.,Men behav.,0.14,0.106
+AV,Women info.,Men behav.,0.109,0.067
+AV,Men info.,Men behav.,0.431,0.431
+AV,Gov/NGO,Men behav.,NA,NA
+AV,External support,Men behav.,NA,NA
+AV,Borrow money,Women info.,0.351,0.27
+AV,Lend money,Women info.,0.36,0.29
+AV,Borrow goods,Women info.,0.403,0.299
+AV,Lend goods,Women info.,0.255,0.253
+AV,Women behav.,Women info.,0.439,0.397
+AV,Men behav.,Women info.,0.109,0.067
+AV,Men info.,Women info.,0.068,0.05
+AV,Gov/NGO,Women info.,NA,NA
+AV,External support,Women info.,NA,NA
+AV,Borrow money,Men info.,0.277,0.274
+AV,Lend money,Men info.,0.286,0.285
+AV,Borrow goods,Men info.,0.229,0.248
+AV,Lend goods,Men info.,0.194,0.203
+AV,Women behav.,Men info.,0.075,0.06
+AV,Men behav.,Men info.,0.431,0.431
+AV,Women info.,Men info.,0.068,0.05
+AV,Gov/NGO,Men info.,NA,NA
+AV,External support,Men info.,NA,NA
+AV,Borrow money,Gov/NGO,NA,NA
+AV,Lend money,Gov/NGO,NA,NA
+AV,Borrow goods,Gov/NGO,NA,NA
+AV,Lend goods,Gov/NGO,NA,NA
+AV,Women behav.,Gov/NGO,NA,NA
+AV,Men behav.,Gov/NGO,NA,NA
+AV,Women info.,Gov/NGO,NA,NA
+AV,Men info.,Gov/NGO,NA,NA
+AV,External support,Gov/NGO,NA,NA
+AV,Borrow money,External support,NA,NA
+AV,Lend money,External support,NA,NA
+AV,Borrow goods,External support,NA,NA
+AV,Lend goods,External support,NA,NA
+AV,Women behav.,External support,NA,NA
+AV,Men behav.,External support,NA,NA
+AV,Women info.,External support,NA,NA
+AV,Men info.,External support,NA,NA
+AV,Gov/NGO,External support,NA,NA
+AZ,Lend money,Borrow money,0.747,0.656
+AZ,Borrow goods,Borrow money,0.622,0.559
+AZ,Lend goods,Borrow money,0.593,0.533
+AZ,Women behav.,Borrow money,0.575,0.501
+AZ,Men behav.,Borrow money,0.43,0.349
+AZ,Women info.,Borrow money,0.531,0.484
+AZ,Men info.,Borrow money,0.388,0.343
+AZ,Gov/NGO,Borrow money,0.098,0.064
+AZ,External support,Borrow money,0.035,0.05
+AZ,Borrow money,Lend money,0.747,0.656
+AZ,Borrow goods,Lend money,0.642,0.583
+AZ,Lend goods,Lend money,0.641,0.575
+AZ,Women behav.,Lend money,0.563,0.488
+AZ,Men behav.,Lend money,0.415,0.363
+AZ,Women info.,Lend money,0.539,0.49
+AZ,Men info.,Lend money,0.356,0.322
+AZ,Gov/NGO,Lend money,0.084,0.063
+AZ,External support,Lend money,0.02,0.036
+AZ,Borrow money,Borrow goods,0.622,0.559
+AZ,Lend money,Borrow goods,0.642,0.583
+AZ,Lend goods,Borrow goods,0.85,0.805
+AZ,Women behav.,Borrow goods,0.576,0.525
+AZ,Men behav.,Borrow goods,0.39,0.352
+AZ,Women info.,Borrow goods,0.578,0.514
+AZ,Men info.,Borrow goods,0.358,0.324
+AZ,Gov/NGO,Borrow goods,0.083,0.082
+AZ,External support,Borrow goods,0.031,0.053
+AZ,Borrow money,Lend goods,0.593,0.533
+AZ,Lend money,Lend goods,0.641,0.575
+AZ,Borrow goods,Lend goods,0.85,0.805
+AZ,Women behav.,Lend goods,0.579,0.522
+AZ,Men behav.,Lend goods,0.408,0.353
+AZ,Women info.,Lend goods,0.572,0.522
+AZ,Men info.,Lend goods,0.357,0.322
+AZ,Gov/NGO,Lend goods,0.078,0.068
+AZ,External support,Lend goods,0.031,0.046
+AZ,Borrow money,Women behav.,0.575,0.501
+AZ,Lend money,Women behav.,0.563,0.488
+AZ,Borrow goods,Women behav.,0.576,0.525
+AZ,Lend goods,Women behav.,0.579,0.522
+AZ,Men behav.,Women behav.,0.422,0.357
+AZ,Women info.,Women behav.,0.617,0.543
+AZ,Men info.,Women behav.,0.358,0.327
+AZ,Gov/NGO,Women behav.,0.078,0.059
+AZ,External support,Women behav.,0.032,0.053
+AZ,Borrow money,Men behav.,0.43,0.349
+AZ,Lend money,Men behav.,0.415,0.363
+AZ,Borrow goods,Men behav.,0.39,0.352
+AZ,Lend goods,Men behav.,0.408,0.353
+AZ,Women behav.,Men behav.,0.422,0.357
+AZ,Women info.,Men behav.,0.336,0.301
+AZ,Men info.,Men behav.,0.538,0.528
+AZ,Gov/NGO,Men behav.,0.135,0.086
+AZ,External support,Men behav.,0.055,0.081
+AZ,Borrow money,Women info.,0.531,0.484
+AZ,Lend money,Women info.,0.539,0.49
+AZ,Borrow goods,Women info.,0.578,0.514
+AZ,Lend goods,Women info.,0.572,0.522
+AZ,Women behav.,Women info.,0.617,0.543
+AZ,Men behav.,Women info.,0.336,0.301
+AZ,Men info.,Women info.,0.338,0.296
+AZ,Gov/NGO,Women info.,0.097,0.07
+AZ,External support,Women info.,0.034,0.05
+AZ,Borrow money,Men info.,0.388,0.343
+AZ,Lend money,Men info.,0.356,0.322
+AZ,Borrow goods,Men info.,0.358,0.324
+AZ,Lend goods,Men info.,0.357,0.322
+AZ,Women behav.,Men info.,0.358,0.327
+AZ,Men behav.,Men info.,0.538,0.528
+AZ,Women info.,Men info.,0.338,0.296
+AZ,Gov/NGO,Men info.,0.085,0.087
+AZ,External support,Men info.,0.053,0.082
+AZ,Borrow money,Gov/NGO,0.098,0.064
+AZ,Lend money,Gov/NGO,0.084,0.063
+AZ,Borrow goods,Gov/NGO,0.083,0.082
+AZ,Lend goods,Gov/NGO,0.078,0.068
+AZ,Women behav.,Gov/NGO,0.078,0.059
+AZ,Men behav.,Gov/NGO,0.135,0.086
+AZ,Women info.,Gov/NGO,0.097,0.07
+AZ,Men info.,Gov/NGO,0.085,0.087
+AZ,External support,Gov/NGO,0.046,0.092
+AZ,Borrow money,External support,0.035,0.05
+AZ,Lend money,External support,0.02,0.036
+AZ,Borrow goods,External support,0.031,0.053
+AZ,Lend goods,External support,0.031,0.046
+AZ,Women behav.,External support,0.032,0.053
+AZ,Men behav.,External support,0.055,0.081
+AZ,Women info.,External support,0.034,0.05
+AZ,Men info.,External support,0.053,0.082
+AZ,Gov/NGO,External support,0.046,0.092
+BD,Lend money,Borrow money,0.486,0.466
+BD,Borrow goods,Borrow money,0.367,0.371
+BD,Lend goods,Borrow money,0.312,0.318
+BD,Women behav.,Borrow money,0.383,0.341
+BD,Men behav.,Borrow money,0.223,0.181
+BD,Women info.,Borrow money,0.335,0.284
+BD,Men info.,Borrow money,0.251,0.214
+BD,Gov/NGO,Borrow money,0.024,0.028
+BD,External support,Borrow money,0.357,0.23
+BD,Borrow money,Lend money,0.486,0.466
+BD,Borrow goods,Lend money,0.506,0.515
+BD,Lend goods,Lend money,0.592,0.611
+BD,Women behav.,Lend money,0.46,0.484
+BD,Men behav.,Lend money,0.112,0.107
+BD,Women info.,Lend money,0.39,0.386
+BD,Men info.,Lend money,0.174,0.163
+BD,Gov/NGO,Lend money,-0.006,-0.006
+BD,External support,Lend money,0.197,0.164
+BD,Borrow money,Borrow goods,0.367,0.371
+BD,Lend money,Borrow goods,0.506,0.515
+BD,Lend goods,Borrow goods,0.686,0.703
+BD,Women behav.,Borrow goods,0.498,0.528
+BD,Men behav.,Borrow goods,0.12,0.095
+BD,Women info.,Borrow goods,0.415,0.454
+BD,Men info.,Borrow goods,0.144,0.135
+BD,Gov/NGO,Borrow goods,0.041,0.043
+BD,External support,Borrow goods,0.208,0.243
+BD,Borrow money,Lend goods,0.312,0.318
+BD,Lend money,Lend goods,0.592,0.611
+BD,Borrow goods,Lend goods,0.686,0.703
+BD,Women behav.,Lend goods,0.517,0.53
+BD,Men behav.,Lend goods,0.121,0.105
+BD,Women info.,Lend goods,0.435,0.447
+BD,Men info.,Lend goods,0.172,0.163
+BD,Gov/NGO,Lend goods,-0.007,-0.007
+BD,External support,Lend goods,0.166,0.186
+BD,Borrow money,Women behav.,0.383,0.341
+BD,Lend money,Women behav.,0.46,0.484
+BD,Borrow goods,Women behav.,0.498,0.528
+BD,Lend goods,Women behav.,0.517,0.53
+BD,Men behav.,Women behav.,0.232,0.171
+BD,Women info.,Women behav.,0.4,0.363
+BD,Men info.,Women behav.,0.278,0.229
+BD,Gov/NGO,Women behav.,-0.005,-0.005
+BD,External support,Women behav.,0.185,0.191
+BD,Borrow money,Men behav.,0.223,0.181
+BD,Lend money,Men behav.,0.112,0.107
+BD,Borrow goods,Men behav.,0.12,0.095
+BD,Lend goods,Men behav.,0.121,0.105
+BD,Women behav.,Men behav.,0.232,0.171
+BD,Women info.,Men behav.,0.162,0.129
+BD,Men info.,Men behav.,0.572,0.536
+BD,Gov/NGO,Men behav.,-0.004,-0.004
+BD,External support,Men behav.,0.177,0.15
+BD,Borrow money,Women info.,0.335,0.284
+BD,Lend money,Women info.,0.39,0.386
+BD,Borrow goods,Women info.,0.415,0.454
+BD,Lend goods,Women info.,0.435,0.447
+BD,Women behav.,Women info.,0.4,0.363
+BD,Men behav.,Women info.,0.162,0.129
+BD,Men info.,Women info.,0.249,0.214
+BD,Gov/NGO,Women info.,0.014,0.015
+BD,External support,Women info.,0.308,0.28
+BD,Borrow money,Men info.,0.251,0.214
+BD,Lend money,Men info.,0.174,0.163
+BD,Borrow goods,Men info.,0.144,0.135
+BD,Lend goods,Men info.,0.172,0.163
+BD,Women behav.,Men info.,0.278,0.229
+BD,Men behav.,Men info.,0.572,0.536
+BD,Women info.,Men info.,0.249,0.214
+BD,Gov/NGO,Men info.,-0.005,-0.005
+BD,External support,Men info.,0.184,0.181
+BD,Borrow money,Gov/NGO,0.024,0.028
+BD,Lend money,Gov/NGO,-0.006,-0.006
+BD,Borrow goods,Gov/NGO,0.041,0.043
+BD,Lend goods,Gov/NGO,-0.007,-0.007
+BD,Women behav.,Gov/NGO,-0.005,-0.005
+BD,Men behav.,Gov/NGO,-0.004,-0.004
+BD,Women info.,Gov/NGO,0.014,0.015
+BD,Men info.,Gov/NGO,-0.005,-0.005
+BD,External support,Gov/NGO,-0.004,-0.004
+BD,Borrow money,External support,0.357,0.23
+BD,Lend money,External support,0.197,0.164
+BD,Borrow goods,External support,0.208,0.243
+BD,Lend goods,External support,0.166,0.186
+BD,Women behav.,External support,0.185,0.191
+BD,Men behav.,External support,0.177,0.15
+BD,Women info.,External support,0.308,0.28
+BD,Men info.,External support,0.184,0.181
+BD,Gov/NGO,External support,-0.004,-0.004
+BM,Lend money,Borrow money,0.164,0.125
+BM,Borrow goods,Borrow money,0.214,0.202
+BM,Lend goods,Borrow money,0.072,0.064
+BM,Women behav.,Borrow money,0.112,0.117
+BM,Men behav.,Borrow money,0.142,0.166
+BM,Women info.,Borrow money,0.256,0.172
+BM,Men info.,Borrow money,0.272,0.207
+BM,Gov/NGO,Borrow money,NA,NA
+BM,External support,Borrow money,-0.007,-0.008
+BM,Borrow money,Lend money,0.164,0.125
+BM,Borrow goods,Lend money,0.137,0.071
+BM,Lend goods,Lend money,0.127,0.137
+BM,Women behav.,Lend money,0.13,0.145
+BM,Men behav.,Lend money,0.204,0.197
+BM,Women info.,Lend money,0.263,0.231
+BM,Men info.,Lend money,0.25,0.205
+BM,Gov/NGO,Lend money,NA,NA
+BM,External support,Lend money,-0.007,-0.007
+BM,Borrow money,Borrow goods,0.214,0.202
+BM,Lend money,Borrow goods,0.137,0.071
+BM,Lend goods,Borrow goods,0.066,0.077
+BM,Women behav.,Borrow goods,0.148,0.175
+BM,Men behav.,Borrow goods,0.18,0.208
+BM,Women info.,Borrow goods,0.22,0.193
+BM,Men info.,Borrow goods,0.246,0.219
+BM,Gov/NGO,Borrow goods,NA,NA
+BM,External support,Borrow goods,-0.006,-0.006
+BM,Borrow money,Lend goods,0.072,0.064
+BM,Lend money,Lend goods,0.127,0.137
+BM,Borrow goods,Lend goods,0.066,0.077
+BM,Women behav.,Lend goods,0.159,0.179
+BM,Men behav.,Lend goods,0.185,0.149
+BM,Women info.,Lend goods,0.256,0.292
+BM,Men info.,Lend goods,0.243,0.261
+BM,Gov/NGO,Lend goods,NA,NA
+BM,External support,Lend goods,-0.007,-0.007
+BM,Borrow money,Women behav.,0.112,0.117
+BM,Lend money,Women behav.,0.13,0.145
+BM,Borrow goods,Women behav.,0.148,0.175
+BM,Lend goods,Women behav.,0.159,0.179
+BM,Men behav.,Women behav.,0.103,0.113
+BM,Women info.,Women behav.,0.377,0.334
+BM,Men info.,Women behav.,0.36,0.299
+BM,Gov/NGO,Women behav.,NA,NA
+BM,External support,Women behav.,-0.007,-0.007
+BM,Borrow money,Men behav.,0.142,0.166
+BM,Lend money,Men behav.,0.204,0.197
+BM,Borrow goods,Men behav.,0.18,0.208
+BM,Lend goods,Men behav.,0.185,0.149
+BM,Women behav.,Men behav.,0.103,0.113
+BM,Women info.,Men behav.,0.203,0.229
+BM,Men info.,Men behav.,0.242,0.273
+BM,Gov/NGO,Men behav.,NA,NA
+BM,External support,Men behav.,0.034,0.081
+BM,Borrow money,Women info.,0.256,0.172
+BM,Lend money,Women info.,0.263,0.231
+BM,Borrow goods,Women info.,0.22,0.193
+BM,Lend goods,Women info.,0.256,0.292
+BM,Women behav.,Women info.,0.377,0.334
+BM,Men behav.,Women info.,0.203,0.229
+BM,Men info.,Women info.,0.932,0.893
+BM,Gov/NGO,Women info.,NA,NA
+BM,External support,Women info.,-0.007,-0.007
+BM,Borrow money,Men info.,0.272,0.207
+BM,Lend money,Men info.,0.25,0.205
+BM,Borrow goods,Men info.,0.246,0.219
+BM,Lend goods,Men info.,0.243,0.261
+BM,Women behav.,Men info.,0.36,0.299
+BM,Men behav.,Men info.,0.242,0.273
+BM,Women info.,Men info.,0.932,0.893
+BM,Gov/NGO,Men info.,NA,NA
+BM,External support,Men info.,0.095,0.129
+BM,Borrow money,Gov/NGO,NA,NA
+BM,Lend money,Gov/NGO,NA,NA
+BM,Borrow goods,Gov/NGO,NA,NA
+BM,Lend goods,Gov/NGO,NA,NA
+BM,Women behav.,Gov/NGO,NA,NA
+BM,Men behav.,Gov/NGO,NA,NA
+BM,Women info.,Gov/NGO,NA,NA
+BM,Men info.,Gov/NGO,NA,NA
+BM,External support,Gov/NGO,NA,NA
+BM,Borrow money,External support,-0.007,-0.008
+BM,Lend money,External support,-0.007,-0.007
+BM,Borrow goods,External support,-0.006,-0.006
+BM,Lend goods,External support,-0.007,-0.007
+BM,Women behav.,External support,-0.007,-0.007
+BM,Men behav.,External support,0.034,0.081
+BM,Women info.,External support,-0.007,-0.007
+BM,Men info.,External support,0.095,0.129
+BM,Gov/NGO,External support,NA,NA
+BY,Lend money,Borrow money,0.096,0.074
+BY,Borrow goods,Borrow money,0.075,0.086
+BY,Lend goods,Borrow money,0.03,0.076
+BY,Women behav.,Borrow money,-0.018,-0.025
+BY,Men behav.,Borrow money,0.027,0.03
+BY,Women info.,Borrow money,0.112,0.053
+BY,Men info.,Borrow money,0.001,0.015
+BY,Gov/NGO,Borrow money,NA,NA
+BY,External support,Borrow money,-0.003,-0.004
+BY,Borrow money,Lend money,0.096,0.074
+BY,Borrow goods,Lend money,0.398,0.35
+BY,Lend goods,Lend money,0.412,0.38
+BY,Women behav.,Lend money,0.433,0.364
+BY,Men behav.,Lend money,0.282,0.308
+BY,Women info.,Lend money,0.362,0.323
+BY,Men info.,Lend money,0.36,0.339
+BY,Gov/NGO,Lend money,NA,NA
+BY,External support,Lend money,-0.013,-0.015
+BY,Borrow money,Borrow goods,0.075,0.086
+BY,Lend money,Borrow goods,0.398,0.35
+BY,Lend goods,Borrow goods,0.725,0.572
+BY,Women behav.,Borrow goods,0.602,0.458
+BY,Men behav.,Borrow goods,0.41,0.35
+BY,Women info.,Borrow goods,0.635,0.5
+BY,Men info.,Borrow goods,0.334,0.304
+BY,Gov/NGO,Borrow goods,NA,NA
+BY,External support,Borrow goods,0.001,0.009
+BY,Borrow money,Lend goods,0.03,0.076
+BY,Lend money,Lend goods,0.412,0.38
+BY,Borrow goods,Lend goods,0.725,0.572
+BY,Women behav.,Lend goods,0.587,0.491
+BY,Men behav.,Lend goods,0.419,0.378
+BY,Women info.,Lend goods,0.643,0.548
+BY,Men info.,Lend goods,0.383,0.344
+BY,Gov/NGO,Lend goods,NA,NA
+BY,External support,Lend goods,0.031,0.034
+BY,Borrow money,Women behav.,-0.018,-0.025
+BY,Lend money,Women behav.,0.433,0.364
+BY,Borrow goods,Women behav.,0.602,0.458
+BY,Lend goods,Women behav.,0.587,0.491
+BY,Men behav.,Women behav.,0.355,0.353
+BY,Women info.,Women behav.,0.588,0.521
+BY,Men info.,Women behav.,0.325,0.282
+BY,Gov/NGO,Women behav.,NA,NA
+BY,External support,Women behav.,-0.014,-0.019
+BY,Borrow money,Men behav.,0.027,0.03
+BY,Lend money,Men behav.,0.282,0.308
+BY,Borrow goods,Men behav.,0.41,0.35
+BY,Lend goods,Men behav.,0.419,0.378
+BY,Women behav.,Men behav.,0.355,0.353
+BY,Women info.,Men behav.,0.335,0.326
+BY,Men info.,Men behav.,0.641,0.526
+BY,Gov/NGO,Men behav.,NA,NA
+BY,External support,Men behav.,-0.004,0.018
+BY,Borrow money,Women info.,0.112,0.053
+BY,Lend money,Women info.,0.362,0.323
+BY,Borrow goods,Women info.,0.635,0.5
+BY,Lend goods,Women info.,0.643,0.548
+BY,Women behav.,Women info.,0.588,0.521
+BY,Men behav.,Women info.,0.335,0.326
+BY,Men info.,Women info.,0.316,0.303
+BY,Gov/NGO,Women info.,NA,NA
+BY,External support,Women info.,-0.019,-0.025
+BY,Borrow money,Men info.,0.001,0.015
+BY,Lend money,Men info.,0.36,0.339
+BY,Borrow goods,Men info.,0.334,0.304
+BY,Lend goods,Men info.,0.383,0.344
+BY,Women behav.,Men info.,0.325,0.282
+BY,Men behav.,Men info.,0.641,0.526
+BY,Women info.,Men info.,0.316,0.303
+BY,Gov/NGO,Men info.,NA,NA
+BY,External support,Men info.,0.058,0.038
+BY,Borrow money,Gov/NGO,NA,NA
+BY,Lend money,Gov/NGO,NA,NA
+BY,Borrow goods,Gov/NGO,NA,NA
+BY,Lend goods,Gov/NGO,NA,NA
+BY,Women behav.,Gov/NGO,NA,NA
+BY,Men behav.,Gov/NGO,NA,NA
+BY,Women info.,Gov/NGO,NA,NA
+BY,Men info.,Gov/NGO,NA,NA
+BY,External support,Gov/NGO,NA,NA
+BY,Borrow money,External support,-0.003,-0.004
+BY,Lend money,External support,-0.013,-0.015
+BY,Borrow goods,External support,0.001,0.009
+BY,Lend goods,External support,0.031,0.034
+BY,Women behav.,External support,-0.014,-0.019
+BY,Men behav.,External support,-0.004,0.018
+BY,Women info.,External support,-0.019,-0.025
+BY,Men info.,External support,0.058,0.038
+BY,Gov/NGO,External support,NA,NA
+CP,Lend money,Borrow money,0.597,0.463
+CP,Borrow goods,Borrow money,0.328,0.246
+CP,Lend goods,Borrow money,0.153,0.14
+CP,Women behav.,Borrow money,0.155,0.149
+CP,Men behav.,Borrow money,0.206,0.157
+CP,Women info.,Borrow money,0.189,0.14
+CP,Men info.,Borrow money,0.143,0.119
+CP,Gov/NGO,Borrow money,NA,NA
+CP,External support,Borrow money,0.35,0.302
+CP,Borrow money,Lend money,0.597,0.463
+CP,Borrow goods,Lend money,0.378,0.27
+CP,Lend goods,Lend money,0.28,0.246
+CP,Women behav.,Lend money,0.111,0.107
+CP,Men behav.,Lend money,0.287,0.178
+CP,Women info.,Lend money,0.198,0.176
+CP,Men info.,Lend money,0.141,0.135
+CP,Gov/NGO,Lend money,NA,NA
+CP,External support,Lend money,0.384,0.387
+CP,Borrow money,Borrow goods,0.328,0.246
+CP,Lend money,Borrow goods,0.378,0.27
+CP,Lend goods,Borrow goods,0.223,0.178
+CP,Women behav.,Borrow goods,0.107,0.118
+CP,Men behav.,Borrow goods,0.128,0.097
+CP,Women info.,Borrow goods,0.14,0.098
+CP,Men info.,Borrow goods,0.138,0.125
+CP,Gov/NGO,Borrow goods,NA,NA
+CP,External support,Borrow goods,0.354,0.342
+CP,Borrow money,Lend goods,0.153,0.14
+CP,Lend money,Lend goods,0.28,0.246
+CP,Borrow goods,Lend goods,0.223,0.178
+CP,Women behav.,Lend goods,0.061,0.068
+CP,Men behav.,Lend goods,0.093,0.097
+CP,Women info.,Lend goods,0.044,0.053
+CP,Men info.,Lend goods,0.085,0.092
+CP,Gov/NGO,Lend goods,NA,NA
+CP,External support,Lend goods,0.132,0.145
+CP,Borrow money,Women behav.,0.155,0.149
+CP,Lend money,Women behav.,0.111,0.107
+CP,Borrow goods,Women behav.,0.107,0.118
+CP,Lend goods,Women behav.,0.061,0.068
+CP,Men behav.,Women behav.,0.099,0.116
+CP,Women info.,Women behav.,0.04,0.043
+CP,Men info.,Women behav.,0.036,0.043
+CP,Gov/NGO,Women behav.,NA,NA
+CP,External support,Women behav.,0.085,0.102
+CP,Borrow money,Men behav.,0.206,0.157
+CP,Lend money,Men behav.,0.287,0.178
+CP,Borrow goods,Men behav.,0.128,0.097
+CP,Lend goods,Men behav.,0.093,0.097
+CP,Women behav.,Men behav.,0.099,0.116
+CP,Women info.,Men behav.,0.099,0.061
+CP,Men info.,Men behav.,0.044,0.061
+CP,Gov/NGO,Men behav.,NA,NA
+CP,External support,Men behav.,0.162,0.175
+CP,Borrow money,Women info.,0.189,0.14
+CP,Lend money,Women info.,0.198,0.176
+CP,Borrow goods,Women info.,0.14,0.098
+CP,Lend goods,Women info.,0.044,0.053
+CP,Women behav.,Women info.,0.04,0.043
+CP,Men behav.,Women info.,0.099,0.061
+CP,Men info.,Women info.,0.295,0.246
+CP,Gov/NGO,Women info.,NA,NA
+CP,External support,Women info.,0.176,0.143
+CP,Borrow money,Men info.,0.143,0.119
+CP,Lend money,Men info.,0.141,0.135
+CP,Borrow goods,Men info.,0.138,0.125
+CP,Lend goods,Men info.,0.085,0.092
+CP,Women behav.,Men info.,0.036,0.043
+CP,Men behav.,Men info.,0.044,0.061
+CP,Women info.,Men info.,0.295,0.246
+CP,Gov/NGO,Men info.,NA,NA
+CP,External support,Men info.,0.194,0.191
+CP,Borrow money,Gov/NGO,NA,NA
+CP,Lend money,Gov/NGO,NA,NA
+CP,Borrow goods,Gov/NGO,NA,NA
+CP,Lend goods,Gov/NGO,NA,NA
+CP,Women behav.,Gov/NGO,NA,NA
+CP,Men behav.,Gov/NGO,NA,NA
+CP,Women info.,Gov/NGO,NA,NA
+CP,Men info.,Gov/NGO,NA,NA
+CP,External support,Gov/NGO,NA,NA
+CP,Borrow money,External support,0.35,0.302
+CP,Lend money,External support,0.384,0.387
+CP,Borrow goods,External support,0.354,0.342
+CP,Lend goods,External support,0.132,0.145
+CP,Women behav.,External support,0.085,0.102
+CP,Men behav.,External support,0.162,0.175
+CP,Women info.,External support,0.176,0.143
+CP,Men info.,External support,0.194,0.191
+CP,Gov/NGO,External support,NA,NA
+CR,Lend money,Borrow money,0.424,0.338
+CR,Borrow goods,Borrow money,0.335,0.332
+CR,Lend goods,Borrow money,0.333,0.283
+CR,Women behav.,Borrow money,0.132,0.123
+CR,Men behav.,Borrow money,0.181,0.138
+CR,Women info.,Borrow money,0.394,0.311
+CR,Men info.,Borrow money,0.146,0.151
+CR,Gov/NGO,Borrow money,-0.002,-0.002
+CR,External support,Borrow money,0.029,0.032
+CR,Borrow money,Lend money,0.424,0.338
+CR,Borrow goods,Lend money,0.315,0.328
+CR,Lend goods,Lend money,0.351,0.304
+CR,Women behav.,Lend money,0.094,0.094
+CR,Men behav.,Lend money,0.188,0.2
+CR,Women info.,Lend money,0.406,0.324
+CR,Men info.,Lend money,0.141,0.149
+CR,Gov/NGO,Lend money,-0.002,-0.002
+CR,External support,Lend money,0.009,0.01
+CR,Borrow money,Borrow goods,0.335,0.332
+CR,Lend money,Borrow goods,0.315,0.328
+CR,Lend goods,Borrow goods,0.554,0.563
+CR,Women behav.,Borrow goods,0.13,0.142
+CR,Men behav.,Borrow goods,0.193,0.198
+CR,Women info.,Borrow goods,0.459,0.487
+CR,Men info.,Borrow goods,0.195,0.226
+CR,Gov/NGO,Borrow goods,-0.003,-0.003
+CR,External support,Borrow goods,0.016,0.017
+CR,Borrow money,Lend goods,0.333,0.283
+CR,Lend money,Lend goods,0.351,0.304
+CR,Borrow goods,Lend goods,0.554,0.563
+CR,Women behav.,Lend goods,0.155,0.169
+CR,Men behav.,Lend goods,0.156,0.162
+CR,Women info.,Lend goods,0.496,0.47
+CR,Men info.,Lend goods,0.138,0.164
+CR,Gov/NGO,Lend goods,-0.003,-0.003
+CR,External support,Lend goods,0.015,0.017
+CR,Borrow money,Women behav.,0.132,0.123
+CR,Lend money,Women behav.,0.094,0.094
+CR,Borrow goods,Women behav.,0.13,0.142
+CR,Lend goods,Women behav.,0.155,0.169
+CR,Men behav.,Women behav.,0.03,0.018
+CR,Women info.,Women behav.,0.174,0.159
+CR,Men info.,Women behav.,0.043,0.017
+CR,Gov/NGO,Women behav.,-0.001,-0.001
+CR,External support,Women behav.,-0.004,-0.004
+CR,Borrow money,Men behav.,0.181,0.138
+CR,Lend money,Men behav.,0.188,0.2
+CR,Borrow goods,Men behav.,0.193,0.198
+CR,Lend goods,Men behav.,0.156,0.162
+CR,Women behav.,Men behav.,0.03,0.018
+CR,Women info.,Men behav.,0.156,0.166
+CR,Men info.,Men behav.,0.211,0.238
+CR,Gov/NGO,Men behav.,-0.001,-0.001
+CR,External support,Men behav.,-0.005,-0.005
+CR,Borrow money,Women info.,0.394,0.311
+CR,Lend money,Women info.,0.406,0.324
+CR,Borrow goods,Women info.,0.459,0.487
+CR,Lend goods,Women info.,0.496,0.47
+CR,Women behav.,Women info.,0.174,0.159
+CR,Men behav.,Women info.,0.156,0.166
+CR,Men info.,Women info.,0.194,0.222
+CR,Gov/NGO,Women info.,-0.002,-0.003
+CR,External support,Women info.,0.002,0.004
+CR,Borrow money,Men info.,0.146,0.151
+CR,Lend money,Men info.,0.141,0.149
+CR,Borrow goods,Men info.,0.195,0.226
+CR,Lend goods,Men info.,0.138,0.164
+CR,Women behav.,Men info.,0.043,0.017
+CR,Men behav.,Men info.,0.211,0.238
+CR,Women info.,Men info.,0.194,0.222
+CR,Gov/NGO,Men info.,-0.002,-0.003
+CR,External support,Men info.,0.015,0.018
+CR,Borrow money,Gov/NGO,-0.002,-0.002
+CR,Lend money,Gov/NGO,-0.002,-0.002
+CR,Borrow goods,Gov/NGO,-0.003,-0.003
+CR,Lend goods,Gov/NGO,-0.003,-0.003
+CR,Women behav.,Gov/NGO,-0.001,-0.001
+CR,Men behav.,Gov/NGO,-0.001,-0.001
+CR,Women info.,Gov/NGO,-0.002,-0.003
+CR,Men info.,Gov/NGO,-0.002,-0.003
+CR,External support,Gov/NGO,-0.001,-0.001
+CR,Borrow money,External support,0.029,0.032
+CR,Lend money,External support,0.009,0.01
+CR,Borrow goods,External support,0.016,0.017
+CR,Lend goods,External support,0.015,0.017
+CR,Women behav.,External support,-0.004,-0.004
+CR,Men behav.,External support,-0.005,-0.005
+CR,Women info.,External support,0.002,0.004
+CR,Men info.,External support,0.015,0.018
+CR,Gov/NGO,External support,-0.001,-0.001
+DJ,Lend money,Borrow money,0.48,0.446
+DJ,Borrow goods,Borrow money,0.409,0.36
+DJ,Lend goods,Borrow money,0.217,0.2
+DJ,Women behav.,Borrow money,0.206,0.173
+DJ,Men behav.,Borrow money,0.123,0.111
+DJ,Women info.,Borrow money,0.333,0.331
+DJ,Men info.,Borrow money,0.228,0.212
+DJ,Gov/NGO,Borrow money,NA,NA
+DJ,External support,Borrow money,NA,NA
+DJ,Borrow money,Lend money,0.48,0.446
+DJ,Borrow goods,Lend money,0.371,0.354
+DJ,Lend goods,Lend money,0.29,0.284
+DJ,Women behav.,Lend money,0.144,0.122
+DJ,Men behav.,Lend money,0.152,0.158
+DJ,Women info.,Lend money,0.304,0.294
+DJ,Men info.,Lend money,0.276,0.274
+DJ,Gov/NGO,Lend money,NA,NA
+DJ,External support,Lend money,NA,NA
+DJ,Borrow money,Borrow goods,0.409,0.36
+DJ,Lend money,Borrow goods,0.371,0.354
+DJ,Lend goods,Borrow goods,0.318,0.313
+DJ,Women behav.,Borrow goods,0.227,0.178
+DJ,Men behav.,Borrow goods,0.107,0.125
+DJ,Women info.,Borrow goods,0.217,0.218
+DJ,Men info.,Borrow goods,0.13,0.125
+DJ,Gov/NGO,Borrow goods,NA,NA
+DJ,External support,Borrow goods,NA,NA
+DJ,Borrow money,Lend goods,0.217,0.2
+DJ,Lend money,Lend goods,0.29,0.284
+DJ,Borrow goods,Lend goods,0.318,0.313
+DJ,Women behav.,Lend goods,0.217,0.203
+DJ,Men behav.,Lend goods,0.169,0.159
+DJ,Women info.,Lend goods,0.243,0.212
+DJ,Men info.,Lend goods,0.178,0.157
+DJ,Gov/NGO,Lend goods,NA,NA
+DJ,External support,Lend goods,NA,NA
+DJ,Borrow money,Women behav.,0.206,0.173
+DJ,Lend money,Women behav.,0.144,0.122
+DJ,Borrow goods,Women behav.,0.227,0.178
+DJ,Lend goods,Women behav.,0.217,0.203
+DJ,Men behav.,Women behav.,-0.001,-0.001
+DJ,Women info.,Women behav.,0.227,0.237
+DJ,Men info.,Women behav.,0.044,0.045
+DJ,Gov/NGO,Women behav.,NA,NA
+DJ,External support,Women behav.,NA,NA
+DJ,Borrow money,Men behav.,0.123,0.111
+DJ,Lend money,Men behav.,0.152,0.158
+DJ,Borrow goods,Men behav.,0.107,0.125
+DJ,Lend goods,Men behav.,0.169,0.159
+DJ,Women behav.,Men behav.,-0.001,-0.001
+DJ,Women info.,Men behav.,0.009,0.011
+DJ,Men info.,Men behav.,0.221,0.23
+DJ,Gov/NGO,Men behav.,NA,NA
+DJ,External support,Men behav.,NA,NA
+DJ,Borrow money,Women info.,0.333,0.331
+DJ,Lend money,Women info.,0.304,0.294
+DJ,Borrow goods,Women info.,0.217,0.218
+DJ,Lend goods,Women info.,0.243,0.212
+DJ,Women behav.,Women info.,0.227,0.237
+DJ,Men behav.,Women info.,0.009,0.011
+DJ,Men info.,Women info.,0.103,0.091
+DJ,Gov/NGO,Women info.,NA,NA
+DJ,External support,Women info.,NA,NA
+DJ,Borrow money,Men info.,0.228,0.212
+DJ,Lend money,Men info.,0.276,0.274
+DJ,Borrow goods,Men info.,0.13,0.125
+DJ,Lend goods,Men info.,0.178,0.157
+DJ,Women behav.,Men info.,0.044,0.045
+DJ,Men behav.,Men info.,0.221,0.23
+DJ,Women info.,Men info.,0.103,0.091
+DJ,Gov/NGO,Men info.,NA,NA
+DJ,External support,Men info.,NA,NA
+DJ,Borrow money,Gov/NGO,NA,NA
+DJ,Lend money,Gov/NGO,NA,NA
+DJ,Borrow goods,Gov/NGO,NA,NA
+DJ,Lend goods,Gov/NGO,NA,NA
+DJ,Women behav.,Gov/NGO,NA,NA
+DJ,Men behav.,Gov/NGO,NA,NA
+DJ,Women info.,Gov/NGO,NA,NA
+DJ,Men info.,Gov/NGO,NA,NA
+DJ,External support,Gov/NGO,NA,NA
+DJ,Borrow money,External support,NA,NA
+DJ,Lend money,External support,NA,NA
+DJ,Borrow goods,External support,NA,NA
+DJ,Lend goods,External support,NA,NA
+DJ,Women behav.,External support,NA,NA
+DJ,Men behav.,External support,NA,NA
+DJ,Women info.,External support,NA,NA
+DJ,Men info.,External support,NA,NA
+DJ,Gov/NGO,External support,NA,NA
+EK,Lend money,Borrow money,0.274,0.297
+EK,Borrow goods,Borrow money,0.308,0.351
+EK,Lend goods,Borrow money,0.413,0.378
+EK,Women behav.,Borrow money,0.377,0.351
+EK,Men behav.,Borrow money,0.463,0.375
+EK,Women info.,Borrow money,0.339,0.332
+EK,Men info.,Borrow money,0.27,0.262
+EK,Gov/NGO,Borrow money,0.034,0.043
+EK,External support,Borrow money,0.122,0.147
+EK,Borrow money,Lend money,0.274,0.297
+EK,Borrow goods,Lend money,0.222,0.207
+EK,Lend goods,Lend money,0.128,0.122
+EK,Women behav.,Lend money,0.153,0.23
+EK,Men behav.,Lend money,0.218,0.262
+EK,Women info.,Lend money,0.132,0.163
+EK,Men info.,Lend money,0.094,0.116
+EK,Gov/NGO,Lend money,-0.007,-0.007
+EK,External support,Lend money,-0.002,-0.002
+EK,Borrow money,Borrow goods,0.308,0.351
+EK,Lend money,Borrow goods,0.222,0.207
+EK,Lend goods,Borrow goods,0.572,0.534
+EK,Women behav.,Borrow goods,0.457,0.454
+EK,Men behav.,Borrow goods,0.39,0.29
+EK,Women info.,Borrow goods,0.487,0.415
+EK,Men info.,Borrow goods,0.233,0.108
+EK,Gov/NGO,Borrow goods,0.03,0.038
+EK,External support,Borrow goods,0.112,0.135
+EK,Borrow money,Lend goods,0.413,0.378
+EK,Lend money,Lend goods,0.128,0.122
+EK,Borrow goods,Lend goods,0.572,0.534
+EK,Women behav.,Lend goods,0.372,0.408
+EK,Men behav.,Lend goods,0.353,0.309
+EK,Women info.,Lend goods,0.353,0.356
+EK,Men info.,Lend goods,0.078,0.09
+EK,Gov/NGO,Lend goods,0.063,0.074
+EK,External support,Lend goods,0.102,0.119
+EK,Borrow money,Women behav.,0.377,0.351
+EK,Lend money,Women behav.,0.153,0.23
+EK,Borrow goods,Women behav.,0.457,0.454
+EK,Lend goods,Women behav.,0.372,0.408
+EK,Men behav.,Women behav.,0.43,0.45
+EK,Women info.,Women behav.,0.441,0.436
+EK,Men info.,Women behav.,0.377,0.132
+EK,Gov/NGO,Women behav.,0.017,0.029
+EK,External support,Women behav.,-0.004,-0.005
+EK,Borrow money,Men behav.,0.463,0.375
+EK,Lend money,Men behav.,0.218,0.262
+EK,Borrow goods,Men behav.,0.39,0.29
+EK,Lend goods,Men behav.,0.353,0.309
+EK,Women behav.,Men behav.,0.43,0.45
+EK,Women info.,Men behav.,0.286,0.273
+EK,Men info.,Men behav.,0.109,0.135
+EK,Gov/NGO,Men behav.,-0.012,-0.014
+EK,External support,Men behav.,-0.004,-0.005
+EK,Borrow money,Women info.,0.339,0.332
+EK,Lend money,Women info.,0.132,0.163
+EK,Borrow goods,Women info.,0.487,0.415
+EK,Lend goods,Women info.,0.353,0.356
+EK,Women behav.,Women info.,0.441,0.436
+EK,Men behav.,Women info.,0.286,0.273
+EK,Men info.,Women info.,0.2,0.12
+EK,Gov/NGO,Women info.,0.104,0.08
+EK,External support,Women info.,0.131,0.086
+EK,Borrow money,Men info.,0.27,0.262
+EK,Lend money,Men info.,0.094,0.116
+EK,Borrow goods,Men info.,0.233,0.108
+EK,Lend goods,Men info.,0.078,0.09
+EK,Women behav.,Men info.,0.377,0.132
+EK,Men behav.,Men info.,0.109,0.135
+EK,Women info.,Men info.,0.2,0.12
+EK,Gov/NGO,Men info.,-0.007,-0.009
+EK,External support,Men info.,-0.002,-0.003
+EK,Borrow money,Gov/NGO,0.034,0.043
+EK,Lend money,Gov/NGO,-0.007,-0.007
+EK,Borrow goods,Gov/NGO,0.03,0.038
+EK,Lend goods,Gov/NGO,0.063,0.074
+EK,Women behav.,Gov/NGO,0.017,0.029
+EK,Men behav.,Gov/NGO,-0.012,-0.014
+EK,Women info.,Gov/NGO,0.104,0.08
+EK,Men info.,Gov/NGO,-0.007,-0.009
+EK,External support,Gov/NGO,0.353,0.353
+EK,Borrow money,External support,0.122,0.147
+EK,Lend money,External support,-0.002,-0.002
+EK,Borrow goods,External support,0.112,0.135
+EK,Lend goods,External support,0.102,0.119
+EK,Women behav.,External support,-0.004,-0.005
+EK,Men behav.,External support,-0.004,-0.005
+EK,Women info.,External support,0.131,0.086
+EK,Men info.,External support,-0.002,-0.003
+EK,Gov/NGO,External support,0.353,0.353
+FF,Lend money,Borrow money,0.341,0.382
+FF,Borrow goods,Borrow money,0.362,0.364
+FF,Lend goods,Borrow money,0.177,0.199
+FF,Women behav.,Borrow money,0.147,0.164
+FF,Men behav.,Borrow money,0.112,0.126
+FF,Women info.,Borrow money,0.122,0.137
+FF,Men info.,Borrow money,0.336,0.345
+FF,Gov/NGO,Borrow money,-0.002,-0.003
+FF,External support,Borrow money,0.093,0.105
+FF,Borrow money,Lend money,0.341,0.382
+FF,Borrow goods,Lend money,0.279,0.279
+FF,Lend goods,Lend money,0.233,0.233
+FF,Women behav.,Lend money,0.19,0.19
+FF,Men behav.,Lend money,-0.003,-0.003
+FF,Women info.,Lend money,0.276,0.276
+FF,Men info.,Lend money,0.189,0.196
+FF,Gov/NGO,Lend money,-0.002,-0.002
+FF,External support,Lend money,0.122,0.122
+FF,Borrow money,Borrow goods,0.362,0.364
+FF,Lend money,Borrow goods,0.279,0.279
+FF,Lend goods,Borrow goods,0.588,0.588
+FF,Women behav.,Borrow goods,0.077,0.077
+FF,Men behav.,Borrow goods,0.251,0.251
+FF,Women info.,Borrow goods,0.472,0.472
+FF,Men info.,Borrow goods,0.494,0.489
+FF,Gov/NGO,Borrow goods,0.2,0.2
+FF,External support,Borrow goods,0.209,0.209
+FF,Borrow money,Lend goods,0.177,0.199
+FF,Lend money,Lend goods,0.233,0.233
+FF,Borrow goods,Lend goods,0.588,0.588
+FF,Women behav.,Lend goods,0.078,0.078
+FF,Men behav.,Lend goods,0.319,0.319
+FF,Women info.,Lend goods,0.402,0.402
+FF,Men info.,Lend goods,0.325,0.314
+FF,Gov/NGO,Lend goods,0.098,0.098
+FF,External support,Lend goods,0.046,0.046
+FF,Borrow money,Women behav.,0.147,0.164
+FF,Lend money,Women behav.,0.19,0.19
+FF,Borrow goods,Women behav.,0.077,0.077
+FF,Lend goods,Women behav.,0.078,0.078
+FF,Men behav.,Women behav.,-0.002,-0.002
+FF,Women info.,Women behav.,0.192,0.192
+FF,Men info.,Women behav.,0.08,0.083
+FF,Gov/NGO,Women behav.,-0.001,-0.001
+FF,External support,Women behav.,-0.002,-0.002
+FF,Borrow money,Men behav.,0.112,0.126
+FF,Lend money,Men behav.,-0.003,-0.003
+FF,Borrow goods,Men behav.,0.251,0.251
+FF,Lend goods,Men behav.,0.319,0.319
+FF,Women behav.,Men behav.,-0.002,-0.002
+FF,Women info.,Men behav.,0.222,0.222
+FF,Men info.,Men behav.,0.259,0.2
+FF,Gov/NGO,Men behav.,-0.002,-0.002
+FF,External support,Men behav.,0.166,0.166
+FF,Borrow money,Women info.,0.122,0.137
+FF,Lend money,Women info.,0.276,0.276
+FF,Borrow goods,Women info.,0.472,0.472
+FF,Lend goods,Women info.,0.402,0.402
+FF,Women behav.,Women info.,0.192,0.192
+FF,Men behav.,Women info.,0.222,0.222
+FF,Men info.,Women info.,0.285,0.269
+FF,Gov/NGO,Women info.,-0.004,-0.004
+FF,External support,Women info.,0.186,0.186
+FF,Borrow money,Men info.,0.336,0.345
+FF,Lend money,Men info.,0.189,0.196
+FF,Borrow goods,Men info.,0.494,0.489
+FF,Lend goods,Men info.,0.325,0.314
+FF,Women behav.,Men info.,0.08,0.083
+FF,Men behav.,Men info.,0.259,0.2
+FF,Women info.,Men info.,0.285,0.269
+FF,Gov/NGO,Men info.,0.101,0.104
+FF,External support,Men info.,0.104,0.108
+FF,Borrow money,Gov/NGO,-0.002,-0.003
+FF,Lend money,Gov/NGO,-0.002,-0.002
+FF,Borrow goods,Gov/NGO,0.2,0.2
+FF,Lend goods,Gov/NGO,0.098,0.098
+FF,Women behav.,Gov/NGO,-0.001,-0.001
+FF,Men behav.,Gov/NGO,-0.002,-0.002
+FF,Women info.,Gov/NGO,-0.004,-0.004
+FF,Men info.,Gov/NGO,0.101,0.104
+FF,External support,Gov/NGO,-0.002,-0.002
+FF,Borrow money,External support,0.093,0.105
+FF,Lend money,External support,0.122,0.122
+FF,Borrow goods,External support,0.209,0.209
+FF,Lend goods,External support,0.046,0.046
+FF,Women behav.,External support,-0.002,-0.002
+FF,Men behav.,External support,0.166,0.166
+FF,Women info.,External support,0.186,0.186
+FF,Men info.,External support,0.104,0.108
+FF,Gov/NGO,External support,-0.002,-0.002
+FJ,Lend money,Borrow money,0.237,0.233
+FJ,Borrow goods,Borrow money,0.263,0.259
+FJ,Lend goods,Borrow money,0.186,0.18
+FJ,Women behav.,Borrow money,0.141,0.138
+FJ,Men behav.,Borrow money,0.238,0.229
+FJ,Women info.,Borrow money,0.245,0.233
+FJ,Men info.,Borrow money,0.241,0.247
+FJ,Gov/NGO,Borrow money,0.052,0.052
+FJ,External support,Borrow money,-0.007,-0.007
+FJ,Borrow money,Lend money,0.237,0.233
+FJ,Borrow goods,Lend money,0.246,0.215
+FJ,Lend goods,Lend money,0.287,0.275
+FJ,Women behav.,Lend money,0.31,0.297
+FJ,Men behav.,Lend money,0.229,0.2
+FJ,Women info.,Lend money,0.295,0.267
+FJ,Men info.,Lend money,0.244,0.217
+FJ,Gov/NGO,Lend money,-0.01,-0.01
+FJ,External support,Lend money,-0.007,-0.007
+FJ,Borrow money,Borrow goods,0.263,0.259
+FJ,Lend money,Borrow goods,0.246,0.215
+FJ,Lend goods,Borrow goods,0.339,0.331
+FJ,Women behav.,Borrow goods,0.281,0.267
+FJ,Men behav.,Borrow goods,0.232,0.207
+FJ,Women info.,Borrow goods,0.305,0.289
+FJ,Men info.,Borrow goods,0.17,0.145
+FJ,Gov/NGO,Borrow goods,0.098,0.101
+FJ,External support,Borrow goods,0.069,0.072
+FJ,Borrow money,Lend goods,0.186,0.18
+FJ,Lend money,Lend goods,0.287,0.275
+FJ,Borrow goods,Lend goods,0.339,0.331
+FJ,Women behav.,Lend goods,0.292,0.273
+FJ,Men behav.,Lend goods,0.247,0.225
+FJ,Women info.,Lend goods,0.302,0.29
+FJ,Men info.,Lend goods,0.193,0.178
+FJ,Gov/NGO,Lend goods,0.033,0.034
+FJ,External support,Lend goods,0.121,0.125
+FJ,Borrow money,Women behav.,0.141,0.138
+FJ,Lend money,Women behav.,0.31,0.297
+FJ,Borrow goods,Women behav.,0.281,0.267
+FJ,Lend goods,Women behav.,0.292,0.273
+FJ,Men behav.,Women behav.,0.238,0.224
+FJ,Women info.,Women behav.,0.421,0.411
+FJ,Men info.,Women behav.,0.211,0.188
+FJ,Gov/NGO,Women behav.,-0.013,-0.013
+FJ,External support,Women behav.,-0.009,-0.009
+FJ,Borrow money,Men behav.,0.238,0.229
+FJ,Lend money,Men behav.,0.229,0.2
+FJ,Borrow goods,Men behav.,0.232,0.207
+FJ,Lend goods,Men behav.,0.247,0.225
+FJ,Women behav.,Men behav.,0.238,0.224
+FJ,Women info.,Men behav.,0.197,0.164
+FJ,Men info.,Men behav.,0.404,0.381
+FJ,Gov/NGO,Men behav.,-0.012,-0.013
+FJ,External support,Men behav.,0.109,0.126
+FJ,Borrow money,Women info.,0.245,0.233
+FJ,Lend money,Women info.,0.295,0.267
+FJ,Borrow goods,Women info.,0.305,0.289
+FJ,Lend goods,Women info.,0.302,0.29
+FJ,Women behav.,Women info.,0.421,0.411
+FJ,Men behav.,Women info.,0.197,0.164
+FJ,Men info.,Women info.,0.199,0.172
+FJ,Gov/NGO,Women info.,0.03,0.032
+FJ,External support,Women info.,-0.01,-0.01
+FJ,Borrow money,Men info.,0.241,0.247
+FJ,Lend money,Men info.,0.244,0.217
+FJ,Borrow goods,Men info.,0.17,0.145
+FJ,Lend goods,Men info.,0.193,0.178
+FJ,Women behav.,Men info.,0.211,0.188
+FJ,Men behav.,Men info.,0.404,0.381
+FJ,Women info.,Men info.,0.199,0.172
+FJ,Gov/NGO,Men info.,0.034,0.038
+FJ,External support,Men info.,-0.008,-0.009
+FJ,Borrow money,Gov/NGO,0.052,0.052
+FJ,Lend money,Gov/NGO,-0.01,-0.01
+FJ,Borrow goods,Gov/NGO,0.098,0.101
+FJ,Lend goods,Gov/NGO,0.033,0.034
+FJ,Women behav.,Gov/NGO,-0.013,-0.013
+FJ,Men behav.,Gov/NGO,-0.012,-0.013
+FJ,Women info.,Gov/NGO,0.03,0.032
+FJ,Men info.,Gov/NGO,0.034,0.038
+FJ,External support,Gov/NGO,-0.002,-0.002
+FJ,Borrow money,External support,-0.007,-0.007
+FJ,Lend money,External support,-0.007,-0.007
+FJ,Borrow goods,External support,0.069,0.072
+FJ,Lend goods,External support,0.121,0.125
+FJ,Women behav.,External support,-0.009,-0.009
+FJ,Men behav.,External support,0.109,0.126
+FJ,Women info.,External support,-0.01,-0.01
+FJ,Men info.,External support,-0.008,-0.009
+FJ,Gov/NGO,External support,-0.002,-0.002
+HE,Lend money,Borrow money,0.428,0.43
+HE,Borrow goods,Borrow money,0.419,0.448
+HE,Lend goods,Borrow money,0.381,0.391
+HE,Women behav.,Borrow money,0.256,0.242
+HE,Men behav.,Borrow money,0.231,0.274
+HE,Women info.,Borrow money,0.262,0.254
+HE,Men info.,Borrow money,0.286,0.317
+HE,Gov/NGO,Borrow money,NA,NA
+HE,External support,Borrow money,0.215,0.2
+HE,Borrow money,Lend money,0.428,0.43
+HE,Borrow goods,Lend money,0.367,0.369
+HE,Lend goods,Lend money,0.324,0.344
+HE,Women behav.,Lend money,0.218,0.225
+HE,Men behav.,Lend money,0.197,0.218
+HE,Women info.,Lend money,0.244,0.232
+HE,Men info.,Lend money,0.303,0.318
+HE,Gov/NGO,Lend money,NA,NA
+HE,External support,Lend money,0.159,0.171
+HE,Borrow money,Borrow goods,0.419,0.448
+HE,Lend money,Borrow goods,0.367,0.369
+HE,Lend goods,Borrow goods,0.572,0.573
+HE,Women behav.,Borrow goods,0.351,0.351
+HE,Men behav.,Borrow goods,0.299,0.338
+HE,Women info.,Borrow goods,0.319,0.334
+HE,Men info.,Borrow goods,0.351,0.37
+HE,Gov/NGO,Borrow goods,NA,NA
+HE,External support,Borrow goods,0.245,0.232
+HE,Borrow money,Lend goods,0.381,0.391
+HE,Lend money,Lend goods,0.324,0.344
+HE,Borrow goods,Lend goods,0.572,0.573
+HE,Women behav.,Lend goods,0.353,0.344
+HE,Men behav.,Lend goods,0.313,0.35
+HE,Women info.,Lend goods,0.361,0.379
+HE,Men info.,Lend goods,0.35,0.37
+HE,Gov/NGO,Lend goods,NA,NA
+HE,External support,Lend goods,0.236,0.195
+HE,Borrow money,Women behav.,0.256,0.242
+HE,Lend money,Women behav.,0.218,0.225
+HE,Borrow goods,Women behav.,0.351,0.351
+HE,Lend goods,Women behav.,0.353,0.344
+HE,Men behav.,Women behav.,0.299,0.322
+HE,Women info.,Women behav.,0.388,0.421
+HE,Men info.,Women behav.,0.252,0.237
+HE,Gov/NGO,Women behav.,NA,NA
+HE,External support,Women behav.,0.308,0.276
+HE,Borrow money,Men behav.,0.231,0.274
+HE,Lend money,Men behav.,0.197,0.218
+HE,Borrow goods,Men behav.,0.299,0.338
+HE,Lend goods,Men behav.,0.313,0.35
+HE,Women behav.,Men behav.,0.299,0.322
+HE,Women info.,Men behav.,0.227,0.265
+HE,Men info.,Men behav.,0.331,0.365
+HE,Gov/NGO,Men behav.,NA,NA
+HE,External support,Men behav.,0.217,0.226
+HE,Borrow money,Women info.,0.262,0.254
+HE,Lend money,Women info.,0.244,0.232
+HE,Borrow goods,Women info.,0.319,0.334
+HE,Lend goods,Women info.,0.361,0.379
+HE,Women behav.,Women info.,0.388,0.421
+HE,Men behav.,Women info.,0.227,0.265
+HE,Men info.,Women info.,0.261,0.28
+HE,Gov/NGO,Women info.,NA,NA
+HE,External support,Women info.,0.23,0.23
+HE,Borrow money,Men info.,0.286,0.317
+HE,Lend money,Men info.,0.303,0.318
+HE,Borrow goods,Men info.,0.351,0.37
+HE,Lend goods,Men info.,0.35,0.37
+HE,Women behav.,Men info.,0.252,0.237
+HE,Men behav.,Men info.,0.331,0.365
+HE,Women info.,Men info.,0.261,0.28
+HE,Gov/NGO,Men info.,NA,NA
+HE,External support,Men info.,0.197,0.168
+HE,Borrow money,Gov/NGO,NA,NA
+HE,Lend money,Gov/NGO,NA,NA
+HE,Borrow goods,Gov/NGO,NA,NA
+HE,Lend goods,Gov/NGO,NA,NA
+HE,Women behav.,Gov/NGO,NA,NA
+HE,Men behav.,Gov/NGO,NA,NA
+HE,Women info.,Gov/NGO,NA,NA
+HE,Men info.,Gov/NGO,NA,NA
+HE,External support,Gov/NGO,NA,NA
+HE,Borrow money,External support,0.215,0.2
+HE,Lend money,External support,0.159,0.171
+HE,Borrow goods,External support,0.245,0.232
+HE,Lend goods,External support,0.236,0.195
+HE,Women behav.,External support,0.308,0.276
+HE,Men behav.,External support,0.217,0.226
+HE,Women info.,External support,0.23,0.23
+HE,Men info.,External support,0.197,0.168
+HE,Gov/NGO,External support,NA,NA
+HI,Lend money,Borrow money,0.607,0.707
+HI,Borrow goods,Borrow money,0.364,0.359
+HI,Lend goods,Borrow money,0.389,0.378
+HI,Women behav.,Borrow money,0.156,0.099
+HI,Men behav.,Borrow money,0.213,0.287
+HI,Women info.,Borrow money,0.442,0.453
+HI,Men info.,Borrow money,0.381,0.41
+HI,Gov/NGO,Borrow money,-0.005,-0.006
+HI,External support,Borrow money,-0.005,-0.006
+HI,Borrow money,Lend money,0.607,0.707
+HI,Borrow goods,Lend money,0.343,0.352
+HI,Lend goods,Lend money,0.365,0.347
+HI,Women behav.,Lend money,0.055,0.086
+HI,Men behav.,Lend money,0.242,0.284
+HI,Women info.,Lend money,0.347,0.364
+HI,Men info.,Lend money,0.386,0.395
+HI,Gov/NGO,Lend money,-0.006,-0.006
+HI,External support,Lend money,-0.006,-0.006
+HI,Borrow money,Borrow goods,0.364,0.359
+HI,Lend money,Borrow goods,0.343,0.352
+HI,Lend goods,Borrow goods,0.784,0.784
+HI,Women behav.,Borrow goods,0.193,0.231
+HI,Men behav.,Borrow goods,0.379,0.413
+HI,Women info.,Borrow goods,0.399,0.392
+HI,Men info.,Borrow goods,0.565,0.561
+HI,Gov/NGO,Borrow goods,-0.007,-0.007
+HI,External support,Borrow goods,0.086,0.088
+HI,Borrow money,Lend goods,0.389,0.378
+HI,Lend money,Lend goods,0.365,0.347
+HI,Borrow goods,Lend goods,0.784,0.784
+HI,Women behav.,Lend goods,0.166,0.199
+HI,Men behav.,Lend goods,0.401,0.419
+HI,Women info.,Lend goods,0.438,0.414
+HI,Men info.,Lend goods,0.558,0.538
+HI,Gov/NGO,Lend goods,-0.008,-0.008
+HI,External support,Lend goods,0.08,0.083
+HI,Borrow money,Women behav.,0.156,0.099
+HI,Lend money,Women behav.,0.055,0.086
+HI,Borrow goods,Women behav.,0.193,0.231
+HI,Lend goods,Women behav.,0.166,0.199
+HI,Men behav.,Women behav.,0.096,0.123
+HI,Women info.,Women behav.,0.292,0.259
+HI,Men info.,Women behav.,0.142,0.15
+HI,Gov/NGO,Women behav.,-0.003,-0.004
+HI,External support,Women behav.,-0.003,-0.004
+HI,Borrow money,Men behav.,0.213,0.287
+HI,Lend money,Men behav.,0.242,0.284
+HI,Borrow goods,Men behav.,0.379,0.413
+HI,Lend goods,Men behav.,0.401,0.419
+HI,Women behav.,Men behav.,0.096,0.123
+HI,Women info.,Men behav.,0.339,0.356
+HI,Men info.,Men behav.,0.352,0.386
+HI,Gov/NGO,Men behav.,-0.005,-0.006
+HI,External support,Men behav.,-0.005,-0.006
+HI,Borrow money,Women info.,0.442,0.453
+HI,Lend money,Women info.,0.347,0.364
+HI,Borrow goods,Women info.,0.399,0.392
+HI,Lend goods,Women info.,0.438,0.414
+HI,Women behav.,Women info.,0.292,0.259
+HI,Men behav.,Women info.,0.339,0.356
+HI,Men info.,Women info.,0.46,0.442
+HI,Gov/NGO,Women info.,-0.008,-0.008
+HI,External support,Women info.,-0.008,-0.008
+HI,Borrow money,Men info.,0.381,0.41
+HI,Lend money,Men info.,0.386,0.395
+HI,Borrow goods,Men info.,0.565,0.561
+HI,Lend goods,Men info.,0.558,0.538
+HI,Women behav.,Men info.,0.142,0.15
+HI,Men behav.,Men info.,0.352,0.386
+HI,Women info.,Men info.,0.46,0.442
+HI,Gov/NGO,Men info.,-0.008,-0.009
+HI,External support,Men info.,0.076,0.077
+HI,Borrow money,Gov/NGO,-0.005,-0.006
+HI,Lend money,Gov/NGO,-0.006,-0.006
+HI,Borrow goods,Gov/NGO,-0.007,-0.007
+HI,Lend goods,Gov/NGO,-0.008,-0.008
+HI,Women behav.,Gov/NGO,-0.003,-0.004
+HI,Men behav.,Gov/NGO,-0.005,-0.006
+HI,Women info.,Gov/NGO,-0.008,-0.008
+HI,Men info.,Gov/NGO,-0.008,-0.009
+HI,External support,Gov/NGO,-0.001,-0.001
+HI,Borrow money,External support,-0.005,-0.006
+HI,Lend money,External support,-0.006,-0.006
+HI,Borrow goods,External support,0.086,0.088
+HI,Lend goods,External support,0.08,0.083
+HI,Women behav.,External support,-0.003,-0.004
+HI,Men behav.,External support,-0.005,-0.006
+HI,Women info.,External support,-0.008,-0.008
+HI,Men info.,External support,0.076,0.077
+HI,Gov/NGO,External support,-0.001,-0.001
+IH,Lend money,Borrow money,NA,NA
+IH,Borrow goods,Borrow money,0.306,0.301
+IH,Lend goods,Borrow money,0.113,0.129
+IH,Women behav.,Borrow money,0.031,0.051
+IH,Men behav.,Borrow money,0.155,0.088
+IH,Women info.,Borrow money,0.142,0.196
+IH,Men info.,Borrow money,0.204,0.283
+IH,Gov/NGO,Borrow money,NA,NA
+IH,External support,Borrow money,NA,NA
+IH,Borrow money,Lend money,NA,NA
+IH,Borrow goods,Lend money,NA,NA
+IH,Lend goods,Lend money,NA,NA
+IH,Women behav.,Lend money,NA,NA
+IH,Men behav.,Lend money,NA,NA
+IH,Women info.,Lend money,NA,NA
+IH,Men info.,Lend money,NA,NA
+IH,Gov/NGO,Lend money,NA,NA
+IH,External support,Lend money,NA,NA
+IH,Borrow money,Borrow goods,0.306,0.301
+IH,Lend money,Borrow goods,NA,NA
+IH,Lend goods,Borrow goods,0.461,0.363
+IH,Women behav.,Borrow goods,-0.003,-0.003
+IH,Men behav.,Borrow goods,-0.002,-0.002
+IH,Women info.,Borrow goods,0.217,0.161
+IH,Men info.,Borrow goods,0.11,0.084
+IH,Gov/NGO,Borrow goods,NA,NA
+IH,External support,Borrow goods,NA,NA
+IH,Borrow money,Lend goods,0.113,0.129
+IH,Lend money,Lend goods,NA,NA
+IH,Borrow goods,Lend goods,0.461,0.363
+IH,Women behav.,Lend goods,-0.003,-0.003
+IH,Men behav.,Lend goods,-0.002,-0.002
+IH,Women info.,Lend goods,0.108,0.086
+IH,Men info.,Lend goods,0.074,0.093
+IH,Gov/NGO,Lend goods,NA,NA
+IH,External support,Lend goods,NA,NA
+IH,Borrow money,Women behav.,0.031,0.051
+IH,Lend money,Women behav.,NA,NA
+IH,Borrow goods,Women behav.,-0.003,-0.003
+IH,Lend goods,Women behav.,-0.003,-0.003
+IH,Men behav.,Women behav.,-0.002,-0.002
+IH,Women info.,Women behav.,0.126,0.186
+IH,Men info.,Women behav.,-0.004,-0.004
+IH,Gov/NGO,Women behav.,NA,NA
+IH,External support,Women behav.,NA,NA
+IH,Borrow money,Men behav.,0.155,0.088
+IH,Lend money,Men behav.,NA,NA
+IH,Borrow goods,Men behav.,-0.002,-0.002
+IH,Lend goods,Men behav.,-0.002,-0.002
+IH,Women behav.,Men behav.,-0.002,-0.002
+IH,Women info.,Men behav.,-0.003,-0.003
+IH,Men info.,Men behav.,0.039,0.063
+IH,Gov/NGO,Men behav.,NA,NA
+IH,External support,Men behav.,NA,NA
+IH,Borrow money,Women info.,0.142,0.196
+IH,Lend money,Women info.,NA,NA
+IH,Borrow goods,Women info.,0.217,0.161
+IH,Lend goods,Women info.,0.108,0.086
+IH,Women behav.,Women info.,0.126,0.186
+IH,Men behav.,Women info.,-0.003,-0.003
+IH,Men info.,Women info.,0.026,0.027
+IH,Gov/NGO,Women info.,NA,NA
+IH,External support,Women info.,NA,NA
+IH,Borrow money,Men info.,0.204,0.283
+IH,Lend money,Men info.,NA,NA
+IH,Borrow goods,Men info.,0.11,0.084
+IH,Lend goods,Men info.,0.074,0.093
+IH,Women behav.,Men info.,-0.004,-0.004
+IH,Men behav.,Men info.,0.039,0.063
+IH,Women info.,Men info.,0.026,0.027
+IH,Gov/NGO,Men info.,NA,NA
+IH,External support,Men info.,NA,NA
+IH,Borrow money,Gov/NGO,NA,NA
+IH,Lend money,Gov/NGO,NA,NA
+IH,Borrow goods,Gov/NGO,NA,NA
+IH,Lend goods,Gov/NGO,NA,NA
+IH,Women behav.,Gov/NGO,NA,NA
+IH,Men behav.,Gov/NGO,NA,NA
+IH,Women info.,Gov/NGO,NA,NA
+IH,Men info.,Gov/NGO,NA,NA
+IH,External support,Gov/NGO,NA,NA
+IH,Borrow money,External support,NA,NA
+IH,Lend money,External support,NA,NA
+IH,Borrow goods,External support,NA,NA
+IH,Lend goods,External support,NA,NA
+IH,Women behav.,External support,NA,NA
+IH,Men behav.,External support,NA,NA
+IH,Women info.,External support,NA,NA
+IH,Men info.,External support,NA,NA
+IH,Gov/NGO,External support,NA,NA
+KA,Lend money,Borrow money,0.669,0.656
+KA,Borrow goods,Borrow money,0.499,0.483
+KA,Lend goods,Borrow money,0.405,0.404
+KA,Women behav.,Borrow money,0.424,0.422
+KA,Men behav.,Borrow money,0.191,0.186
+KA,Women info.,Borrow money,0.263,0.268
+KA,Men info.,Borrow money,0.105,0.101
+KA,Gov/NGO,Borrow money,0.105,0.108
+KA,External support,Borrow money,0.079,0.078
+KA,Borrow money,Lend money,0.669,0.656
+KA,Borrow goods,Lend money,0.485,0.466
+KA,Lend goods,Lend money,0.366,0.371
+KA,Women behav.,Lend money,0.357,0.36
+KA,Men behav.,Lend money,0.229,0.232
+KA,Women info.,Lend money,0.274,0.284
+KA,Men info.,Lend money,0.095,0.093
+KA,Gov/NGO,Lend money,0.086,0.087
+KA,External support,Lend money,0.026,0.026
+KA,Borrow money,Borrow goods,0.499,0.483
+KA,Lend money,Borrow goods,0.485,0.466
+KA,Lend goods,Borrow goods,0.691,0.701
+KA,Women behav.,Borrow goods,0.403,0.413
+KA,Men behav.,Borrow goods,0.251,0.244
+KA,Women info.,Borrow goods,0.325,0.323
+KA,Men info.,Borrow goods,0.101,0.099
+KA,Gov/NGO,Borrow goods,0.051,0.056
+KA,External support,Borrow goods,0.046,0.045
+KA,Borrow money,Lend goods,0.405,0.404
+KA,Lend money,Lend goods,0.366,0.371
+KA,Borrow goods,Lend goods,0.691,0.701
+KA,Women behav.,Lend goods,0.432,0.445
+KA,Men behav.,Lend goods,0.223,0.222
+KA,Women info.,Lend goods,0.282,0.289
+KA,Men info.,Lend goods,0.103,0.104
+KA,Gov/NGO,Lend goods,0.058,0.059
+KA,External support,Lend goods,0.038,0.033
+KA,Borrow money,Women behav.,0.424,0.422
+KA,Lend money,Women behav.,0.357,0.36
+KA,Borrow goods,Women behav.,0.403,0.413
+KA,Lend goods,Women behav.,0.432,0.445
+KA,Men behav.,Women behav.,0.175,0.18
+KA,Women info.,Women behav.,0.215,0.209
+KA,Men info.,Women behav.,0.073,0.064
+KA,Gov/NGO,Women behav.,0.046,0.05
+KA,External support,Women behav.,0.067,0.057
+KA,Borrow money,Men behav.,0.191,0.186
+KA,Lend money,Men behav.,0.229,0.232
+KA,Borrow goods,Men behav.,0.251,0.244
+KA,Lend goods,Men behav.,0.223,0.222
+KA,Women behav.,Men behav.,0.175,0.18
+KA,Women info.,Men behav.,0.208,0.197
+KA,Men info.,Men behav.,0.036,0.041
+KA,Gov/NGO,Men behav.,-0.004,-0.007
+KA,External support,Men behav.,-0.005,-0.005
+KA,Borrow money,Women info.,0.263,0.268
+KA,Lend money,Women info.,0.274,0.284
+KA,Borrow goods,Women info.,0.325,0.323
+KA,Lend goods,Women info.,0.282,0.289
+KA,Women behav.,Women info.,0.215,0.209
+KA,Men behav.,Women info.,0.208,0.197
+KA,Men info.,Women info.,0.079,0.082
+KA,Gov/NGO,Women info.,0.096,0.098
+KA,External support,Women info.,0.046,0.043
+KA,Borrow money,Men info.,0.105,0.101
+KA,Lend money,Men info.,0.095,0.093
+KA,Borrow goods,Men info.,0.101,0.099
+KA,Lend goods,Men info.,0.103,0.104
+KA,Women behav.,Men info.,0.073,0.064
+KA,Men behav.,Men info.,0.036,0.041
+KA,Women info.,Men info.,0.079,0.082
+KA,Gov/NGO,Men info.,0.098,0.095
+KA,External support,Men info.,0.015,0.02
+KA,Borrow money,Gov/NGO,0.105,0.108
+KA,Lend money,Gov/NGO,0.086,0.087
+KA,Borrow goods,Gov/NGO,0.051,0.056
+KA,Lend goods,Gov/NGO,0.058,0.059
+KA,Women behav.,Gov/NGO,0.046,0.05
+KA,Men behav.,Gov/NGO,-0.004,-0.007
+KA,Women info.,Gov/NGO,0.096,0.098
+KA,Men info.,Gov/NGO,0.098,0.095
+KA,External support,Gov/NGO,0,0.003
+KA,Borrow money,External support,0.079,0.078
+KA,Lend money,External support,0.026,0.026
+KA,Borrow goods,External support,0.046,0.045
+KA,Lend goods,External support,0.038,0.033
+KA,Women behav.,External support,0.067,0.057
+KA,Men behav.,External support,-0.005,-0.005
+KA,Women info.,External support,0.046,0.043
+KA,Men info.,External support,0.015,0.02
+KA,Gov/NGO,External support,0,0.003
+KM,Lend money,Borrow money,0.632,0.632
+KM,Borrow goods,Borrow money,0.268,0.268
+KM,Lend goods,Borrow money,0.272,0.272
+KM,Women behav.,Borrow money,0.188,0.188
+KM,Men behav.,Borrow money,0.207,0.207
+KM,Women info.,Borrow money,0.378,0.378
+KM,Men info.,Borrow money,0.217,0.217
+KM,Gov/NGO,Borrow money,0.158,0.158
+KM,External support,Borrow money,-0.003,-0.003
+KM,Borrow money,Lend money,0.632,0.632
+KM,Borrow goods,Lend money,0.164,0.164
+KM,Lend goods,Lend money,0.298,0.298
+KM,Women behav.,Lend money,0.197,0.197
+KM,Men behav.,Lend money,0.186,0.186
+KM,Women info.,Lend money,0.34,0.34
+KM,Men info.,Lend money,0.156,0.156
+KM,Gov/NGO,Lend money,0.116,0.116
+KM,External support,Lend money,-0.002,-0.002
+KM,Borrow money,Borrow goods,0.268,0.268
+KM,Lend money,Borrow goods,0.164,0.164
+KM,Lend goods,Borrow goods,0.275,0.275
+KM,Women behav.,Borrow goods,0.221,0.221
+KM,Men behav.,Borrow goods,0.224,0.224
+KM,Women info.,Borrow goods,0.2,0.2
+KM,Men info.,Borrow goods,0.243,0.243
+KM,Gov/NGO,Borrow goods,0.03,0.03
+KM,External support,Borrow goods,0.073,0.073
+KM,Borrow money,Lend goods,0.272,0.272
+KM,Lend money,Lend goods,0.298,0.298
+KM,Borrow goods,Lend goods,0.275,0.275
+KM,Women behav.,Lend goods,0.255,0.255
+KM,Men behav.,Lend goods,0.188,0.188
+KM,Women info.,Lend goods,0.292,0.292
+KM,Men info.,Lend goods,0.207,0.207
+KM,Gov/NGO,Lend goods,0.037,0.037
+KM,External support,Lend goods,0.066,0.066
+KM,Borrow money,Women behav.,0.188,0.188
+KM,Lend money,Women behav.,0.197,0.197
+KM,Borrow goods,Women behav.,0.221,0.221
+KM,Lend goods,Women behav.,0.255,0.255
+KM,Men behav.,Women behav.,0.25,0.25
+KM,Women info.,Women behav.,0.265,0.265
+KM,Men info.,Women behav.,0.195,0.195
+KM,Gov/NGO,Women behav.,0.068,0.068
+KM,External support,Women behav.,-0.002,-0.002
+KM,Borrow money,Men behav.,0.207,0.207
+KM,Lend money,Men behav.,0.186,0.186
+KM,Borrow goods,Men behav.,0.224,0.224
+KM,Lend goods,Men behav.,0.188,0.188
+KM,Women behav.,Men behav.,0.25,0.25
+KM,Women info.,Men behav.,0.236,0.236
+KM,Men info.,Men behav.,0.26,0.26
+KM,Gov/NGO,Men behav.,0.082,0.082
+KM,External support,Men behav.,0.096,0.096
+KM,Borrow money,Women info.,0.378,0.378
+KM,Lend money,Women info.,0.34,0.34
+KM,Borrow goods,Women info.,0.2,0.2
+KM,Lend goods,Women info.,0.292,0.292
+KM,Women behav.,Women info.,0.265,0.265
+KM,Men behav.,Women info.,0.236,0.236
+KM,Men info.,Women info.,0.147,0.147
+KM,Gov/NGO,Women info.,0.115,0.115
+KM,External support,Women info.,0.073,0.073
+KM,Borrow money,Men info.,0.217,0.217
+KM,Lend money,Men info.,0.156,0.156
+KM,Borrow goods,Men info.,0.243,0.243
+KM,Lend goods,Men info.,0.207,0.207
+KM,Women behav.,Men info.,0.195,0.195
+KM,Men behav.,Men info.,0.26,0.26
+KM,Women info.,Men info.,0.147,0.147
+KM,Gov/NGO,Men info.,0.016,0.016
+KM,External support,Men info.,-0.003,-0.003
+KM,Borrow money,Gov/NGO,0.158,0.158
+KM,Lend money,Gov/NGO,0.116,0.116
+KM,Borrow goods,Gov/NGO,0.03,0.03
+KM,Lend goods,Gov/NGO,0.037,0.037
+KM,Women behav.,Gov/NGO,0.068,0.068
+KM,Men behav.,Gov/NGO,0.082,0.082
+KM,Women info.,Gov/NGO,0.115,0.115
+KM,Men info.,Gov/NGO,0.016,0.016
+KM,External support,Gov/NGO,-0.002,-0.002
+KM,Borrow money,External support,-0.003,-0.003
+KM,Lend money,External support,-0.002,-0.002
+KM,Borrow goods,External support,0.073,0.073
+KM,Lend goods,External support,0.066,0.066
+KM,Women behav.,External support,-0.002,-0.002
+KM,Men behav.,External support,0.096,0.096
+KM,Women info.,External support,0.073,0.073
+KM,Men info.,External support,-0.003,-0.003
+KM,Gov/NGO,External support,-0.002,-0.002
+KO,Lend money,Borrow money,0.703,0.697
+KO,Borrow goods,Borrow money,0.112,0.104
+KO,Lend goods,Borrow money,0.11,0.104
+KO,Women behav.,Borrow money,0.121,0.112
+KO,Men behav.,Borrow money,0.367,0.371
+KO,Women info.,Borrow money,0.1,0.098
+KO,Men info.,Borrow money,0.371,0.367
+KO,Gov/NGO,Borrow money,0.004,0.005
+KO,External support,Borrow money,0.074,0.075
+KO,Borrow money,Lend money,0.703,0.697
+KO,Borrow goods,Lend money,0.126,0.118
+KO,Lend goods,Lend money,0.124,0.118
+KO,Women behav.,Lend money,0.129,0.121
+KO,Men behav.,Lend money,0.398,0.403
+KO,Women info.,Lend money,0.107,0.106
+KO,Men info.,Lend money,0.403,0.4
+KO,Gov/NGO,Lend money,0.005,0.005
+KO,External support,Lend money,0.019,0.019
+KO,Borrow money,Borrow goods,0.112,0.104
+KO,Lend money,Borrow goods,0.126,0.118
+KO,Lend goods,Borrow goods,0.836,0.848
+KO,Women behav.,Borrow goods,0.576,0.578
+KO,Men behav.,Borrow goods,0.097,0.093
+KO,Women info.,Borrow goods,0.667,0.661
+KO,Men info.,Borrow goods,0.149,0.153
+KO,Gov/NGO,Borrow goods,0.002,0.003
+KO,External support,Borrow goods,0.016,0.017
+KO,Borrow money,Lend goods,0.11,0.104
+KO,Lend money,Lend goods,0.124,0.118
+KO,Borrow goods,Lend goods,0.836,0.848
+KO,Women behav.,Lend goods,0.576,0.577
+KO,Men behav.,Lend goods,0.128,0.12
+KO,Women info.,Lend goods,0.633,0.631
+KO,Men info.,Lend goods,0.161,0.168
+KO,Gov/NGO,Lend goods,0.003,0.004
+KO,External support,Lend goods,0.017,0.018
+KO,Borrow money,Women behav.,0.121,0.112
+KO,Lend money,Women behav.,0.129,0.121
+KO,Borrow goods,Women behav.,0.576,0.578
+KO,Lend goods,Women behav.,0.576,0.577
+KO,Men behav.,Women behav.,0.101,0.098
+KO,Women info.,Women behav.,0.515,0.521
+KO,Men info.,Women behav.,0.113,0.11
+KO,Gov/NGO,Women behav.,0.007,0.008
+KO,External support,Women behav.,0.022,0.023
+KO,Borrow money,Men behav.,0.367,0.371
+KO,Lend money,Men behav.,0.398,0.403
+KO,Borrow goods,Men behav.,0.097,0.093
+KO,Lend goods,Men behav.,0.128,0.12
+KO,Women behav.,Men behav.,0.101,0.098
+KO,Women info.,Men behav.,0.159,0.15
+KO,Men info.,Men behav.,0.366,0.366
+KO,Gov/NGO,Men behav.,0.062,0.062
+KO,External support,Men behav.,0.05,0.05
+KO,Borrow money,Women info.,0.1,0.098
+KO,Lend money,Women info.,0.107,0.106
+KO,Borrow goods,Women info.,0.667,0.661
+KO,Lend goods,Women info.,0.633,0.631
+KO,Women behav.,Women info.,0.515,0.521
+KO,Men behav.,Women info.,0.159,0.15
+KO,Men info.,Women info.,0.165,0.171
+KO,Gov/NGO,Women info.,0.022,0.023
+KO,External support,Women info.,0.019,0.02
+KO,Borrow money,Men info.,0.371,0.367
+KO,Lend money,Men info.,0.403,0.4
+KO,Borrow goods,Men info.,0.149,0.153
+KO,Lend goods,Men info.,0.161,0.168
+KO,Women behav.,Men info.,0.113,0.11
+KO,Men behav.,Men info.,0.366,0.366
+KO,Women info.,Men info.,0.165,0.171
+KO,Gov/NGO,Men info.,0.064,0.064
+KO,External support,Men info.,0.022,0.022
+KO,Borrow money,Gov/NGO,0.004,0.005
+KO,Lend money,Gov/NGO,0.005,0.005
+KO,Borrow goods,Gov/NGO,0.002,0.003
+KO,Lend goods,Gov/NGO,0.003,0.004
+KO,Women behav.,Gov/NGO,0.007,0.008
+KO,Men behav.,Gov/NGO,0.062,0.062
+KO,Women info.,Gov/NGO,0.022,0.023
+KO,Men info.,Gov/NGO,0.064,0.064
+KO,External support,Gov/NGO,0.139,0.139
+KO,Borrow money,External support,0.074,0.075
+KO,Lend money,External support,0.019,0.019
+KO,Borrow goods,External support,0.016,0.017
+KO,Lend goods,External support,0.017,0.018
+KO,Women behav.,External support,0.022,0.023
+KO,Men behav.,External support,0.05,0.05
+KO,Women info.,External support,0.019,0.02
+KO,Men info.,External support,0.022,0.022
+KO,Gov/NGO,External support,0.139,0.139
+KS,Lend money,Borrow money,0.257,0.225
+KS,Borrow goods,Borrow money,0.264,0.258
+KS,Lend goods,Borrow money,0.231,0.208
+KS,Women behav.,Borrow money,0.222,0.241
+KS,Men behav.,Borrow money,0.164,0.171
+KS,Women info.,Borrow money,0.191,0.192
+KS,Men info.,Borrow money,0.146,0.152
+KS,Gov/NGO,Borrow money,-0.01,-0.01
+KS,External support,Borrow money,0.309,0.305
+KS,Borrow money,Lend money,0.257,0.225
+KS,Borrow goods,Lend money,0.58,0.56
+KS,Lend goods,Lend money,0.545,0.547
+KS,Women behav.,Lend money,0.506,0.482
+KS,Men behav.,Lend money,0.413,0.375
+KS,Women info.,Lend money,0.383,0.387
+KS,Men info.,Lend money,0.256,0.258
+KS,Gov/NGO,Lend money,-0.011,-0.011
+KS,External support,Lend money,-0.02,-0.02
+KS,Borrow money,Borrow goods,0.264,0.258
+KS,Lend money,Borrow goods,0.58,0.56
+KS,Lend goods,Borrow goods,0.654,0.634
+KS,Women behav.,Borrow goods,0.483,0.514
+KS,Men behav.,Borrow goods,0.465,0.44
+KS,Women info.,Borrow goods,0.499,0.509
+KS,Men info.,Borrow goods,0.327,0.349
+KS,Gov/NGO,Borrow goods,-0.012,-0.012
+KS,External support,Borrow goods,0.019,0.023
+KS,Borrow money,Lend goods,0.231,0.208
+KS,Lend money,Lend goods,0.545,0.547
+KS,Borrow goods,Lend goods,0.654,0.634
+KS,Women behav.,Lend goods,0.432,0.463
+KS,Men behav.,Lend goods,0.405,0.378
+KS,Women info.,Lend goods,0.509,0.521
+KS,Men info.,Lend goods,0.27,0.279
+KS,Gov/NGO,Lend goods,-0.012,-0.012
+KS,External support,Lend goods,-0.006,-0.004
+KS,Borrow money,Women behav.,0.222,0.241
+KS,Lend money,Women behav.,0.506,0.482
+KS,Borrow goods,Women behav.,0.483,0.514
+KS,Lend goods,Women behav.,0.432,0.463
+KS,Men behav.,Women behav.,0.333,0.279
+KS,Women info.,Women behav.,0.335,0.332
+KS,Men info.,Women behav.,0.201,0.199
+KS,Gov/NGO,Women behav.,-0.007,-0.008
+KS,External support,Women behav.,-0.024,-0.028
+KS,Borrow money,Men behav.,0.164,0.171
+KS,Lend money,Men behav.,0.413,0.375
+KS,Borrow goods,Men behav.,0.465,0.44
+KS,Lend goods,Men behav.,0.405,0.378
+KS,Women behav.,Men behav.,0.333,0.279
+KS,Women info.,Men behav.,0.327,0.314
+KS,Men info.,Men behav.,0.41,0.425
+KS,Gov/NGO,Men behav.,-0.011,-0.012
+KS,External support,Men behav.,0.023,0.019
+KS,Borrow money,Women info.,0.191,0.192
+KS,Lend money,Women info.,0.383,0.387
+KS,Borrow goods,Women info.,0.499,0.509
+KS,Lend goods,Women info.,0.509,0.521
+KS,Women behav.,Women info.,0.335,0.332
+KS,Men behav.,Women info.,0.327,0.314
+KS,Men info.,Women info.,0.32,0.317
+KS,Gov/NGO,Women info.,-0.013,-0.013
+KS,External support,Women info.,0.041,0.044
+KS,Borrow money,Men info.,0.146,0.152
+KS,Lend money,Men info.,0.256,0.258
+KS,Borrow goods,Men info.,0.327,0.349
+KS,Lend goods,Men info.,0.27,0.279
+KS,Women behav.,Men info.,0.201,0.199
+KS,Men behav.,Men info.,0.41,0.425
+KS,Women info.,Men info.,0.32,0.317
+KS,Gov/NGO,Men info.,-0.012,-0.012
+KS,External support,Men info.,-0.007,-0.006
+KS,Borrow money,Gov/NGO,-0.01,-0.01
+KS,Lend money,Gov/NGO,-0.011,-0.011
+KS,Borrow goods,Gov/NGO,-0.012,-0.012
+KS,Lend goods,Gov/NGO,-0.012,-0.012
+KS,Women behav.,Gov/NGO,-0.007,-0.008
+KS,Men behav.,Gov/NGO,-0.011,-0.012
+KS,Women info.,Gov/NGO,-0.013,-0.013
+KS,Men info.,Gov/NGO,-0.012,-0.012
+KS,External support,Gov/NGO,-0.006,-0.006
+KS,Borrow money,External support,0.309,0.305
+KS,Lend money,External support,-0.02,-0.02
+KS,Borrow goods,External support,0.019,0.023
+KS,Lend goods,External support,-0.006,-0.004
+KS,Women behav.,External support,-0.024,-0.028
+KS,Men behav.,External support,0.023,0.019
+KS,Women info.,External support,0.041,0.044
+KS,Men info.,External support,-0.007,-0.006
+KS,Gov/NGO,External support,-0.006,-0.006
+KT,Lend money,Borrow money,0.25,0.153
+KT,Borrow goods,Borrow money,0.562,0.436
+KT,Lend goods,Borrow money,0.288,0.225
+KT,Women behav.,Borrow money,0.178,0.144
+KT,Men behav.,Borrow money,0.21,0.042
+KT,Women info.,Borrow money,0.292,0.172
+KT,Men info.,Borrow money,0.226,0.11
+KT,Gov/NGO,Borrow money,NA,NA
+KT,External support,Borrow money,0.189,0.289
+KT,Borrow money,Lend money,0.25,0.153
+KT,Borrow goods,Lend money,0.495,0.46
+KT,Lend goods,Lend money,0.433,0.335
+KT,Women behav.,Lend money,0.259,0.293
+KT,Men behav.,Lend money,0.106,0.179
+KT,Women info.,Lend money,0.39,0.324
+KT,Men info.,Lend money,0.35,0.24
+KT,Gov/NGO,Lend money,NA,NA
+KT,External support,Lend money,-0.037,-0.038
+KT,Borrow money,Borrow goods,0.562,0.436
+KT,Lend money,Borrow goods,0.495,0.46
+KT,Lend goods,Borrow goods,0.782,0.802
+KT,Women behav.,Borrow goods,0.212,0.202
+KT,Men behav.,Borrow goods,0.3,0.235
+KT,Women info.,Borrow goods,0.581,0.449
+KT,Men info.,Borrow goods,0.534,0.382
+KT,Gov/NGO,Borrow goods,NA,NA
+KT,External support,Borrow goods,0.004,0.022
+KT,Borrow money,Lend goods,0.288,0.225
+KT,Lend money,Lend goods,0.433,0.335
+KT,Borrow goods,Lend goods,0.782,0.802
+KT,Women behav.,Lend goods,0.046,0.072
+KT,Men behav.,Lend goods,0.328,0.251
+KT,Women info.,Lend goods,0.659,0.511
+KT,Men info.,Lend goods,0.623,0.442
+KT,Gov/NGO,Lend goods,NA,NA
+KT,External support,Lend goods,0.013,0.03
+KT,Borrow money,Women behav.,0.178,0.144
+KT,Lend money,Women behav.,0.259,0.293
+KT,Borrow goods,Women behav.,0.212,0.202
+KT,Lend goods,Women behav.,0.046,0.072
+KT,Men behav.,Women behav.,0.186,0.272
+KT,Women info.,Women behav.,0.165,0.223
+KT,Men info.,Women behav.,0.098,0.136
+KT,Gov/NGO,Women behav.,NA,NA
+KT,External support,Women behav.,0.043,0.043
+KT,Borrow money,Men behav.,0.21,0.042
+KT,Lend money,Men behav.,0.106,0.179
+KT,Borrow goods,Men behav.,0.3,0.235
+KT,Lend goods,Men behav.,0.328,0.251
+KT,Women behav.,Men behav.,0.186,0.272
+KT,Women info.,Men behav.,0.308,0.127
+KT,Men info.,Men behav.,0.321,0.158
+KT,Gov/NGO,Men behav.,NA,NA
+KT,External support,Men behav.,-0.028,-0.031
+KT,Borrow money,Women info.,0.292,0.172
+KT,Lend money,Women info.,0.39,0.324
+KT,Borrow goods,Women info.,0.581,0.449
+KT,Lend goods,Women info.,0.659,0.511
+KT,Women behav.,Women info.,0.165,0.223
+KT,Men behav.,Women info.,0.308,0.127
+KT,Men info.,Women info.,0.71,0.577
+KT,Gov/NGO,Women info.,NA,NA
+KT,External support,Women info.,-0.02,-0.011
+KT,Borrow money,Men info.,0.226,0.11
+KT,Lend money,Men info.,0.35,0.24
+KT,Borrow goods,Men info.,0.534,0.382
+KT,Lend goods,Men info.,0.623,0.442
+KT,Women behav.,Men info.,0.098,0.136
+KT,Men behav.,Men info.,0.321,0.158
+KT,Women info.,Men info.,0.71,0.577
+KT,Gov/NGO,Men info.,NA,NA
+KT,External support,Men info.,-0.038,-0.036
+KT,Borrow money,Gov/NGO,NA,NA
+KT,Lend money,Gov/NGO,NA,NA
+KT,Borrow goods,Gov/NGO,NA,NA
+KT,Lend goods,Gov/NGO,NA,NA
+KT,Women behav.,Gov/NGO,NA,NA
+KT,Men behav.,Gov/NGO,NA,NA
+KT,Women info.,Gov/NGO,NA,NA
+KT,Men info.,Gov/NGO,NA,NA
+KT,External support,Gov/NGO,NA,NA
+KT,Borrow money,External support,0.189,0.289
+KT,Lend money,External support,-0.037,-0.038
+KT,Borrow goods,External support,0.004,0.022
+KT,Lend goods,External support,0.013,0.03
+KT,Women behav.,External support,0.043,0.043
+KT,Men behav.,External support,-0.028,-0.031
+KT,Women info.,External support,-0.02,-0.011
+KT,Men info.,External support,-0.038,-0.036
+KT,Gov/NGO,External support,NA,NA
+LB,Lend money,Borrow money,0.233,0.315
+LB,Borrow goods,Borrow money,0.369,0.395
+LB,Lend goods,Borrow money,0.024,0.04
+LB,Women behav.,Borrow money,0.182,0.256
+LB,Men behav.,Borrow money,-0.013,-0.014
+LB,Women info.,Borrow money,0.145,0.166
+LB,Men info.,Borrow money,0.257,0.215
+LB,Gov/NGO,Borrow money,0.056,0.065
+LB,External support,Borrow money,0.295,0.338
+LB,Borrow money,Lend money,0.233,0.315
+LB,Borrow goods,Lend money,0.479,0.511
+LB,Lend goods,Lend money,0.444,0.368
+LB,Women behav.,Lend money,0.547,0.455
+LB,Men behav.,Lend money,0.129,0.188
+LB,Women info.,Lend money,0.307,0.385
+LB,Men info.,Lend money,0.212,0.293
+LB,Gov/NGO,Lend money,0.083,0.096
+LB,External support,Lend money,0.352,0.351
+LB,Borrow money,Borrow goods,0.369,0.395
+LB,Lend money,Borrow goods,0.479,0.511
+LB,Lend goods,Borrow goods,0.286,0.275
+LB,Women behav.,Borrow goods,0.411,0.414
+LB,Men behav.,Borrow goods,0.174,0.171
+LB,Women info.,Borrow goods,0.255,0.29
+LB,Men info.,Borrow goods,0.284,0.317
+LB,Gov/NGO,Borrow goods,0.13,0.163
+LB,External support,Borrow goods,0.553,0.545
+LB,Borrow money,Lend goods,0.024,0.04
+LB,Lend money,Lend goods,0.444,0.368
+LB,Borrow goods,Lend goods,0.286,0.275
+LB,Women behav.,Lend goods,0.626,0.431
+LB,Men behav.,Lend goods,0.056,0.031
+LB,Women info.,Lend goods,0.13,0.168
+LB,Men info.,Lend goods,0.214,0.272
+LB,Gov/NGO,Lend goods,0.1,0.13
+LB,External support,Lend goods,0.107,0.138
+LB,Borrow money,Women behav.,0.182,0.256
+LB,Lend money,Women behav.,0.547,0.455
+LB,Borrow goods,Women behav.,0.411,0.414
+LB,Lend goods,Women behav.,0.626,0.431
+LB,Men behav.,Women behav.,0.051,0.025
+LB,Women info.,Women behav.,0.122,0.153
+LB,Men info.,Women behav.,0.165,0.205
+LB,Gov/NGO,Women behav.,0.055,0.071
+LB,External support,Women behav.,0.242,0.27
+LB,Borrow money,Men behav.,-0.013,-0.014
+LB,Lend money,Men behav.,0.129,0.188
+LB,Borrow goods,Men behav.,0.174,0.171
+LB,Lend goods,Men behav.,0.056,0.031
+LB,Women behav.,Men behav.,0.051,0.025
+LB,Women info.,Men behav.,0.178,0.197
+LB,Men info.,Men behav.,-0.016,-0.017
+LB,Gov/NGO,Men behav.,0.111,0.054
+LB,External support,Men behav.,0.203,0.184
+LB,Borrow money,Women info.,0.145,0.166
+LB,Lend money,Women info.,0.307,0.385
+LB,Borrow goods,Women info.,0.255,0.29
+LB,Lend goods,Women info.,0.13,0.168
+LB,Women behav.,Women info.,0.122,0.153
+LB,Men behav.,Women info.,0.178,0.197
+LB,Men info.,Women info.,0.438,0.438
+LB,Gov/NGO,Women info.,0.189,0.189
+LB,External support,Women info.,0.224,0.201
+LB,Borrow money,Men info.,0.257,0.215
+LB,Lend money,Men info.,0.212,0.293
+LB,Borrow goods,Men info.,0.284,0.317
+LB,Lend goods,Men info.,0.214,0.272
+LB,Women behav.,Men info.,0.165,0.205
+LB,Men behav.,Men info.,-0.016,-0.017
+LB,Women info.,Men info.,0.438,0.438
+LB,Gov/NGO,Men info.,0.114,0.114
+LB,External support,Men info.,0.238,0.236
+LB,Borrow money,Gov/NGO,0.056,0.065
+LB,Lend money,Gov/NGO,0.083,0.096
+LB,Borrow goods,Gov/NGO,0.13,0.163
+LB,Lend goods,Gov/NGO,0.1,0.13
+LB,Women behav.,Gov/NGO,0.055,0.071
+LB,Men behav.,Gov/NGO,0.111,0.054
+LB,Women info.,Gov/NGO,0.189,0.189
+LB,Men info.,Gov/NGO,0.114,0.114
+LB,External support,Gov/NGO,0.185,0.176
+LB,Borrow money,External support,0.295,0.338
+LB,Lend money,External support,0.352,0.351
+LB,Borrow goods,External support,0.553,0.545
+LB,Lend goods,External support,0.107,0.138
+LB,Women behav.,External support,0.242,0.27
+LB,Men behav.,External support,0.203,0.184
+LB,Women info.,External support,0.224,0.201
+LB,Men info.,External support,0.238,0.236
+LB,Gov/NGO,External support,0.185,0.176
+MA,Lend money,Borrow money,0.544,0.552
+MA,Borrow goods,Borrow money,0.261,0.27
+MA,Lend goods,Borrow money,0.226,0.223
+MA,Women behav.,Borrow money,0.229,0.22
+MA,Men behav.,Borrow money,0.282,0.286
+MA,Women info.,Borrow money,0.283,0.258
+MA,Men info.,Borrow money,0.353,0.355
+MA,Gov/NGO,Borrow money,0.075,0.075
+MA,External support,Borrow money,0.331,0.331
+MA,Borrow money,Lend money,0.544,0.552
+MA,Borrow goods,Lend money,0.185,0.193
+MA,Lend goods,Lend money,0.237,0.23
+MA,Women behav.,Lend money,0.142,0.108
+MA,Men behav.,Lend money,0.246,0.254
+MA,Women info.,Lend money,0.183,0.156
+MA,Men info.,Lend money,0.306,0.322
+MA,Gov/NGO,Lend money,0.026,0.026
+MA,External support,Lend money,0.285,0.29
+MA,Borrow money,Borrow goods,0.261,0.27
+MA,Lend money,Borrow goods,0.185,0.193
+MA,Lend goods,Borrow goods,0.662,0.671
+MA,Women behav.,Borrow goods,0.313,0.333
+MA,Men behav.,Borrow goods,0.188,0.206
+MA,Women info.,Borrow goods,0.442,0.427
+MA,Men info.,Borrow goods,0.18,0.182
+MA,Gov/NGO,Borrow goods,-0.004,-0.003
+MA,External support,Borrow goods,0.147,0.158
+MA,Borrow money,Lend goods,0.226,0.223
+MA,Lend money,Lend goods,0.237,0.23
+MA,Borrow goods,Lend goods,0.662,0.671
+MA,Women behav.,Lend goods,0.322,0.334
+MA,Men behav.,Lend goods,0.23,0.241
+MA,Women info.,Lend goods,0.466,0.455
+MA,Men info.,Lend goods,0.217,0.202
+MA,Gov/NGO,Lend goods,-0.007,-0.006
+MA,External support,Lend goods,0.179,0.177
+MA,Borrow money,Women behav.,0.229,0.22
+MA,Lend money,Women behav.,0.142,0.108
+MA,Borrow goods,Women behav.,0.313,0.333
+MA,Lend goods,Women behav.,0.322,0.334
+MA,Men behav.,Women behav.,0.214,0.207
+MA,Women info.,Women behav.,0.436,0.39
+MA,Men info.,Women behav.,0.167,0.166
+MA,Gov/NGO,Women behav.,-0.018,-0.018
+MA,External support,Women behav.,0.138,0.133
+MA,Borrow money,Men behav.,0.282,0.286
+MA,Lend money,Men behav.,0.246,0.254
+MA,Borrow goods,Men behav.,0.188,0.206
+MA,Lend goods,Men behav.,0.23,0.241
+MA,Women behav.,Men behav.,0.214,0.207
+MA,Women info.,Men behav.,0.224,0.222
+MA,Men info.,Men behav.,0.221,0.222
+MA,Gov/NGO,Men behav.,0.074,0.075
+MA,External support,Men behav.,0.219,0.223
+MA,Borrow money,Women info.,0.283,0.258
+MA,Lend money,Women info.,0.183,0.156
+MA,Borrow goods,Women info.,0.442,0.427
+MA,Lend goods,Women info.,0.466,0.455
+MA,Women behav.,Women info.,0.436,0.39
+MA,Men behav.,Women info.,0.224,0.222
+MA,Men info.,Women info.,0.227,0.228
+MA,Gov/NGO,Women info.,-0.026,-0.027
+MA,External support,Women info.,0.136,0.128
+MA,Borrow money,Men info.,0.353,0.355
+MA,Lend money,Men info.,0.306,0.322
+MA,Borrow goods,Men info.,0.18,0.182
+MA,Lend goods,Men info.,0.217,0.202
+MA,Women behav.,Men info.,0.167,0.166
+MA,Men behav.,Men info.,0.221,0.222
+MA,Women info.,Men info.,0.227,0.228
+MA,Gov/NGO,Men info.,0.002,0.002
+MA,External support,Men info.,0.314,0.324
+MA,Borrow money,Gov/NGO,0.075,0.075
+MA,Lend money,Gov/NGO,0.026,0.026
+MA,Borrow goods,Gov/NGO,-0.004,-0.003
+MA,Lend goods,Gov/NGO,-0.007,-0.006
+MA,Women behav.,Gov/NGO,-0.018,-0.018
+MA,Men behav.,Gov/NGO,0.074,0.075
+MA,Women info.,Gov/NGO,-0.026,-0.027
+MA,Men info.,Gov/NGO,0.002,0.002
+MA,External support,Gov/NGO,-0.02,-0.02
+MA,Borrow money,External support,0.331,0.331
+MA,Lend money,External support,0.285,0.29
+MA,Borrow goods,External support,0.147,0.158
+MA,Lend goods,External support,0.179,0.177
+MA,Women behav.,External support,0.138,0.133
+MA,Men behav.,External support,0.219,0.223
+MA,Women info.,External support,0.136,0.128
+MA,Men info.,External support,0.314,0.324
+MA,Gov/NGO,External support,-0.02,-0.02
+MC,Lend money,Borrow money,0.177,0.153
+MC,Borrow goods,Borrow money,0.263,0.223
+MC,Lend goods,Borrow money,0.286,0.237
+MC,Women behav.,Borrow money,0.148,0.124
+MC,Men behav.,Borrow money,0.139,0.129
+MC,Women info.,Borrow money,0.139,0.131
+MC,Men info.,Borrow money,0.135,0.126
+MC,Gov/NGO,Borrow money,0.077,0.066
+MC,External support,Borrow money,NA,NA
+MC,Borrow money,Lend money,0.177,0.153
+MC,Borrow goods,Lend money,0.411,0.377
+MC,Lend goods,Lend money,0.423,0.358
+MC,Women behav.,Lend money,0.151,0.169
+MC,Men behav.,Lend money,0.232,0.216
+MC,Women info.,Lend money,0.216,0.228
+MC,Men info.,Lend money,0.095,0.089
+MC,Gov/NGO,Lend money,0.062,0.065
+MC,External support,Lend money,NA,NA
+MC,Borrow money,Borrow goods,0.263,0.223
+MC,Lend money,Borrow goods,0.411,0.377
+MC,Lend goods,Borrow goods,0.89,0.878
+MC,Women behav.,Borrow goods,0.244,0.241
+MC,Men behav.,Borrow goods,0.297,0.29
+MC,Women info.,Borrow goods,0.415,0.421
+MC,Men info.,Borrow goods,0.146,0.13
+MC,Gov/NGO,Borrow goods,0.098,0.088
+MC,External support,Borrow goods,NA,NA
+MC,Borrow money,Lend goods,0.286,0.237
+MC,Lend money,Lend goods,0.423,0.358
+MC,Borrow goods,Lend goods,0.89,0.878
+MC,Women behav.,Lend goods,0.282,0.25
+MC,Men behav.,Lend goods,0.288,0.271
+MC,Women info.,Lend goods,0.414,0.421
+MC,Men info.,Lend goods,0.142,0.132
+MC,Gov/NGO,Lend goods,0.099,0.086
+MC,External support,Lend goods,NA,NA
+MC,Borrow money,Women behav.,0.148,0.124
+MC,Lend money,Women behav.,0.151,0.169
+MC,Borrow goods,Women behav.,0.244,0.241
+MC,Lend goods,Women behav.,0.282,0.25
+MC,Men behav.,Women behav.,0.09,0.081
+MC,Women info.,Women behav.,0.23,0.256
+MC,Men info.,Women behav.,0.052,0.037
+MC,Gov/NGO,Women behav.,0.041,0.043
+MC,External support,Women behav.,NA,NA
+MC,Borrow money,Men behav.,0.139,0.129
+MC,Lend money,Men behav.,0.232,0.216
+MC,Borrow goods,Men behav.,0.297,0.29
+MC,Lend goods,Men behav.,0.288,0.271
+MC,Women behav.,Men behav.,0.09,0.081
+MC,Women info.,Men behav.,0.072,0.076
+MC,Men info.,Men behav.,0.135,0.134
+MC,Gov/NGO,Men behav.,0.012,0.019
+MC,External support,Men behav.,NA,NA
+MC,Borrow money,Women info.,0.139,0.131
+MC,Lend money,Women info.,0.216,0.228
+MC,Borrow goods,Women info.,0.415,0.421
+MC,Lend goods,Women info.,0.414,0.421
+MC,Women behav.,Women info.,0.23,0.256
+MC,Men behav.,Women info.,0.072,0.076
+MC,Men info.,Women info.,0.087,0.089
+MC,Gov/NGO,Women info.,0.061,0.054
+MC,External support,Women info.,NA,NA
+MC,Borrow money,Men info.,0.135,0.126
+MC,Lend money,Men info.,0.095,0.089
+MC,Borrow goods,Men info.,0.146,0.13
+MC,Lend goods,Men info.,0.142,0.132
+MC,Women behav.,Men info.,0.052,0.037
+MC,Men behav.,Men info.,0.135,0.134
+MC,Women info.,Men info.,0.087,0.089
+MC,Gov/NGO,Men info.,0.154,0.162
+MC,External support,Men info.,NA,NA
+MC,Borrow money,Gov/NGO,0.077,0.066
+MC,Lend money,Gov/NGO,0.062,0.065
+MC,Borrow goods,Gov/NGO,0.098,0.088
+MC,Lend goods,Gov/NGO,0.099,0.086
+MC,Women behav.,Gov/NGO,0.041,0.043
+MC,Men behav.,Gov/NGO,0.012,0.019
+MC,Women info.,Gov/NGO,0.061,0.054
+MC,Men info.,Gov/NGO,0.154,0.162
+MC,External support,Gov/NGO,NA,NA
+MC,Borrow money,External support,NA,NA
+MC,Lend money,External support,NA,NA
+MC,Borrow goods,External support,NA,NA
+MC,Lend goods,External support,NA,NA
+MC,Women behav.,External support,NA,NA
+MC,Men behav.,External support,NA,NA
+MC,Women info.,External support,NA,NA
+MC,Men info.,External support,NA,NA
+MC,Gov/NGO,External support,NA,NA
+MG,Lend money,Borrow money,0.823,0.791
+MG,Borrow goods,Borrow money,0.592,0.555
+MG,Lend goods,Borrow money,0.49,0.45
+MG,Women behav.,Borrow money,0.463,0.443
+MG,Men behav.,Borrow money,0.379,0.353
+MG,Women info.,Borrow money,0.467,0.455
+MG,Men info.,Borrow money,0.429,0.412
+MG,Gov/NGO,Borrow money,0.053,0.079
+MG,External support,Borrow money,0.077,0.103
+MG,Borrow money,Lend money,0.823,0.791
+MG,Borrow goods,Lend money,0.599,0.58
+MG,Lend goods,Lend money,0.476,0.465
+MG,Women behav.,Lend money,0.483,0.462
+MG,Men behav.,Lend money,0.392,0.373
+MG,Women info.,Lend money,0.469,0.451
+MG,Men info.,Lend money,0.433,0.416
+MG,Gov/NGO,Lend money,0.045,0.068
+MG,External support,Lend money,0.084,0.112
+MG,Borrow money,Borrow goods,0.592,0.555
+MG,Lend money,Borrow goods,0.599,0.58
+MG,Lend goods,Borrow goods,0.587,0.587
+MG,Women behav.,Borrow goods,0.351,0.353
+MG,Men behav.,Borrow goods,0.337,0.328
+MG,Women info.,Borrow goods,0.332,0.33
+MG,Men info.,Borrow goods,0.352,0.348
+MG,Gov/NGO,Borrow goods,0.018,0.026
+MG,External support,Borrow goods,0.037,0.036
+MG,Borrow money,Lend goods,0.49,0.45
+MG,Lend money,Lend goods,0.476,0.465
+MG,Borrow goods,Lend goods,0.587,0.587
+MG,Women behav.,Lend goods,0.336,0.334
+MG,Men behav.,Lend goods,0.279,0.261
+MG,Women info.,Lend goods,0.311,0.312
+MG,Men info.,Lend goods,0.27,0.26
+MG,Gov/NGO,Lend goods,0.004,0.007
+MG,External support,Lend goods,-0.007,-0.005
+MG,Borrow money,Women behav.,0.463,0.443
+MG,Lend money,Women behav.,0.483,0.462
+MG,Borrow goods,Women behav.,0.351,0.353
+MG,Lend goods,Women behav.,0.336,0.334
+MG,Men behav.,Women behav.,0.254,0.253
+MG,Women info.,Women behav.,0.603,0.604
+MG,Men info.,Women behav.,0.247,0.245
+MG,Gov/NGO,Women behav.,-0.003,0.001
+MG,External support,Women behav.,-0.019,-0.017
+MG,Borrow money,Men behav.,0.379,0.353
+MG,Lend money,Men behav.,0.392,0.373
+MG,Borrow goods,Men behav.,0.337,0.328
+MG,Lend goods,Men behav.,0.279,0.261
+MG,Women behav.,Men behav.,0.254,0.253
+MG,Women info.,Men behav.,0.255,0.253
+MG,Men info.,Men behav.,0.492,0.48
+MG,Gov/NGO,Men behav.,0.04,0.036
+MG,External support,Men behav.,-0.019,-0.012
+MG,Borrow money,Women info.,0.467,0.455
+MG,Lend money,Women info.,0.469,0.451
+MG,Borrow goods,Women info.,0.332,0.33
+MG,Lend goods,Women info.,0.311,0.312
+MG,Women behav.,Women info.,0.603,0.604
+MG,Men behav.,Women info.,0.255,0.253
+MG,Men info.,Women info.,0.289,0.288
+MG,Gov/NGO,Women info.,0.014,0.019
+MG,External support,Women info.,0.013,0.021
+MG,Borrow money,Men info.,0.429,0.412
+MG,Lend money,Men info.,0.433,0.416
+MG,Borrow goods,Men info.,0.352,0.348
+MG,Lend goods,Men info.,0.27,0.26
+MG,Women behav.,Men info.,0.247,0.245
+MG,Men behav.,Men info.,0.492,0.48
+MG,Women info.,Men info.,0.289,0.288
+MG,Gov/NGO,Men info.,0.106,0.104
+MG,External support,Men info.,0.023,0.03
+MG,Borrow money,Gov/NGO,0.053,0.079
+MG,Lend money,Gov/NGO,0.045,0.068
+MG,Borrow goods,Gov/NGO,0.018,0.026
+MG,Lend goods,Gov/NGO,0.004,0.007
+MG,Women behav.,Gov/NGO,-0.003,0.001
+MG,Men behav.,Gov/NGO,0.04,0.036
+MG,Women info.,Gov/NGO,0.014,0.019
+MG,Men info.,Gov/NGO,0.106,0.104
+MG,External support,Gov/NGO,0.135,0.146
+MG,Borrow money,External support,0.077,0.103
+MG,Lend money,External support,0.084,0.112
+MG,Borrow goods,External support,0.037,0.036
+MG,Lend goods,External support,-0.007,-0.005
+MG,Women behav.,External support,-0.019,-0.017
+MG,Men behav.,External support,-0.019,-0.012
+MG,Women info.,External support,0.013,0.021
+MG,Men info.,External support,0.023,0.03
+MG,Gov/NGO,External support,0.135,0.146
+MK,Lend money,Borrow money,0.803,0.748
+MK,Borrow goods,Borrow money,0.679,0.539
+MK,Lend goods,Borrow money,0.699,0.592
+MK,Women behav.,Borrow money,NA,NA
+MK,Men behav.,Borrow money,NA,NA
+MK,Women info.,Borrow money,NA,NA
+MK,Men info.,Borrow money,NA,NA
+MK,Gov/NGO,Borrow money,NA,NA
+MK,External support,Borrow money,NA,NA
+MK,Borrow money,Lend money,0.803,0.748
+MK,Borrow goods,Lend money,0.656,0.561
+MK,Lend goods,Lend money,0.641,0.549
+MK,Women behav.,Lend money,NA,NA
+MK,Men behav.,Lend money,NA,NA
+MK,Women info.,Lend money,NA,NA
+MK,Men info.,Lend money,NA,NA
+MK,Gov/NGO,Lend money,NA,NA
+MK,External support,Lend money,NA,NA
+MK,Borrow money,Borrow goods,0.679,0.539
+MK,Lend money,Borrow goods,0.656,0.561
+MK,Lend goods,Borrow goods,0.9,0.886
+MK,Women behav.,Borrow goods,NA,NA
+MK,Men behav.,Borrow goods,NA,NA
+MK,Women info.,Borrow goods,NA,NA
+MK,Men info.,Borrow goods,NA,NA
+MK,Gov/NGO,Borrow goods,NA,NA
+MK,External support,Borrow goods,NA,NA
+MK,Borrow money,Lend goods,0.699,0.592
+MK,Lend money,Lend goods,0.641,0.549
+MK,Borrow goods,Lend goods,0.9,0.886
+MK,Women behav.,Lend goods,NA,NA
+MK,Men behav.,Lend goods,NA,NA
+MK,Women info.,Lend goods,NA,NA
+MK,Men info.,Lend goods,NA,NA
+MK,Gov/NGO,Lend goods,NA,NA
+MK,External support,Lend goods,NA,NA
+MK,Borrow money,Women behav.,NA,NA
+MK,Lend money,Women behav.,NA,NA
+MK,Borrow goods,Women behav.,NA,NA
+MK,Lend goods,Women behav.,NA,NA
+MK,Men behav.,Women behav.,NA,NA
+MK,Women info.,Women behav.,NA,NA
+MK,Men info.,Women behav.,NA,NA
+MK,Gov/NGO,Women behav.,NA,NA
+MK,External support,Women behav.,NA,NA
+MK,Borrow money,Men behav.,NA,NA
+MK,Lend money,Men behav.,NA,NA
+MK,Borrow goods,Men behav.,NA,NA
+MK,Lend goods,Men behav.,NA,NA
+MK,Women behav.,Men behav.,NA,NA
+MK,Women info.,Men behav.,NA,NA
+MK,Men info.,Men behav.,NA,NA
+MK,Gov/NGO,Men behav.,NA,NA
+MK,External support,Men behav.,NA,NA
+MK,Borrow money,Women info.,NA,NA
+MK,Lend money,Women info.,NA,NA
+MK,Borrow goods,Women info.,NA,NA
+MK,Lend goods,Women info.,NA,NA
+MK,Women behav.,Women info.,NA,NA
+MK,Men behav.,Women info.,NA,NA
+MK,Men info.,Women info.,NA,NA
+MK,Gov/NGO,Women info.,NA,NA
+MK,External support,Women info.,NA,NA
+MK,Borrow money,Men info.,NA,NA
+MK,Lend money,Men info.,NA,NA
+MK,Borrow goods,Men info.,NA,NA
+MK,Lend goods,Men info.,NA,NA
+MK,Women behav.,Men info.,NA,NA
+MK,Men behav.,Men info.,NA,NA
+MK,Women info.,Men info.,NA,NA
+MK,Gov/NGO,Men info.,NA,NA
+MK,External support,Men info.,NA,NA
+MK,Borrow money,Gov/NGO,NA,NA
+MK,Lend money,Gov/NGO,NA,NA
+MK,Borrow goods,Gov/NGO,NA,NA
+MK,Lend goods,Gov/NGO,NA,NA
+MK,Women behav.,Gov/NGO,NA,NA
+MK,Men behav.,Gov/NGO,NA,NA
+MK,Women info.,Gov/NGO,NA,NA
+MK,Men info.,Gov/NGO,NA,NA
+MK,External support,Gov/NGO,NA,NA
+MK,Borrow money,External support,NA,NA
+MK,Lend money,External support,NA,NA
+MK,Borrow goods,External support,NA,NA
+MK,Lend goods,External support,NA,NA
+MK,Women behav.,External support,NA,NA
+MK,Men behav.,External support,NA,NA
+MK,Women info.,External support,NA,NA
+MK,Men info.,External support,NA,NA
+MK,Gov/NGO,External support,NA,NA
+MN,Lend money,Borrow money,0.66,0.615
+MN,Borrow goods,Borrow money,0.602,0.556
+MN,Lend goods,Borrow money,0.365,0.312
+MN,Women behav.,Borrow money,0.371,0.366
+MN,Men behav.,Borrow money,0.495,0.505
+MN,Women info.,Borrow money,0.351,0.331
+MN,Men info.,Borrow money,0.325,0.293
+MN,Gov/NGO,Borrow money,0.019,0.051
+MN,External support,Borrow money,NA,NA
+MN,Borrow money,Lend money,0.66,0.615
+MN,Borrow goods,Lend money,0.529,0.48
+MN,Lend goods,Lend money,0.374,0.325
+MN,Women behav.,Lend money,0.389,0.422
+MN,Men behav.,Lend money,0.511,0.456
+MN,Women info.,Lend money,0.351,0.327
+MN,Men info.,Lend money,0.361,0.33
+MN,Gov/NGO,Lend money,-0.02,-0.022
+MN,External support,Lend money,NA,NA
+MN,Borrow money,Borrow goods,0.602,0.556
+MN,Lend money,Borrow goods,0.529,0.48
+MN,Lend goods,Borrow goods,0.487,0.445
+MN,Women behav.,Borrow goods,0.354,0.398
+MN,Men behav.,Borrow goods,0.369,0.398
+MN,Women info.,Borrow goods,0.374,0.411
+MN,Men info.,Borrow goods,0.232,0.256
+MN,Gov/NGO,Borrow goods,0.026,0.052
+MN,External support,Borrow goods,NA,NA
+MN,Borrow money,Lend goods,0.365,0.312
+MN,Lend money,Lend goods,0.374,0.325
+MN,Borrow goods,Lend goods,0.487,0.445
+MN,Women behav.,Lend goods,0.336,0.349
+MN,Men behav.,Lend goods,0.269,0.333
+MN,Women info.,Lend goods,0.33,0.359
+MN,Men info.,Lend goods,0.21,0.239
+MN,Gov/NGO,Lend goods,-0.015,-0.016
+MN,External support,Lend goods,NA,NA
+MN,Borrow money,Women behav.,0.371,0.366
+MN,Lend money,Women behav.,0.389,0.422
+MN,Borrow goods,Women behav.,0.354,0.398
+MN,Lend goods,Women behav.,0.336,0.349
+MN,Men behav.,Women behav.,0.398,0.403
+MN,Women info.,Women behav.,0.392,0.389
+MN,Men info.,Women behav.,0.196,0.243
+MN,Gov/NGO,Women behav.,-0.017,-0.019
+MN,External support,Women behav.,NA,NA
+MN,Borrow money,Men behav.,0.495,0.505
+MN,Lend money,Men behav.,0.511,0.456
+MN,Borrow goods,Men behav.,0.369,0.398
+MN,Lend goods,Men behav.,0.269,0.333
+MN,Women behav.,Men behav.,0.398,0.403
+MN,Women info.,Men behav.,0.394,0.287
+MN,Men info.,Men behav.,0.441,0.404
+MN,Gov/NGO,Men behav.,-0.017,-0.021
+MN,External support,Men behav.,NA,NA
+MN,Borrow money,Women info.,0.351,0.331
+MN,Lend money,Women info.,0.351,0.327
+MN,Borrow goods,Women info.,0.374,0.411
+MN,Lend goods,Women info.,0.33,0.359
+MN,Women behav.,Women info.,0.392,0.389
+MN,Men behav.,Women info.,0.394,0.287
+MN,Men info.,Women info.,0.258,0.248
+MN,Gov/NGO,Women info.,-0.022,-0.025
+MN,External support,Women info.,NA,NA
+MN,Borrow money,Men info.,0.325,0.293
+MN,Lend money,Men info.,0.361,0.33
+MN,Borrow goods,Men info.,0.232,0.256
+MN,Lend goods,Men info.,0.21,0.239
+MN,Women behav.,Men info.,0.196,0.243
+MN,Men behav.,Men info.,0.441,0.404
+MN,Women info.,Men info.,0.258,0.248
+MN,Gov/NGO,Men info.,-0.025,-0.028
+MN,External support,Men info.,NA,NA
+MN,Borrow money,Gov/NGO,0.019,0.051
+MN,Lend money,Gov/NGO,-0.02,-0.022
+MN,Borrow goods,Gov/NGO,0.026,0.052
+MN,Lend goods,Gov/NGO,-0.015,-0.016
+MN,Women behav.,Gov/NGO,-0.017,-0.019
+MN,Men behav.,Gov/NGO,-0.017,-0.021
+MN,Women info.,Gov/NGO,-0.022,-0.025
+MN,Men info.,Gov/NGO,-0.025,-0.028
+MN,External support,Gov/NGO,NA,NA
+MN,Borrow money,External support,NA,NA
+MN,Lend money,External support,NA,NA
+MN,Borrow goods,External support,NA,NA
+MN,Lend goods,External support,NA,NA
+MN,Women behav.,External support,NA,NA
+MN,Men behav.,External support,NA,NA
+MN,Women info.,External support,NA,NA
+MN,Men info.,External support,NA,NA
+MN,Gov/NGO,External support,NA,NA
+MY,Lend money,Borrow money,0.354,0.331
+MY,Borrow goods,Borrow money,0.377,0.332
+MY,Lend goods,Borrow money,0.366,0.307
+MY,Women behav.,Borrow money,0.349,0.285
+MY,Men behav.,Borrow money,0.422,0.299
+MY,Women info.,Borrow money,0.297,0.292
+MY,Men info.,Borrow money,0.326,0.255
+MY,Gov/NGO,Borrow money,-0.001,-0.001
+MY,External support,Borrow money,NA,NA
+MY,Borrow money,Lend money,0.354,0.331
+MY,Borrow goods,Lend money,0.434,0.381
+MY,Lend goods,Lend money,0.421,0.352
+MY,Women behav.,Lend money,0.315,0.321
+MY,Men behav.,Lend money,0.273,0.284
+MY,Women info.,Lend money,0.362,0.342
+MY,Men info.,Lend money,0.313,0.271
+MY,Gov/NGO,Lend money,-0.002,-0.002
+MY,External support,Lend money,NA,NA
+MY,Borrow money,Borrow goods,0.377,0.332
+MY,Lend money,Borrow goods,0.434,0.381
+MY,Lend goods,Borrow goods,0.759,0.708
+MY,Women behav.,Borrow goods,0.399,0.367
+MY,Men behav.,Borrow goods,0.36,0.297
+MY,Women info.,Borrow goods,0.441,0.424
+MY,Men info.,Borrow goods,0.398,0.334
+MY,Gov/NGO,Borrow goods,-0.002,-0.002
+MY,External support,Borrow goods,NA,NA
+MY,Borrow money,Lend goods,0.366,0.307
+MY,Lend money,Lend goods,0.421,0.352
+MY,Borrow goods,Lend goods,0.759,0.708
+MY,Women behav.,Lend goods,0.374,0.315
+MY,Men behav.,Lend goods,0.356,0.291
+MY,Women info.,Lend goods,0.425,0.414
+MY,Men info.,Lend goods,0.382,0.338
+MY,Gov/NGO,Lend goods,-0.002,-0.002
+MY,External support,Lend goods,NA,NA
+MY,Borrow money,Women behav.,0.349,0.285
+MY,Lend money,Women behav.,0.315,0.321
+MY,Borrow goods,Women behav.,0.399,0.367
+MY,Lend goods,Women behav.,0.374,0.315
+MY,Men behav.,Women behav.,0.407,0.388
+MY,Women info.,Women behav.,0.468,0.475
+MY,Men info.,Women behav.,0.345,0.307
+MY,Gov/NGO,Women behav.,-0.002,-0.002
+MY,External support,Women behav.,NA,NA
+MY,Borrow money,Men behav.,0.422,0.299
+MY,Lend money,Men behav.,0.273,0.284
+MY,Borrow goods,Men behav.,0.36,0.297
+MY,Lend goods,Men behav.,0.356,0.291
+MY,Women behav.,Men behav.,0.407,0.388
+MY,Women info.,Men behav.,0.346,0.339
+MY,Men info.,Men behav.,0.403,0.363
+MY,Gov/NGO,Men behav.,-0.002,-0.002
+MY,External support,Men behav.,NA,NA
+MY,Borrow money,Women info.,0.297,0.292
+MY,Lend money,Women info.,0.362,0.342
+MY,Borrow goods,Women info.,0.441,0.424
+MY,Lend goods,Women info.,0.425,0.414
+MY,Women behav.,Women info.,0.468,0.475
+MY,Men behav.,Women info.,0.346,0.339
+MY,Men info.,Women info.,0.381,0.355
+MY,Gov/NGO,Women info.,-0.002,-0.002
+MY,External support,Women info.,NA,NA
+MY,Borrow money,Men info.,0.326,0.255
+MY,Lend money,Men info.,0.313,0.271
+MY,Borrow goods,Men info.,0.398,0.334
+MY,Lend goods,Men info.,0.382,0.338
+MY,Women behav.,Men info.,0.345,0.307
+MY,Men behav.,Men info.,0.403,0.363
+MY,Women info.,Men info.,0.381,0.355
+MY,Gov/NGO,Men info.,-0.002,-0.002
+MY,External support,Men info.,NA,NA
+MY,Borrow money,Gov/NGO,-0.001,-0.001
+MY,Lend money,Gov/NGO,-0.002,-0.002
+MY,Borrow goods,Gov/NGO,-0.002,-0.002
+MY,Lend goods,Gov/NGO,-0.002,-0.002
+MY,Women behav.,Gov/NGO,-0.002,-0.002
+MY,Men behav.,Gov/NGO,-0.002,-0.002
+MY,Women info.,Gov/NGO,-0.002,-0.002
+MY,Men info.,Gov/NGO,-0.002,-0.002
+MY,External support,Gov/NGO,NA,NA
+MY,Borrow money,External support,NA,NA
+MY,Lend money,External support,NA,NA
+MY,Borrow goods,External support,NA,NA
+MY,Lend goods,External support,NA,NA
+MY,Women behav.,External support,NA,NA
+MY,Men behav.,External support,NA,NA
+MY,Women info.,External support,NA,NA
+MY,Men info.,External support,NA,NA
+MY,Gov/NGO,External support,NA,NA
+NI,Lend money,Borrow money,0.472,0.467
+NI,Borrow goods,Borrow money,0.292,0.279
+NI,Lend goods,Borrow money,0.265,0.262
+NI,Women behav.,Borrow money,0.175,0.156
+NI,Men behav.,Borrow money,0.211,0.191
+NI,Women info.,Borrow money,0.224,0.195
+NI,Men info.,Borrow money,0.233,0.199
+NI,Gov/NGO,Borrow money,NA,NA
+NI,External support,Borrow money,0.421,0.433
+NI,Borrow money,Lend money,0.472,0.467
+NI,Borrow goods,Lend money,0.484,0.428
+NI,Lend goods,Lend money,0.499,0.432
+NI,Women behav.,Lend money,0.504,0.361
+NI,Men behav.,Lend money,0.509,0.404
+NI,Women info.,Lend money,0.524,0.392
+NI,Men info.,Lend money,0.399,0.371
+NI,Gov/NGO,Lend money,NA,NA
+NI,External support,Lend money,0.183,0.212
+NI,Borrow money,Borrow goods,0.292,0.279
+NI,Lend money,Borrow goods,0.484,0.428
+NI,Lend goods,Borrow goods,0.666,0.599
+NI,Women behav.,Borrow goods,0.495,0.368
+NI,Men behav.,Borrow goods,0.51,0.419
+NI,Women info.,Borrow goods,0.56,0.475
+NI,Men info.,Borrow goods,0.445,0.384
+NI,Gov/NGO,Borrow goods,NA,NA
+NI,External support,Borrow goods,0.131,0.131
+NI,Borrow money,Lend goods,0.265,0.262
+NI,Lend money,Lend goods,0.499,0.432
+NI,Borrow goods,Lend goods,0.666,0.599
+NI,Women behav.,Lend goods,0.536,0.469
+NI,Men behav.,Lend goods,0.505,0.452
+NI,Women info.,Lend goods,0.63,0.554
+NI,Men info.,Lend goods,0.511,0.44
+NI,Gov/NGO,Lend goods,NA,NA
+NI,External support,Lend goods,0.089,0.075
+NI,Borrow money,Women behav.,0.175,0.156
+NI,Lend money,Women behav.,0.504,0.361
+NI,Borrow goods,Women behav.,0.495,0.368
+NI,Lend goods,Women behav.,0.536,0.469
+NI,Men behav.,Women behav.,0.665,0.476
+NI,Women info.,Women behav.,0.706,0.515
+NI,Men info.,Women behav.,0.386,0.34
+NI,Gov/NGO,Women behav.,NA,NA
+NI,External support,Women behav.,-0.006,0.012
+NI,Borrow money,Men behav.,0.211,0.191
+NI,Lend money,Men behav.,0.509,0.404
+NI,Borrow goods,Men behav.,0.51,0.419
+NI,Lend goods,Men behav.,0.505,0.452
+NI,Women behav.,Men behav.,0.665,0.476
+NI,Women info.,Men behav.,0.605,0.438
+NI,Men info.,Men behav.,0.453,0.437
+NI,Gov/NGO,Men behav.,NA,NA
+NI,External support,Men behav.,0.011,0.023
+NI,Borrow money,Women info.,0.224,0.195
+NI,Lend money,Women info.,0.524,0.392
+NI,Borrow goods,Women info.,0.56,0.475
+NI,Lend goods,Women info.,0.63,0.554
+NI,Women behav.,Women info.,0.706,0.515
+NI,Men behav.,Women info.,0.605,0.438
+NI,Men info.,Women info.,0.492,0.422
+NI,Gov/NGO,Women info.,NA,NA
+NI,External support,Women info.,0.043,0.033
+NI,Borrow money,Men info.,0.233,0.199
+NI,Lend money,Men info.,0.399,0.371
+NI,Borrow goods,Men info.,0.445,0.384
+NI,Lend goods,Men info.,0.511,0.44
+NI,Women behav.,Men info.,0.386,0.34
+NI,Men behav.,Men info.,0.453,0.437
+NI,Women info.,Men info.,0.492,0.422
+NI,Gov/NGO,Men info.,NA,NA
+NI,External support,Men info.,0.096,0.098
+NI,Borrow money,Gov/NGO,NA,NA
+NI,Lend money,Gov/NGO,NA,NA
+NI,Borrow goods,Gov/NGO,NA,NA
+NI,Lend goods,Gov/NGO,NA,NA
+NI,Women behav.,Gov/NGO,NA,NA
+NI,Men behav.,Gov/NGO,NA,NA
+NI,Women info.,Gov/NGO,NA,NA
+NI,Men info.,Gov/NGO,NA,NA
+NI,External support,Gov/NGO,NA,NA
+NI,Borrow money,External support,0.421,0.433
+NI,Lend money,External support,0.183,0.212
+NI,Borrow goods,External support,0.131,0.131
+NI,Lend goods,External support,0.089,0.075
+NI,Women behav.,External support,-0.006,0.012
+NI,Men behav.,External support,0.011,0.023
+NI,Women info.,External support,0.043,0.033
+NI,Men info.,External support,0.096,0.098
+NI,Gov/NGO,External support,NA,NA
+NP,Lend money,Borrow money,0.454,0.406
+NP,Borrow goods,Borrow money,0.476,0.434
+NP,Lend goods,Borrow money,0.447,0.389
+NP,Women behav.,Borrow money,0.336,0.313
+NP,Men behav.,Borrow money,0.333,0.305
+NP,Women info.,Borrow money,0.421,0.383
+NP,Men info.,Borrow money,0.411,0.373
+NP,Gov/NGO,Borrow money,0.209,0.177
+NP,External support,Borrow money,0.106,0.127
+NP,Borrow money,Lend money,0.454,0.406
+NP,Borrow goods,Lend money,0.449,0.402
+NP,Lend goods,Lend money,0.468,0.419
+NP,Women behav.,Lend money,0.325,0.336
+NP,Men behav.,Lend money,0.341,0.287
+NP,Women info.,Lend money,0.392,0.361
+NP,Men info.,Lend money,0.335,0.305
+NP,Gov/NGO,Lend money,0.128,0.108
+NP,External support,Lend money,0.096,0.096
+NP,Borrow money,Borrow goods,0.476,0.434
+NP,Lend money,Borrow goods,0.449,0.402
+NP,Lend goods,Borrow goods,0.877,0.807
+NP,Women behav.,Borrow goods,0.598,0.526
+NP,Men behav.,Borrow goods,0.498,0.399
+NP,Women info.,Borrow goods,0.662,0.596
+NP,Men info.,Borrow goods,0.511,0.419
+NP,Gov/NGO,Borrow goods,0.138,0.114
+NP,External support,Borrow goods,0.098,0.121
+NP,Borrow money,Lend goods,0.447,0.389
+NP,Lend money,Lend goods,0.468,0.419
+NP,Borrow goods,Lend goods,0.877,0.807
+NP,Women behav.,Lend goods,0.575,0.506
+NP,Men behav.,Lend goods,0.482,0.386
+NP,Women info.,Lend goods,0.653,0.577
+NP,Men info.,Lend goods,0.473,0.381
+NP,Gov/NGO,Lend goods,0.143,0.118
+NP,External support,Lend goods,0.074,0.094
+NP,Borrow money,Women behav.,0.336,0.313
+NP,Lend money,Women behav.,0.325,0.336
+NP,Borrow goods,Women behav.,0.598,0.526
+NP,Lend goods,Women behav.,0.575,0.506
+NP,Men behav.,Women behav.,0.385,0.314
+NP,Women info.,Women behav.,0.562,0.498
+NP,Men info.,Women behav.,0.367,0.291
+NP,Gov/NGO,Women behav.,0.082,0.071
+NP,External support,Women behav.,0.103,0.117
+NP,Borrow money,Men behav.,0.333,0.305
+NP,Lend money,Men behav.,0.341,0.287
+NP,Borrow goods,Men behav.,0.498,0.399
+NP,Lend goods,Men behav.,0.482,0.386
+NP,Women behav.,Men behav.,0.385,0.314
+NP,Women info.,Men behav.,0.447,0.373
+NP,Men info.,Men behav.,0.594,0.488
+NP,Gov/NGO,Men behav.,0.153,0.134
+NP,External support,Men behav.,0.089,0.1
+NP,Borrow money,Women info.,0.421,0.383
+NP,Lend money,Women info.,0.392,0.361
+NP,Borrow goods,Women info.,0.662,0.596
+NP,Lend goods,Women info.,0.653,0.577
+NP,Women behav.,Women info.,0.562,0.498
+NP,Men behav.,Women info.,0.447,0.373
+NP,Men info.,Women info.,0.45,0.379
+NP,Gov/NGO,Women info.,0.118,0.115
+NP,External support,Women info.,0.082,0.107
+NP,Borrow money,Men info.,0.411,0.373
+NP,Lend money,Men info.,0.335,0.305
+NP,Borrow goods,Men info.,0.511,0.419
+NP,Lend goods,Men info.,0.473,0.381
+NP,Women behav.,Men info.,0.367,0.291
+NP,Men behav.,Men info.,0.594,0.488
+NP,Women info.,Men info.,0.45,0.379
+NP,Gov/NGO,Men info.,0.187,0.157
+NP,External support,Men info.,0.09,0.13
+NP,Borrow money,Gov/NGO,0.209,0.177
+NP,Lend money,Gov/NGO,0.128,0.108
+NP,Borrow goods,Gov/NGO,0.138,0.114
+NP,Lend goods,Gov/NGO,0.143,0.118
+NP,Women behav.,Gov/NGO,0.082,0.071
+NP,Men behav.,Gov/NGO,0.153,0.134
+NP,Women info.,Gov/NGO,0.118,0.115
+NP,Men info.,Gov/NGO,0.187,0.157
+NP,External support,Gov/NGO,0.117,0.193
+NP,Borrow money,External support,0.106,0.127
+NP,Lend money,External support,0.096,0.096
+NP,Borrow goods,External support,0.098,0.121
+NP,Lend goods,External support,0.074,0.094
+NP,Women behav.,External support,0.103,0.117
+NP,Men behav.,External support,0.089,0.1
+NP,Women info.,External support,0.082,0.107
+NP,Men info.,External support,0.09,0.13
+NP,Gov/NGO,External support,0.117,0.193
+PC,Lend money,Borrow money,NA,NA
+PC,Borrow goods,Borrow money,0.475,0.468
+PC,Lend goods,Borrow money,0.298,0.325
+PC,Women behav.,Borrow money,0.118,0.19
+PC,Men behav.,Borrow money,0.293,0.213
+PC,Women info.,Borrow money,0.297,0.332
+PC,Men info.,Borrow money,0.335,0.318
+PC,Gov/NGO,Borrow money,NA,NA
+PC,External support,Borrow money,NA,NA
+PC,Borrow money,Lend money,NA,NA
+PC,Borrow goods,Lend money,NA,NA
+PC,Lend goods,Lend money,NA,NA
+PC,Women behav.,Lend money,NA,NA
+PC,Men behav.,Lend money,NA,NA
+PC,Women info.,Lend money,NA,NA
+PC,Men info.,Lend money,NA,NA
+PC,Gov/NGO,Lend money,NA,NA
+PC,External support,Lend money,NA,NA
+PC,Borrow money,Borrow goods,0.475,0.468
+PC,Lend money,Borrow goods,NA,NA
+PC,Lend goods,Borrow goods,0.46,0.487
+PC,Women behav.,Borrow goods,0.247,0.231
+PC,Men behav.,Borrow goods,0.436,0.295
+PC,Women info.,Borrow goods,0.304,0.311
+PC,Men info.,Borrow goods,0.44,0.356
+PC,Gov/NGO,Borrow goods,NA,NA
+PC,External support,Borrow goods,NA,NA
+PC,Borrow money,Lend goods,0.298,0.325
+PC,Lend money,Lend goods,NA,NA
+PC,Borrow goods,Lend goods,0.46,0.487
+PC,Women behav.,Lend goods,0.091,0.152
+PC,Men behav.,Lend goods,0.34,0.319
+PC,Women info.,Lend goods,0.301,0.284
+PC,Men info.,Lend goods,0.281,0.296
+PC,Gov/NGO,Lend goods,NA,NA
+PC,External support,Lend goods,NA,NA
+PC,Borrow money,Women behav.,0.118,0.19
+PC,Lend money,Women behav.,NA,NA
+PC,Borrow goods,Women behav.,0.247,0.231
+PC,Lend goods,Women behav.,0.091,0.152
+PC,Men behav.,Women behav.,0.06,0.094
+PC,Women info.,Women behav.,0.362,0.363
+PC,Men info.,Women behav.,0.084,0.085
+PC,Gov/NGO,Women behav.,NA,NA
+PC,External support,Women behav.,NA,NA
+PC,Borrow money,Men behav.,0.293,0.213
+PC,Lend money,Men behav.,NA,NA
+PC,Borrow goods,Men behav.,0.436,0.295
+PC,Lend goods,Men behav.,0.34,0.319
+PC,Women behav.,Men behav.,0.06,0.094
+PC,Women info.,Men behav.,0.059,0.08
+PC,Men info.,Men behav.,0.507,0.384
+PC,Gov/NGO,Men behav.,NA,NA
+PC,External support,Men behav.,NA,NA
+PC,Borrow money,Women info.,0.297,0.332
+PC,Lend money,Women info.,NA,NA
+PC,Borrow goods,Women info.,0.304,0.311
+PC,Lend goods,Women info.,0.301,0.284
+PC,Women behav.,Women info.,0.362,0.363
+PC,Men behav.,Women info.,0.059,0.08
+PC,Men info.,Women info.,0.237,0.21
+PC,Gov/NGO,Women info.,NA,NA
+PC,External support,Women info.,NA,NA
+PC,Borrow money,Men info.,0.335,0.318
+PC,Lend money,Men info.,NA,NA
+PC,Borrow goods,Men info.,0.44,0.356
+PC,Lend goods,Men info.,0.281,0.296
+PC,Women behav.,Men info.,0.084,0.085
+PC,Men behav.,Men info.,0.507,0.384
+PC,Women info.,Men info.,0.237,0.21
+PC,Gov/NGO,Men info.,NA,NA
+PC,External support,Men info.,NA,NA
+PC,Borrow money,Gov/NGO,NA,NA
+PC,Lend money,Gov/NGO,NA,NA
+PC,Borrow goods,Gov/NGO,NA,NA
+PC,Lend goods,Gov/NGO,NA,NA
+PC,Women behav.,Gov/NGO,NA,NA
+PC,Men behav.,Gov/NGO,NA,NA
+PC,Women info.,Gov/NGO,NA,NA
+PC,Men info.,Gov/NGO,NA,NA
+PC,External support,Gov/NGO,NA,NA
+PC,Borrow money,External support,NA,NA
+PC,Lend money,External support,NA,NA
+PC,Borrow goods,External support,NA,NA
+PC,Lend goods,External support,NA,NA
+PC,Women behav.,External support,NA,NA
+PC,Men behav.,External support,NA,NA
+PC,Women info.,External support,NA,NA
+PC,Men info.,External support,NA,NA
+PC,Gov/NGO,External support,NA,NA
+PE,Lend money,Borrow money,0.827,0.787
+PE,Borrow goods,Borrow money,0.632,0.562
+PE,Lend goods,Borrow money,0.621,0.547
+PE,Women behav.,Borrow money,0.396,0.377
+PE,Men behav.,Borrow money,0.283,0.281
+PE,Women info.,Borrow money,0.375,0.383
+PE,Men info.,Borrow money,0.405,0.384
+PE,Gov/NGO,Borrow money,NA,NA
+PE,External support,Borrow money,0.008,0.015
+PE,Borrow money,Lend money,0.827,0.787
+PE,Borrow goods,Lend money,0.657,0.575
+PE,Lend goods,Lend money,0.653,0.564
+PE,Women behav.,Lend money,0.355,0.353
+PE,Men behav.,Lend money,0.318,0.342
+PE,Women info.,Lend money,0.34,0.362
+PE,Men info.,Lend money,0.476,0.46
+PE,Gov/NGO,Lend money,NA,NA
+PE,External support,Lend money,-0.016,-0.018
+PE,Borrow money,Borrow goods,0.632,0.562
+PE,Lend money,Borrow goods,0.657,0.575
+PE,Lend goods,Borrow goods,0.904,0.874
+PE,Women behav.,Borrow goods,0.488,0.508
+PE,Men behav.,Borrow goods,0.278,0.264
+PE,Women info.,Borrow goods,0.426,0.448
+PE,Men info.,Borrow goods,0.441,0.359
+PE,Gov/NGO,Borrow goods,NA,NA
+PE,External support,Borrow goods,0.005,0.014
+PE,Borrow money,Lend goods,0.621,0.547
+PE,Lend money,Lend goods,0.653,0.564
+PE,Borrow goods,Lend goods,0.904,0.874
+PE,Women behav.,Lend goods,0.471,0.485
+PE,Men behav.,Lend goods,0.284,0.267
+PE,Women info.,Lend goods,0.425,0.445
+PE,Men info.,Lend goods,0.422,0.371
+PE,Gov/NGO,Lend goods,NA,NA
+PE,External support,Lend goods,0.004,0.013
+PE,Borrow money,Women behav.,0.396,0.377
+PE,Lend money,Women behav.,0.355,0.353
+PE,Borrow goods,Women behav.,0.488,0.508
+PE,Lend goods,Women behav.,0.471,0.485
+PE,Men behav.,Women behav.,0.156,0.159
+PE,Women info.,Women behav.,0.287,0.299
+PE,Men info.,Women behav.,0.17,0.171
+PE,Gov/NGO,Women behav.,NA,NA
+PE,External support,Women behav.,-0.012,-0.012
+PE,Borrow money,Men behav.,0.283,0.281
+PE,Lend money,Men behav.,0.318,0.342
+PE,Borrow goods,Men behav.,0.278,0.264
+PE,Lend goods,Men behav.,0.284,0.267
+PE,Women behav.,Men behav.,0.156,0.159
+PE,Women info.,Men behav.,0.124,0.122
+PE,Men info.,Men behav.,0.349,0.355
+PE,Gov/NGO,Men behav.,NA,NA
+PE,External support,Men behav.,-0.01,-0.011
+PE,Borrow money,Women info.,0.375,0.383
+PE,Lend money,Women info.,0.34,0.362
+PE,Borrow goods,Women info.,0.426,0.448
+PE,Lend goods,Women info.,0.425,0.445
+PE,Women behav.,Women info.,0.287,0.299
+PE,Men behav.,Women info.,0.124,0.122
+PE,Men info.,Women info.,0.156,0.155
+PE,Gov/NGO,Women info.,NA,NA
+PE,External support,Women info.,0.038,0.01
+PE,Borrow money,Men info.,0.405,0.384
+PE,Lend money,Men info.,0.476,0.46
+PE,Borrow goods,Men info.,0.441,0.359
+PE,Lend goods,Men info.,0.422,0.371
+PE,Women behav.,Men info.,0.17,0.171
+PE,Men behav.,Men info.,0.349,0.355
+PE,Women info.,Men info.,0.156,0.155
+PE,Gov/NGO,Men info.,NA,NA
+PE,External support,Men info.,0.028,0.032
+PE,Borrow money,Gov/NGO,NA,NA
+PE,Lend money,Gov/NGO,NA,NA
+PE,Borrow goods,Gov/NGO,NA,NA
+PE,Lend goods,Gov/NGO,NA,NA
+PE,Women behav.,Gov/NGO,NA,NA
+PE,Men behav.,Gov/NGO,NA,NA
+PE,Women info.,Gov/NGO,NA,NA
+PE,Men info.,Gov/NGO,NA,NA
+PE,External support,Gov/NGO,NA,NA
+PE,Borrow money,External support,0.008,0.015
+PE,Lend money,External support,-0.016,-0.018
+PE,Borrow goods,External support,0.005,0.014
+PE,Lend goods,External support,0.004,0.013
+PE,Women behav.,External support,-0.012,-0.012
+PE,Men behav.,External support,-0.01,-0.011
+PE,Women info.,External support,0.038,0.01
+PE,Men info.,External support,0.028,0.032
+PE,Gov/NGO,External support,NA,NA
+PQ,Lend money,Borrow money,0.643,0.59
+PQ,Borrow goods,Borrow money,0.385,0.335
+PQ,Lend goods,Borrow money,0.244,0.229
+PQ,Women behav.,Borrow money,0.094,0.084
+PQ,Men behav.,Borrow money,0.13,0.118
+PQ,Women info.,Borrow money,0.432,0.369
+PQ,Men info.,Borrow money,0.339,0.299
+PQ,Gov/NGO,Borrow money,0.052,0.044
+PQ,External support,Borrow money,-0,-0
+PQ,Borrow money,Lend money,0.643,0.59
+PQ,Borrow goods,Lend money,0.366,0.325
+PQ,Lend goods,Lend money,0.393,0.358
+PQ,Women behav.,Lend money,0.096,0.084
+PQ,Men behav.,Lend money,0.124,0.107
+PQ,Women info.,Lend money,0.51,0.433
+PQ,Men info.,Lend money,0.397,0.356
+PQ,Gov/NGO,Lend money,0.024,0.025
+PQ,External support,Lend money,0.013,0.022
+PQ,Borrow money,Borrow goods,0.385,0.335
+PQ,Lend money,Borrow goods,0.366,0.325
+PQ,Lend goods,Borrow goods,0.301,0.284
+PQ,Women behav.,Borrow goods,0.058,0.057
+PQ,Men behav.,Borrow goods,0.105,0.102
+PQ,Women info.,Borrow goods,0.274,0.255
+PQ,Men info.,Borrow goods,0.234,0.196
+PQ,Gov/NGO,Borrow goods,0.036,0.034
+PQ,External support,Borrow goods,-0,-0
+PQ,Borrow money,Lend goods,0.244,0.229
+PQ,Lend money,Lend goods,0.393,0.358
+PQ,Borrow goods,Lend goods,0.301,0.284
+PQ,Women behav.,Lend goods,0.053,0.049
+PQ,Men behav.,Lend goods,0.072,0.061
+PQ,Women info.,Lend goods,0.335,0.307
+PQ,Men info.,Lend goods,0.242,0.213
+PQ,Gov/NGO,Lend goods,0.002,0.002
+PQ,External support,Lend goods,-0,-0
+PQ,Borrow money,Women behav.,0.094,0.084
+PQ,Lend money,Women behav.,0.096,0.084
+PQ,Borrow goods,Women behav.,0.058,0.057
+PQ,Lend goods,Women behav.,0.053,0.049
+PQ,Men behav.,Women behav.,0.019,0.014
+PQ,Women info.,Women behav.,0.123,0.116
+PQ,Men info.,Women behav.,0.035,0.024
+PQ,Gov/NGO,Women behav.,0.013,0.012
+PQ,External support,Women behav.,-0,-0
+PQ,Borrow money,Men behav.,0.13,0.118
+PQ,Lend money,Men behav.,0.124,0.107
+PQ,Borrow goods,Men behav.,0.105,0.102
+PQ,Lend goods,Men behav.,0.072,0.061
+PQ,Women behav.,Men behav.,0.019,0.014
+PQ,Women info.,Men behav.,0.034,0.021
+PQ,Men info.,Men behav.,0.172,0.173
+PQ,Gov/NGO,Men behav.,0.01,0.009
+PQ,External support,Men behav.,-0,-0
+PQ,Borrow money,Women info.,0.432,0.369
+PQ,Lend money,Women info.,0.51,0.433
+PQ,Borrow goods,Women info.,0.274,0.255
+PQ,Lend goods,Women info.,0.335,0.307
+PQ,Women behav.,Women info.,0.123,0.116
+PQ,Men behav.,Women info.,0.034,0.021
+PQ,Men info.,Women info.,0.183,0.148
+PQ,Gov/NGO,Women info.,0.012,0.017
+PQ,External support,Women info.,-0,-0
+PQ,Borrow money,Men info.,0.339,0.299
+PQ,Lend money,Men info.,0.397,0.356
+PQ,Borrow goods,Men info.,0.234,0.196
+PQ,Lend goods,Men info.,0.242,0.213
+PQ,Women behav.,Men info.,0.035,0.024
+PQ,Men behav.,Men info.,0.172,0.173
+PQ,Women info.,Men info.,0.183,0.148
+PQ,Gov/NGO,Men info.,0.016,0.014
+PQ,External support,Men info.,-0,-0
+PQ,Borrow money,Gov/NGO,0.052,0.044
+PQ,Lend money,Gov/NGO,0.024,0.025
+PQ,Borrow goods,Gov/NGO,0.036,0.034
+PQ,Lend goods,Gov/NGO,0.002,0.002
+PQ,Women behav.,Gov/NGO,0.013,0.012
+PQ,Men behav.,Gov/NGO,0.01,0.009
+PQ,Women info.,Gov/NGO,0.012,0.017
+PQ,Men info.,Gov/NGO,0.016,0.014
+PQ,External support,Gov/NGO,-0,-0
+PQ,Borrow money,External support,-0,-0
+PQ,Lend money,External support,0.013,0.022
+PQ,Borrow goods,External support,-0,-0
+PQ,Lend goods,External support,-0,-0
+PQ,Women behav.,External support,-0,-0
+PQ,Men behav.,External support,-0,-0
+PQ,Women info.,External support,-0,-0
+PQ,Men info.,External support,-0,-0
+PQ,Gov/NGO,External support,-0,-0
+PT,Lend money,Borrow money,0.373,0.41
+PT,Borrow goods,Borrow money,0.433,0.45
+PT,Lend goods,Borrow money,0.348,0.317
+PT,Women behav.,Borrow money,0.299,0.25
+PT,Men behav.,Borrow money,0.193,0.222
+PT,Women info.,Borrow money,0.334,0.324
+PT,Men info.,Borrow money,0.38,0.356
+PT,Gov/NGO,Borrow money,-0.009,-0.01
+PT,External support,Borrow money,0.155,0.151
+PT,Borrow money,Lend money,0.373,0.41
+PT,Borrow goods,Lend money,0.329,0.372
+PT,Lend goods,Lend money,0.36,0.358
+PT,Women behav.,Lend money,0.206,0.241
+PT,Men behav.,Lend money,0.248,0.261
+PT,Women info.,Lend money,0.345,0.355
+PT,Men info.,Lend money,0.305,0.317
+PT,Gov/NGO,Lend money,0.046,0.052
+PT,External support,Lend money,0.069,0.077
+PT,Borrow money,Borrow goods,0.433,0.45
+PT,Lend money,Borrow goods,0.329,0.372
+PT,Lend goods,Borrow goods,0.547,0.557
+PT,Women behav.,Borrow goods,0.342,0.293
+PT,Men behav.,Borrow goods,0.294,0.308
+PT,Women info.,Borrow goods,0.305,0.283
+PT,Men info.,Borrow goods,0.395,0.388
+PT,Gov/NGO,Borrow goods,0.018,0.021
+PT,External support,Borrow goods,0.098,0.093
+PT,Borrow money,Lend goods,0.348,0.317
+PT,Lend money,Lend goods,0.36,0.358
+PT,Borrow goods,Lend goods,0.547,0.557
+PT,Women behav.,Lend goods,0.321,0.282
+PT,Men behav.,Lend goods,0.275,0.297
+PT,Women info.,Lend goods,0.328,0.322
+PT,Men info.,Lend goods,0.36,0.344
+PT,Gov/NGO,Lend goods,-0.01,-0.01
+PT,External support,Lend goods,0.024,0.027
+PT,Borrow money,Women behav.,0.299,0.25
+PT,Lend money,Women behav.,0.206,0.241
+PT,Borrow goods,Women behav.,0.342,0.293
+PT,Lend goods,Women behav.,0.321,0.282
+PT,Men behav.,Women behav.,0.368,0.302
+PT,Women info.,Women behav.,0.237,0.244
+PT,Men info.,Women behav.,0.202,0.222
+PT,Gov/NGO,Women behav.,-0.005,-0.006
+PT,External support,Women behav.,0.055,0.069
+PT,Borrow money,Men behav.,0.193,0.222
+PT,Lend money,Men behav.,0.248,0.261
+PT,Borrow goods,Men behav.,0.294,0.308
+PT,Lend goods,Men behav.,0.275,0.297
+PT,Women behav.,Men behav.,0.368,0.302
+PT,Women info.,Men behav.,0.287,0.233
+PT,Men info.,Men behav.,0.254,0.243
+PT,Gov/NGO,Men behav.,-0.006,-0.006
+PT,External support,Men behav.,0.131,0.084
+PT,Borrow money,Women info.,0.334,0.324
+PT,Lend money,Women info.,0.345,0.355
+PT,Borrow goods,Women info.,0.305,0.283
+PT,Lend goods,Women info.,0.328,0.322
+PT,Women behav.,Women info.,0.237,0.244
+PT,Men behav.,Women info.,0.287,0.233
+PT,Men info.,Women info.,0.488,0.444
+PT,Gov/NGO,Women info.,-0.009,-0.01
+PT,External support,Women info.,0.096,0.062
+PT,Borrow money,Men info.,0.38,0.356
+PT,Lend money,Men info.,0.305,0.317
+PT,Borrow goods,Men info.,0.395,0.388
+PT,Lend goods,Men info.,0.36,0.344
+PT,Women behav.,Men info.,0.202,0.222
+PT,Men behav.,Men info.,0.254,0.243
+PT,Women info.,Men info.,0.488,0.444
+PT,Gov/NGO,Men info.,-0.009,-0.01
+PT,External support,Men info.,0.096,0.092
+PT,Borrow money,Gov/NGO,-0.009,-0.01
+PT,Lend money,Gov/NGO,0.046,0.052
+PT,Borrow goods,Gov/NGO,0.018,0.021
+PT,Lend goods,Gov/NGO,-0.01,-0.01
+PT,Women behav.,Gov/NGO,-0.005,-0.006
+PT,Men behav.,Gov/NGO,-0.006,-0.006
+PT,Women info.,Gov/NGO,-0.009,-0.01
+PT,Men info.,Gov/NGO,-0.009,-0.01
+PT,External support,Gov/NGO,-0.006,-0.006
+PT,Borrow money,External support,0.155,0.151
+PT,Lend money,External support,0.069,0.077
+PT,Borrow goods,External support,0.098,0.093
+PT,Lend goods,External support,0.024,0.027
+PT,Women behav.,External support,0.055,0.069
+PT,Men behav.,External support,0.131,0.084
+PT,Women info.,External support,0.096,0.062
+PT,Men info.,External support,0.096,0.092
+PT,Gov/NGO,External support,-0.006,-0.006
+RA,Lend money,Borrow money,0.602,0.644
+RA,Borrow goods,Borrow money,0.414,0.457
+RA,Lend goods,Borrow money,0.386,0.424
+RA,Women behav.,Borrow money,0.299,0.32
+RA,Men behav.,Borrow money,0.437,0.311
+RA,Women info.,Borrow money,0.376,0.375
+RA,Men info.,Borrow money,0.365,0.344
+RA,Gov/NGO,Borrow money,0.159,0.115
+RA,External support,Borrow money,-0.004,-0.004
+RA,Borrow money,Lend money,0.602,0.644
+RA,Borrow goods,Lend money,0.462,0.47
+RA,Lend goods,Lend money,0.532,0.526
+RA,Women behav.,Lend money,0.419,0.431
+RA,Men behav.,Lend money,0.272,0.238
+RA,Women info.,Lend money,0.39,0.389
+RA,Men info.,Lend money,0.239,0.267
+RA,Gov/NGO,Lend money,0.115,0.072
+RA,External support,Lend money,-0.004,-0.004
+RA,Borrow money,Borrow goods,0.414,0.457
+RA,Lend money,Borrow goods,0.462,0.47
+RA,Lend goods,Borrow goods,0.775,0.79
+RA,Women behav.,Borrow goods,0.495,0.512
+RA,Men behav.,Borrow goods,0.218,0.252
+RA,Women info.,Borrow goods,0.347,0.358
+RA,Men info.,Borrow goods,0.227,0.256
+RA,Gov/NGO,Borrow goods,0.071,0.063
+RA,External support,Borrow goods,-0.004,-0.004
+RA,Borrow money,Lend goods,0.386,0.424
+RA,Lend money,Lend goods,0.532,0.526
+RA,Borrow goods,Lend goods,0.775,0.79
+RA,Women behav.,Lend goods,0.528,0.535
+RA,Men behav.,Lend goods,0.263,0.279
+RA,Women info.,Lend goods,0.387,0.372
+RA,Men info.,Lend goods,0.205,0.235
+RA,Gov/NGO,Lend goods,0.04,0.026
+RA,External support,Lend goods,-0.004,-0.004
+RA,Borrow money,Women behav.,0.299,0.32
+RA,Lend money,Women behav.,0.419,0.431
+RA,Borrow goods,Women behav.,0.495,0.512
+RA,Lend goods,Women behav.,0.528,0.535
+RA,Men behav.,Women behav.,0.242,0.245
+RA,Women info.,Women behav.,0.42,0.438
+RA,Men info.,Women behav.,0.115,0.137
+RA,Gov/NGO,Women behav.,0.044,0.055
+RA,External support,Women behav.,-0.003,-0.003
+RA,Borrow money,Men behav.,0.437,0.311
+RA,Lend money,Men behav.,0.272,0.238
+RA,Borrow goods,Men behav.,0.218,0.252
+RA,Lend goods,Men behav.,0.263,0.279
+RA,Women behav.,Men behav.,0.242,0.245
+RA,Women info.,Men behav.,0.165,0.144
+RA,Men info.,Men behav.,0.426,0.352
+RA,Gov/NGO,Men behav.,0.076,0.065
+RA,External support,Men behav.,-0.003,-0.003
+RA,Borrow money,Women info.,0.376,0.375
+RA,Lend money,Women info.,0.39,0.389
+RA,Borrow goods,Women info.,0.347,0.358
+RA,Lend goods,Women info.,0.387,0.372
+RA,Women behav.,Women info.,0.42,0.438
+RA,Men behav.,Women info.,0.165,0.144
+RA,Men info.,Women info.,0.152,0.151
+RA,Gov/NGO,Women info.,0.066,0.08
+RA,External support,Women info.,-0.003,-0.003
+RA,Borrow money,Men info.,0.365,0.344
+RA,Lend money,Men info.,0.239,0.267
+RA,Borrow goods,Men info.,0.227,0.256
+RA,Lend goods,Men info.,0.205,0.235
+RA,Women behav.,Men info.,0.115,0.137
+RA,Men behav.,Men info.,0.426,0.352
+RA,Women info.,Men info.,0.152,0.151
+RA,Gov/NGO,Men info.,0.044,0.058
+RA,External support,Men info.,-0.003,-0.003
+RA,Borrow money,Gov/NGO,0.159,0.115
+RA,Lend money,Gov/NGO,0.115,0.072
+RA,Borrow goods,Gov/NGO,0.071,0.063
+RA,Lend goods,Gov/NGO,0.04,0.026
+RA,Women behav.,Gov/NGO,0.044,0.055
+RA,Men behav.,Gov/NGO,0.076,0.065
+RA,Women info.,Gov/NGO,0.066,0.08
+RA,Men info.,Gov/NGO,0.044,0.058
+RA,External support,Gov/NGO,-0.001,-0.001
+RA,Borrow money,External support,-0.004,-0.004
+RA,Lend money,External support,-0.004,-0.004
+RA,Borrow goods,External support,-0.004,-0.004
+RA,Lend goods,External support,-0.004,-0.004
+RA,Women behav.,External support,-0.003,-0.003
+RA,Men behav.,External support,-0.003,-0.003
+RA,Women info.,External support,-0.003,-0.003
+RA,Men info.,External support,-0.003,-0.003
+RA,Gov/NGO,External support,-0.001,-0.001
+SH,Lend money,Borrow money,0.826,0.797
+SH,Borrow goods,Borrow money,0.64,0.592
+SH,Lend goods,Borrow money,0.551,0.498
+SH,Women behav.,Borrow money,0.454,0.438
+SH,Men behav.,Borrow money,0.48,0.432
+SH,Women info.,Borrow money,0.347,0.305
+SH,Men info.,Borrow money,0.091,0.089
+SH,Gov/NGO,Borrow money,NA,NA
+SH,External support,Borrow money,NA,NA
+SH,Borrow money,Lend money,0.826,0.797
+SH,Borrow goods,Lend money,0.638,0.596
+SH,Lend goods,Lend money,0.583,0.526
+SH,Women behav.,Lend money,0.476,0.435
+SH,Men behav.,Lend money,0.434,0.386
+SH,Women info.,Lend money,0.322,0.284
+SH,Men info.,Lend money,0.105,0.103
+SH,Gov/NGO,Lend money,NA,NA
+SH,External support,Lend money,NA,NA
+SH,Borrow money,Borrow goods,0.64,0.592
+SH,Lend money,Borrow goods,0.638,0.596
+SH,Lend goods,Borrow goods,0.815,0.808
+SH,Women behav.,Borrow goods,0.535,0.528
+SH,Men behav.,Borrow goods,0.381,0.366
+SH,Women info.,Borrow goods,0.448,0.426
+SH,Men info.,Borrow goods,0.16,0.141
+SH,Gov/NGO,Borrow goods,NA,NA
+SH,External support,Borrow goods,NA,NA
+SH,Borrow money,Lend goods,0.551,0.498
+SH,Lend money,Lend goods,0.583,0.526
+SH,Borrow goods,Lend goods,0.815,0.808
+SH,Women behav.,Lend goods,0.547,0.498
+SH,Men behav.,Lend goods,0.38,0.374
+SH,Women info.,Lend goods,0.396,0.389
+SH,Men info.,Lend goods,0.17,0.157
+SH,Gov/NGO,Lend goods,NA,NA
+SH,External support,Lend goods,NA,NA
+SH,Borrow money,Women behav.,0.454,0.438
+SH,Lend money,Women behav.,0.476,0.435
+SH,Borrow goods,Women behav.,0.535,0.528
+SH,Lend goods,Women behav.,0.547,0.498
+SH,Men behav.,Women behav.,0.309,0.298
+SH,Women info.,Women behav.,0.32,0.322
+SH,Men info.,Women behav.,0.142,0.135
+SH,Gov/NGO,Women behav.,NA,NA
+SH,External support,Women behav.,NA,NA
+SH,Borrow money,Men behav.,0.48,0.432
+SH,Lend money,Men behav.,0.434,0.386
+SH,Borrow goods,Men behav.,0.381,0.366
+SH,Lend goods,Men behav.,0.38,0.374
+SH,Women behav.,Men behav.,0.309,0.298
+SH,Women info.,Men behav.,0.285,0.273
+SH,Men info.,Men behav.,0.286,0.292
+SH,Gov/NGO,Men behav.,NA,NA
+SH,External support,Men behav.,NA,NA
+SH,Borrow money,Women info.,0.347,0.305
+SH,Lend money,Women info.,0.322,0.284
+SH,Borrow goods,Women info.,0.448,0.426
+SH,Lend goods,Women info.,0.396,0.389
+SH,Women behav.,Women info.,0.32,0.322
+SH,Men behav.,Women info.,0.285,0.273
+SH,Men info.,Women info.,0.14,0.158
+SH,Gov/NGO,Women info.,NA,NA
+SH,External support,Women info.,NA,NA
+SH,Borrow money,Men info.,0.091,0.089
+SH,Lend money,Men info.,0.105,0.103
+SH,Borrow goods,Men info.,0.16,0.141
+SH,Lend goods,Men info.,0.17,0.157
+SH,Women behav.,Men info.,0.142,0.135
+SH,Men behav.,Men info.,0.286,0.292
+SH,Women info.,Men info.,0.14,0.158
+SH,Gov/NGO,Men info.,NA,NA
+SH,External support,Men info.,NA,NA
+SH,Borrow money,Gov/NGO,NA,NA
+SH,Lend money,Gov/NGO,NA,NA
+SH,Borrow goods,Gov/NGO,NA,NA
+SH,Lend goods,Gov/NGO,NA,NA
+SH,Women behav.,Gov/NGO,NA,NA
+SH,Men behav.,Gov/NGO,NA,NA
+SH,Women info.,Gov/NGO,NA,NA
+SH,Men info.,Gov/NGO,NA,NA
+SH,External support,Gov/NGO,NA,NA
+SH,Borrow money,External support,NA,NA
+SH,Lend money,External support,NA,NA
+SH,Borrow goods,External support,NA,NA
+SH,Lend goods,External support,NA,NA
+SH,Women behav.,External support,NA,NA
+SH,Men behav.,External support,NA,NA
+SH,Women info.,External support,NA,NA
+SH,Men info.,External support,NA,NA
+SH,Gov/NGO,External support,NA,NA
+SN,Lend money,Borrow money,0.709,0.705
+SN,Borrow goods,Borrow money,0.506,0.563
+SN,Lend goods,Borrow money,0.582,0.623
+SN,Women behav.,Borrow money,0.532,0.545
+SN,Men behav.,Borrow money,0.609,0.616
+SN,Women info.,Borrow money,0.53,0.538
+SN,Men info.,Borrow money,0.454,0.463
+SN,Gov/NGO,Borrow money,0.107,0.083
+SN,External support,Borrow money,NA,NA
+SN,Borrow money,Lend money,0.709,0.705
+SN,Borrow goods,Lend money,0.576,0.548
+SN,Lend goods,Lend money,0.638,0.59
+SN,Women behav.,Lend money,0.587,0.577
+SN,Men behav.,Lend money,0.628,0.64
+SN,Women info.,Lend money,0.515,0.53
+SN,Men info.,Lend money,0.516,0.512
+SN,Gov/NGO,Lend money,0.085,0.068
+SN,External support,Lend money,NA,NA
+SN,Borrow money,Borrow goods,0.506,0.563
+SN,Lend money,Borrow goods,0.576,0.548
+SN,Lend goods,Borrow goods,0.757,0.742
+SN,Women behav.,Borrow goods,0.547,0.559
+SN,Men behav.,Borrow goods,0.536,0.495
+SN,Women info.,Borrow goods,0.584,0.587
+SN,Men info.,Borrow goods,0.52,0.495
+SN,Gov/NGO,Borrow goods,0.096,0.106
+SN,External support,Borrow goods,NA,NA
+SN,Borrow money,Lend goods,0.582,0.623
+SN,Lend money,Lend goods,0.638,0.59
+SN,Borrow goods,Lend goods,0.757,0.742
+SN,Women behav.,Lend goods,0.557,0.58
+SN,Men behav.,Lend goods,0.613,0.54
+SN,Women info.,Lend goods,0.6,0.59
+SN,Men info.,Lend goods,0.53,0.531
+SN,Gov/NGO,Lend goods,0.08,0.072
+SN,External support,Lend goods,NA,NA
+SN,Borrow money,Women behav.,0.532,0.545
+SN,Lend money,Women behav.,0.587,0.577
+SN,Borrow goods,Women behav.,0.547,0.559
+SN,Lend goods,Women behav.,0.557,0.58
+SN,Men behav.,Women behav.,0.649,0.611
+SN,Women info.,Women behav.,0.661,0.656
+SN,Men info.,Women behav.,0.515,0.446
+SN,Gov/NGO,Women behav.,0.011,0
+SN,External support,Women behav.,NA,NA
+SN,Borrow money,Men behav.,0.609,0.616
+SN,Lend money,Men behav.,0.628,0.64
+SN,Borrow goods,Men behav.,0.536,0.495
+SN,Lend goods,Men behav.,0.613,0.54
+SN,Women behav.,Men behav.,0.649,0.611
+SN,Women info.,Men behav.,0.593,0.491
+SN,Men info.,Men behav.,0.554,0.544
+SN,Gov/NGO,Men behav.,0.079,0.079
+SN,External support,Men behav.,NA,NA
+SN,Borrow money,Women info.,0.53,0.538
+SN,Lend money,Women info.,0.515,0.53
+SN,Borrow goods,Women info.,0.584,0.587
+SN,Lend goods,Women info.,0.6,0.59
+SN,Women behav.,Women info.,0.661,0.656
+SN,Men behav.,Women info.,0.593,0.491
+SN,Men info.,Women info.,0.541,0.509
+SN,Gov/NGO,Women info.,0.083,0.046
+SN,External support,Women info.,NA,NA
+SN,Borrow money,Men info.,0.454,0.463
+SN,Lend money,Men info.,0.516,0.512
+SN,Borrow goods,Men info.,0.52,0.495
+SN,Lend goods,Men info.,0.53,0.531
+SN,Women behav.,Men info.,0.515,0.446
+SN,Men behav.,Men info.,0.554,0.544
+SN,Women info.,Men info.,0.541,0.509
+SN,Gov/NGO,Men info.,0.1,0.113
+SN,External support,Men info.,NA,NA
+SN,Borrow money,Gov/NGO,0.107,0.083
+SN,Lend money,Gov/NGO,0.085,0.068
+SN,Borrow goods,Gov/NGO,0.096,0.106
+SN,Lend goods,Gov/NGO,0.08,0.072
+SN,Women behav.,Gov/NGO,0.011,0
+SN,Men behav.,Gov/NGO,0.079,0.079
+SN,Women info.,Gov/NGO,0.083,0.046
+SN,Men info.,Gov/NGO,0.1,0.113
+SN,External support,Gov/NGO,NA,NA
+SN,Borrow money,External support,NA,NA
+SN,Lend money,External support,NA,NA
+SN,Borrow goods,External support,NA,NA
+SN,Lend goods,External support,NA,NA
+SN,Women behav.,External support,NA,NA
+SN,Men behav.,External support,NA,NA
+SN,Women info.,External support,NA,NA
+SN,Men info.,External support,NA,NA
+SN,Gov/NGO,External support,NA,NA
+TE,Lend money,Borrow money,0.559,0.505
+TE,Borrow goods,Borrow money,0.52,0.446
+TE,Lend goods,Borrow money,0.462,0.392
+TE,Women behav.,Borrow money,0.411,0.337
+TE,Men behav.,Borrow money,0.304,0.259
+TE,Women info.,Borrow money,0.412,0.365
+TE,Men info.,Borrow money,0.331,0.28
+TE,Gov/NGO,Borrow money,0.034,0.035
+TE,External support,Borrow money,0.014,0.031
+TE,Borrow money,Lend money,0.559,0.505
+TE,Borrow goods,Lend money,0.486,0.412
+TE,Lend goods,Lend money,0.487,0.425
+TE,Women behav.,Lend money,0.434,0.379
+TE,Men behav.,Lend money,0.329,0.26
+TE,Women info.,Lend money,0.434,0.364
+TE,Men info.,Lend money,0.34,0.273
+TE,Gov/NGO,Lend money,0.047,0.034
+TE,External support,Lend money,0.011,0.019
+TE,Borrow money,Borrow goods,0.52,0.446
+TE,Lend money,Borrow goods,0.486,0.412
+TE,Lend goods,Borrow goods,0.713,0.645
+TE,Women behav.,Borrow goods,0.484,0.394
+TE,Men behav.,Borrow goods,0.351,0.306
+TE,Women info.,Borrow goods,0.523,0.438
+TE,Men info.,Borrow goods,0.341,0.282
+TE,Gov/NGO,Borrow goods,0.031,0.031
+TE,External support,Borrow goods,0.011,0.017
+TE,Borrow money,Lend goods,0.462,0.392
+TE,Lend money,Lend goods,0.487,0.425
+TE,Borrow goods,Lend goods,0.713,0.645
+TE,Women behav.,Lend goods,0.449,0.379
+TE,Men behav.,Lend goods,0.321,0.291
+TE,Women info.,Lend goods,0.497,0.439
+TE,Men info.,Lend goods,0.335,0.281
+TE,Gov/NGO,Lend goods,0.063,0.056
+TE,External support,Lend goods,0.015,0.037
+TE,Borrow money,Women behav.,0.411,0.337
+TE,Lend money,Women behav.,0.434,0.379
+TE,Borrow goods,Women behav.,0.484,0.394
+TE,Lend goods,Women behav.,0.449,0.379
+TE,Men behav.,Women behav.,0.338,0.307
+TE,Women info.,Women behav.,0.542,0.437
+TE,Men info.,Women behav.,0.329,0.259
+TE,Gov/NGO,Women behav.,0.025,0.04
+TE,External support,Women behav.,0.014,0.035
+TE,Borrow money,Men behav.,0.304,0.259
+TE,Lend money,Men behav.,0.329,0.26
+TE,Borrow goods,Men behav.,0.351,0.306
+TE,Lend goods,Men behav.,0.321,0.291
+TE,Women behav.,Men behav.,0.338,0.307
+TE,Women info.,Men behav.,0.293,0.255
+TE,Men info.,Men behav.,0.441,0.396
+TE,Gov/NGO,Men behav.,0.041,0.059
+TE,External support,Men behav.,-0.003,-0.004
+TE,Borrow money,Women info.,0.412,0.365
+TE,Lend money,Women info.,0.434,0.364
+TE,Borrow goods,Women info.,0.523,0.438
+TE,Lend goods,Women info.,0.497,0.439
+TE,Women behav.,Women info.,0.542,0.437
+TE,Men behav.,Women info.,0.293,0.255
+TE,Men info.,Women info.,0.299,0.263
+TE,Gov/NGO,Women info.,0.044,0.043
+TE,External support,Women info.,0.008,0.02
+TE,Borrow money,Men info.,0.331,0.28
+TE,Lend money,Men info.,0.34,0.273
+TE,Borrow goods,Men info.,0.341,0.282
+TE,Lend goods,Men info.,0.335,0.281
+TE,Women behav.,Men info.,0.329,0.259
+TE,Men behav.,Men info.,0.441,0.396
+TE,Women info.,Men info.,0.299,0.263
+TE,Gov/NGO,Men info.,0.073,0.061
+TE,External support,Men info.,0.002,0.01
+TE,Borrow money,Gov/NGO,0.034,0.035
+TE,Lend money,Gov/NGO,0.047,0.034
+TE,Borrow goods,Gov/NGO,0.031,0.031
+TE,Lend goods,Gov/NGO,0.063,0.056
+TE,Women behav.,Gov/NGO,0.025,0.04
+TE,Men behav.,Gov/NGO,0.041,0.059
+TE,Women info.,Gov/NGO,0.044,0.043
+TE,Men info.,Gov/NGO,0.073,0.061
+TE,External support,Gov/NGO,-0.001,-0.001
+TE,Borrow money,External support,0.014,0.031
+TE,Lend money,External support,0.011,0.019
+TE,Borrow goods,External support,0.011,0.017
+TE,Lend goods,External support,0.015,0.037
+TE,Women behav.,External support,0.014,0.035
+TE,Men behav.,External support,-0.003,-0.004
+TE,Women info.,External support,0.008,0.02
+TE,Men info.,External support,0.002,0.01
+TE,Gov/NGO,External support,-0.001,-0.001
+TI,Lend money,Borrow money,0.217,0.16
+TI,Borrow goods,Borrow money,0.172,0.169
+TI,Lend goods,Borrow money,0.124,0.125
+TI,Women behav.,Borrow money,0.173,0.082
+TI,Men behav.,Borrow money,0.105,0.057
+TI,Women info.,Borrow money,0.006,0.01
+TI,Men info.,Borrow money,-0.019,-0.016
+TI,Gov/NGO,Borrow money,0.071,0.08
+TI,External support,Borrow money,-0.004,-0.004
+TI,Borrow money,Lend money,0.217,0.16
+TI,Borrow goods,Lend money,0.115,0.169
+TI,Lend goods,Lend money,0.107,0.125
+TI,Women behav.,Lend money,0.076,0.082
+TI,Men behav.,Lend money,0.119,0.134
+TI,Women info.,Lend money,0.059,0.078
+TI,Men info.,Lend money,0.096,0.115
+TI,Gov/NGO,Lend money,0.08,0.08
+TI,External support,Lend money,-0.004,-0.004
+TI,Borrow money,Borrow goods,0.172,0.169
+TI,Lend money,Borrow goods,0.115,0.169
+TI,Lend goods,Borrow goods,0.648,0.64
+TI,Women behav.,Borrow goods,0.32,0.337
+TI,Men behav.,Borrow goods,0.206,0.231
+TI,Women info.,Borrow goods,0.388,0.347
+TI,Men info.,Borrow goods,0.283,0.27
+TI,Gov/NGO,Borrow goods,0.101,0.091
+TI,External support,Borrow goods,0.027,0.042
+TI,Borrow money,Lend goods,0.124,0.125
+TI,Lend money,Lend goods,0.107,0.125
+TI,Borrow goods,Lend goods,0.648,0.64
+TI,Women behav.,Lend goods,0.366,0.317
+TI,Men behav.,Lend goods,0.257,0.237
+TI,Women info.,Lend goods,0.387,0.348
+TI,Men info.,Lend goods,0.352,0.293
+TI,Gov/NGO,Lend goods,0.079,0.052
+TI,External support,Lend goods,0.053,0.036
+TI,Borrow money,Women behav.,0.173,0.082
+TI,Lend money,Women behav.,0.076,0.082
+TI,Borrow goods,Women behav.,0.32,0.337
+TI,Lend goods,Women behav.,0.366,0.317
+TI,Men behav.,Women behav.,0.19,0.23
+TI,Women info.,Women behav.,0.089,0.172
+TI,Men info.,Women behav.,0.071,0.121
+TI,Gov/NGO,Women behav.,-0.012,-0.014
+TI,External support,Women behav.,-0.006,-0.007
+TI,Borrow money,Men behav.,0.105,0.057
+TI,Lend money,Men behav.,0.119,0.134
+TI,Borrow goods,Men behav.,0.206,0.231
+TI,Lend goods,Men behav.,0.257,0.237
+TI,Women behav.,Men behav.,0.19,0.23
+TI,Women info.,Men behav.,0.133,0.137
+TI,Men info.,Men behav.,0.186,0.143
+TI,Gov/NGO,Men behav.,0.054,0.062
+TI,External support,Men behav.,-0.009,-0.01
+TI,Borrow money,Women info.,0.006,0.01
+TI,Lend money,Women info.,0.059,0.078
+TI,Borrow goods,Women info.,0.388,0.347
+TI,Lend goods,Women info.,0.387,0.348
+TI,Women behav.,Women info.,0.089,0.172
+TI,Men behav.,Women info.,0.133,0.137
+TI,Men info.,Women info.,0.394,0.36
+TI,Gov/NGO,Women info.,0.118,0.061
+TI,External support,Women info.,0.011,0.028
+TI,Borrow money,Men info.,-0.019,-0.016
+TI,Lend money,Men info.,0.096,0.115
+TI,Borrow goods,Men info.,0.283,0.27
+TI,Lend goods,Men info.,0.352,0.293
+TI,Women behav.,Men info.,0.071,0.121
+TI,Men behav.,Men info.,0.186,0.143
+TI,Women info.,Men info.,0.394,0.36
+TI,Gov/NGO,Men info.,0.029,0.032
+TI,External support,Men info.,-0.016,-0.019
+TI,Borrow money,Gov/NGO,0.071,0.08
+TI,Lend money,Gov/NGO,0.08,0.08
+TI,Borrow goods,Gov/NGO,0.101,0.091
+TI,Lend goods,Gov/NGO,0.079,0.052
+TI,Women behav.,Gov/NGO,-0.012,-0.014
+TI,Men behav.,Gov/NGO,0.054,0.062
+TI,Women info.,Gov/NGO,0.118,0.061
+TI,Men info.,Gov/NGO,0.029,0.032
+TI,External support,Gov/NGO,-0.004,-0.004
+TI,Borrow money,External support,-0.004,-0.004
+TI,Lend money,External support,-0.004,-0.004
+TI,Borrow goods,External support,0.027,0.042
+TI,Lend goods,External support,0.053,0.036
+TI,Women behav.,External support,-0.006,-0.007
+TI,Men behav.,External support,-0.009,-0.01
+TI,Women info.,External support,0.011,0.028
+TI,Men info.,External support,-0.016,-0.019
+TI,Gov/NGO,External support,-0.004,-0.004
+TM,Lend money,Borrow money,0.459,0.341
+TM,Borrow goods,Borrow money,0.529,0.437
+TM,Lend goods,Borrow money,0.56,0.466
+TM,Women behav.,Borrow money,0.544,0.361
+TM,Men behav.,Borrow money,0.289,0.166
+TM,Women info.,Borrow money,0.578,0.44
+TM,Men info.,Borrow money,0.507,0.376
+TM,Gov/NGO,Borrow money,0.058,0.053
+TM,External support,Borrow money,0.063,0.09
+TM,Borrow money,Lend money,0.459,0.341
+TM,Borrow goods,Lend money,0.426,0.38
+TM,Lend goods,Lend money,0.476,0.389
+TM,Women behav.,Lend money,0.48,0.365
+TM,Men behav.,Lend money,0.351,0.277
+TM,Women info.,Lend money,0.4,0.352
+TM,Men info.,Lend money,0.334,0.273
+TM,Gov/NGO,Lend money,0.11,0.095
+TM,External support,Lend money,0.054,0.074
+TM,Borrow money,Borrow goods,0.529,0.437
+TM,Lend money,Borrow goods,0.426,0.38
+TM,Lend goods,Borrow goods,0.83,0.782
+TM,Women behav.,Borrow goods,0.587,0.497
+TM,Men behav.,Borrow goods,0.389,0.347
+TM,Women info.,Borrow goods,0.639,0.568
+TM,Men info.,Borrow goods,0.462,0.386
+TM,Gov/NGO,Borrow goods,0.062,0.063
+TM,External support,Borrow goods,0.157,0.138
+TM,Borrow money,Lend goods,0.56,0.466
+TM,Lend money,Lend goods,0.476,0.389
+TM,Borrow goods,Lend goods,0.83,0.782
+TM,Women behav.,Lend goods,0.604,0.505
+TM,Men behav.,Lend goods,0.425,0.334
+TM,Women info.,Lend goods,0.682,0.557
+TM,Men info.,Lend goods,0.497,0.388
+TM,Gov/NGO,Lend goods,0.069,0.082
+TM,External support,Lend goods,0.176,0.168
+TM,Borrow money,Women behav.,0.544,0.361
+TM,Lend money,Women behav.,0.48,0.365
+TM,Borrow goods,Women behav.,0.587,0.497
+TM,Lend goods,Women behav.,0.604,0.505
+TM,Men behav.,Women behav.,0.405,0.304
+TM,Women info.,Women behav.,0.668,0.572
+TM,Men info.,Women behav.,0.41,0.29
+TM,Gov/NGO,Women behav.,0.01,0.008
+TM,External support,Women behav.,0.109,0.122
+TM,Borrow money,Men behav.,0.289,0.166
+TM,Lend money,Men behav.,0.351,0.277
+TM,Borrow goods,Men behav.,0.389,0.347
+TM,Lend goods,Men behav.,0.425,0.334
+TM,Women behav.,Men behav.,0.405,0.304
+TM,Women info.,Men behav.,0.387,0.275
+TM,Men info.,Men behav.,0.274,0.228
+TM,Gov/NGO,Men behav.,0.039,0.032
+TM,External support,Men behav.,0.049,0.039
+TM,Borrow money,Women info.,0.578,0.44
+TM,Lend money,Women info.,0.4,0.352
+TM,Borrow goods,Women info.,0.639,0.568
+TM,Lend goods,Women info.,0.682,0.557
+TM,Women behav.,Women info.,0.668,0.572
+TM,Men behav.,Women info.,0.387,0.275
+TM,Men info.,Women info.,0.509,0.402
+TM,Gov/NGO,Women info.,0.053,0.028
+TM,External support,Women info.,0.098,0.127
+TM,Borrow money,Men info.,0.507,0.376
+TM,Lend money,Men info.,0.334,0.273
+TM,Borrow goods,Men info.,0.462,0.386
+TM,Lend goods,Men info.,0.497,0.388
+TM,Women behav.,Men info.,0.41,0.29
+TM,Men behav.,Men info.,0.274,0.228
+TM,Women info.,Men info.,0.509,0.402
+TM,Gov/NGO,Men info.,0.137,0.096
+TM,External support,Men info.,0.094,0.103
+TM,Borrow money,Gov/NGO,0.058,0.053
+TM,Lend money,Gov/NGO,0.11,0.095
+TM,Borrow goods,Gov/NGO,0.062,0.063
+TM,Lend goods,Gov/NGO,0.069,0.082
+TM,Women behav.,Gov/NGO,0.01,0.008
+TM,Men behav.,Gov/NGO,0.039,0.032
+TM,Women info.,Gov/NGO,0.053,0.028
+TM,Men info.,Gov/NGO,0.137,0.096
+TM,External support,Gov/NGO,-0.004,-0.004
+TM,Borrow money,External support,0.063,0.09
+TM,Lend money,External support,0.054,0.074
+TM,Borrow goods,External support,0.157,0.138
+TM,Lend goods,External support,0.176,0.168
+TM,Women behav.,External support,0.109,0.122
+TM,Men behav.,External support,0.049,0.039
+TM,Women info.,External support,0.098,0.127
+TM,Men info.,External support,0.094,0.103
+TM,Gov/NGO,External support,-0.004,-0.004
+TP,Lend money,Borrow money,0.219,0.268
+TP,Borrow goods,Borrow money,0.396,0.397
+TP,Lend goods,Borrow money,0.363,0.344
+TP,Women behav.,Borrow money,0.097,0.114
+TP,Men behav.,Borrow money,0.167,0.151
+TP,Women info.,Borrow money,0.26,0.197
+TP,Men info.,Borrow money,0.074,0.053
+TP,Gov/NGO,Borrow money,0.088,0.073
+TP,External support,Borrow money,0.039,0.039
+TP,Borrow money,Lend money,0.219,0.268
+TP,Borrow goods,Lend money,0.375,0.325
+TP,Lend goods,Lend money,0.568,0.455
+TP,Women behav.,Lend money,0.379,0.358
+TP,Men behav.,Lend money,0.394,0.274
+TP,Women info.,Lend money,0.272,0.25
+TP,Men info.,Lend money,0.056,0.065
+TP,Gov/NGO,Lend money,0.033,0.025
+TP,External support,Lend money,0.03,0.038
+TP,Borrow money,Borrow goods,0.396,0.397
+TP,Lend money,Borrow goods,0.375,0.325
+TP,Lend goods,Borrow goods,0.483,0.468
+TP,Women behav.,Borrow goods,0.156,0.225
+TP,Men behav.,Borrow goods,0.283,0.204
+TP,Women info.,Borrow goods,0.411,0.255
+TP,Men info.,Borrow goods,0.1,0.038
+TP,Gov/NGO,Borrow goods,0.112,0.094
+TP,External support,Borrow goods,-0.007,-0.009
+TP,Borrow money,Lend goods,0.363,0.344
+TP,Lend money,Lend goods,0.568,0.455
+TP,Borrow goods,Lend goods,0.483,0.468
+TP,Women behav.,Lend goods,0.245,0.252
+TP,Men behav.,Lend goods,0.361,0.236
+TP,Women info.,Lend goods,0.322,0.301
+TP,Men info.,Lend goods,0.117,0.107
+TP,Gov/NGO,Lend goods,0.048,0.054
+TP,External support,Lend goods,-0.008,-0.009
+TP,Borrow money,Women behav.,0.097,0.114
+TP,Lend money,Women behav.,0.379,0.358
+TP,Borrow goods,Women behav.,0.156,0.225
+TP,Lend goods,Women behav.,0.245,0.252
+TP,Men behav.,Women behav.,0.155,0.153
+TP,Women info.,Women behav.,0.278,0.214
+TP,Men info.,Women behav.,0.086,0.051
+TP,Gov/NGO,Women behav.,0.009,-0.003
+TP,External support,Women behav.,-0.004,-0.005
+TP,Borrow money,Men behav.,0.167,0.151
+TP,Lend money,Men behav.,0.394,0.274
+TP,Borrow goods,Men behav.,0.283,0.204
+TP,Lend goods,Men behav.,0.361,0.236
+TP,Women behav.,Men behav.,0.155,0.153
+TP,Women info.,Men behav.,0.188,0.165
+TP,Men info.,Men behav.,0.199,0.242
+TP,Gov/NGO,Men behav.,0.058,0.066
+TP,External support,Men behav.,-0.006,-0.007
+TP,Borrow money,Women info.,0.26,0.197
+TP,Lend money,Women info.,0.272,0.25
+TP,Borrow goods,Women info.,0.411,0.255
+TP,Lend goods,Women info.,0.322,0.301
+TP,Women behav.,Women info.,0.278,0.214
+TP,Men behav.,Women info.,0.188,0.165
+TP,Men info.,Women info.,0.249,0.22
+TP,Gov/NGO,Women info.,0.109,0.103
+TP,External support,Women info.,0.03,0.034
+TP,Borrow money,Men info.,0.074,0.053
+TP,Lend money,Men info.,0.056,0.065
+TP,Borrow goods,Men info.,0.1,0.038
+TP,Lend goods,Men info.,0.117,0.107
+TP,Women behav.,Men info.,0.086,0.051
+TP,Men behav.,Men info.,0.199,0.242
+TP,Women info.,Men info.,0.249,0.22
+TP,Gov/NGO,Men info.,0.164,0.176
+TP,External support,Men info.,0.015,0.032
+TP,Borrow money,Gov/NGO,0.088,0.073
+TP,Lend money,Gov/NGO,0.033,0.025
+TP,Borrow goods,Gov/NGO,0.112,0.094
+TP,Lend goods,Gov/NGO,0.048,0.054
+TP,Women behav.,Gov/NGO,0.009,-0.003
+TP,Men behav.,Gov/NGO,0.058,0.066
+TP,Women info.,Gov/NGO,0.109,0.103
+TP,Men info.,Gov/NGO,0.164,0.176
+TP,External support,Gov/NGO,0.021,0.032
+TP,Borrow money,External support,0.039,0.039
+TP,Lend money,External support,0.03,0.038
+TP,Borrow goods,External support,-0.007,-0.009
+TP,Lend goods,External support,-0.008,-0.009
+TP,Women behav.,External support,-0.004,-0.005
+TP,Men behav.,External support,-0.006,-0.007
+TP,Women info.,External support,0.03,0.034
+TP,Men info.,External support,0.015,0.032
+TP,Gov/NGO,External support,0.021,0.032
+TS,Lend money,Borrow money,-0.001,-0.001
+TS,Borrow goods,Borrow money,-0.005,-0.005
+TS,Lend goods,Borrow money,-0.005,-0.005
+TS,Women behav.,Borrow money,-0.004,-0.004
+TS,Men behav.,Borrow money,-0.004,-0.004
+TS,Women info.,Borrow money,-0.005,-0.005
+TS,Men info.,Borrow money,-0.005,-0.005
+TS,Gov/NGO,Borrow money,NA,NA
+TS,External support,Borrow money,NA,NA
+TS,Borrow money,Lend money,-0.001,-0.001
+TS,Borrow goods,Lend money,-0.004,-0.004
+TS,Lend goods,Lend money,-0.003,-0.004
+TS,Women behav.,Lend money,-0.003,-0.003
+TS,Men behav.,Lend money,0.136,0.144
+TS,Women info.,Lend money,-0.004,-0.004
+TS,Men info.,Lend money,-0.004,-0.004
+TS,Gov/NGO,Lend money,NA,NA
+TS,External support,Lend money,NA,NA
+TS,Borrow money,Borrow goods,-0.005,-0.005
+TS,Lend money,Borrow goods,-0.004,-0.004
+TS,Lend goods,Borrow goods,0.533,0.463
+TS,Women behav.,Borrow goods,0.45,0.45
+TS,Men behav.,Borrow goods,0.393,0.329
+TS,Women info.,Borrow goods,0.381,0.447
+TS,Men info.,Borrow goods,0.272,0.29
+TS,Gov/NGO,Borrow goods,NA,NA
+TS,External support,Borrow goods,NA,NA
+TS,Borrow money,Lend goods,-0.005,-0.005
+TS,Lend money,Lend goods,-0.003,-0.004
+TS,Borrow goods,Lend goods,0.533,0.463
+TS,Women behav.,Lend goods,0.421,0.41
+TS,Men behav.,Lend goods,0.313,0.287
+TS,Women info.,Lend goods,0.345,0.368
+TS,Men info.,Lend goods,0.244,0.256
+TS,Gov/NGO,Lend goods,NA,NA
+TS,External support,Lend goods,NA,NA
+TS,Borrow money,Women behav.,-0.004,-0.004
+TS,Lend money,Women behav.,-0.003,-0.003
+TS,Borrow goods,Women behav.,0.45,0.45
+TS,Lend goods,Women behav.,0.421,0.41
+TS,Men behav.,Women behav.,0.226,0.246
+TS,Women info.,Women behav.,0.223,0.252
+TS,Men info.,Women behav.,0.16,0.185
+TS,Gov/NGO,Women behav.,NA,NA
+TS,External support,Women behav.,NA,NA
+TS,Borrow money,Men behav.,-0.004,-0.004
+TS,Lend money,Men behav.,0.136,0.144
+TS,Borrow goods,Men behav.,0.393,0.329
+TS,Lend goods,Men behav.,0.313,0.287
+TS,Women behav.,Men behav.,0.226,0.246
+TS,Women info.,Men behav.,0.299,0.311
+TS,Men info.,Men behav.,0.285,0.292
+TS,Gov/NGO,Men behav.,NA,NA
+TS,External support,Men behav.,NA,NA
+TS,Borrow money,Women info.,-0.005,-0.005
+TS,Lend money,Women info.,-0.004,-0.004
+TS,Borrow goods,Women info.,0.381,0.447
+TS,Lend goods,Women info.,0.345,0.368
+TS,Women behav.,Women info.,0.223,0.252
+TS,Men behav.,Women info.,0.299,0.311
+TS,Men info.,Women info.,0.37,0.366
+TS,Gov/NGO,Women info.,NA,NA
+TS,External support,Women info.,NA,NA
+TS,Borrow money,Men info.,-0.005,-0.005
+TS,Lend money,Men info.,-0.004,-0.004
+TS,Borrow goods,Men info.,0.272,0.29
+TS,Lend goods,Men info.,0.244,0.256
+TS,Women behav.,Men info.,0.16,0.185
+TS,Men behav.,Men info.,0.285,0.292
+TS,Women info.,Men info.,0.37,0.366
+TS,Gov/NGO,Men info.,NA,NA
+TS,External support,Men info.,NA,NA
+TS,Borrow money,Gov/NGO,NA,NA
+TS,Lend money,Gov/NGO,NA,NA
+TS,Borrow goods,Gov/NGO,NA,NA
+TS,Lend goods,Gov/NGO,NA,NA
+TS,Women behav.,Gov/NGO,NA,NA
+TS,Men behav.,Gov/NGO,NA,NA
+TS,Women info.,Gov/NGO,NA,NA
+TS,Men info.,Gov/NGO,NA,NA
+TS,External support,Gov/NGO,NA,NA
+TS,Borrow money,External support,NA,NA
+TS,Lend money,External support,NA,NA
+TS,Borrow goods,External support,NA,NA
+TS,Lend goods,External support,NA,NA
+TS,Women behav.,External support,NA,NA
+TS,Men behav.,External support,NA,NA
+TS,Women info.,External support,NA,NA
+TS,Men info.,External support,NA,NA
+TS,Gov/NGO,External support,NA,NA
+TZ,Lend money,Borrow money,0.349,0.309
+TZ,Borrow goods,Borrow money,0.321,0.345
+TZ,Lend goods,Borrow money,0.26,0.256
+TZ,Women behav.,Borrow money,0.121,0.125
+TZ,Men behav.,Borrow money,0.085,0.104
+TZ,Women info.,Borrow money,0.254,0.284
+TZ,Men info.,Borrow money,0.203,0.156
+TZ,Gov/NGO,Borrow money,0.01,0.022
+TZ,External support,Borrow money,0.19,0.197
+TZ,Borrow money,Lend money,0.349,0.309
+TZ,Borrow goods,Lend money,0.201,0.233
+TZ,Lend goods,Lend money,0.194,0.212
+TZ,Women behav.,Lend money,0.084,0.082
+TZ,Men behav.,Lend money,0.072,0.099
+TZ,Women info.,Lend money,0.196,0.217
+TZ,Men info.,Lend money,0.126,0.081
+TZ,Gov/NGO,Lend money,-0.007,-0.008
+TZ,External support,Lend money,0.091,0.062
+TZ,Borrow money,Borrow goods,0.321,0.345
+TZ,Lend money,Borrow goods,0.201,0.233
+TZ,Lend goods,Borrow goods,0.528,0.459
+TZ,Women behav.,Borrow goods,0.279,0.202
+TZ,Men behav.,Borrow goods,0.096,0.083
+TZ,Women info.,Borrow goods,0.432,0.403
+TZ,Men info.,Borrow goods,0.023,0.032
+TZ,Gov/NGO,Borrow goods,0.013,0.041
+TZ,External support,Borrow goods,0.092,0.095
+TZ,Borrow money,Lend goods,0.26,0.256
+TZ,Lend money,Lend goods,0.194,0.212
+TZ,Borrow goods,Lend goods,0.528,0.459
+TZ,Women behav.,Lend goods,0.146,0.138
+TZ,Men behav.,Lend goods,0.099,0.13
+TZ,Women info.,Lend goods,0.402,0.366
+TZ,Men info.,Lend goods,0.039,0.039
+TZ,Gov/NGO,Lend goods,0.008,0.032
+TZ,External support,Lend goods,0.05,0.078
+TZ,Borrow money,Women behav.,0.121,0.125
+TZ,Lend money,Women behav.,0.084,0.082
+TZ,Borrow goods,Women behav.,0.279,0.202
+TZ,Lend goods,Women behav.,0.146,0.138
+TZ,Men behav.,Women behav.,0.019,0.02
+TZ,Women info.,Women behav.,0.221,0.131
+TZ,Men info.,Women behav.,0.009,0.007
+TZ,Gov/NGO,Women behav.,-0.005,-0.006
+TZ,External support,Women behav.,0.227,0.237
+TZ,Borrow money,Men behav.,0.085,0.104
+TZ,Lend money,Men behav.,0.072,0.099
+TZ,Borrow goods,Men behav.,0.096,0.083
+TZ,Lend goods,Men behav.,0.099,0.13
+TZ,Women behav.,Men behav.,0.019,0.02
+TZ,Women info.,Men behav.,0.133,0.111
+TZ,Men info.,Men behav.,0.142,0.132
+TZ,Gov/NGO,Men behav.,-0.007,-0.009
+TZ,External support,Men behav.,0.054,0.074
+TZ,Borrow money,Women info.,0.254,0.284
+TZ,Lend money,Women info.,0.196,0.217
+TZ,Borrow goods,Women info.,0.432,0.403
+TZ,Lend goods,Women info.,0.402,0.366
+TZ,Women behav.,Women info.,0.221,0.131
+TZ,Men behav.,Women info.,0.133,0.111
+TZ,Men info.,Women info.,0.033,0.041
+TZ,Gov/NGO,Women info.,0.038,0.033
+TZ,External support,Women info.,0.06,0.08
+TZ,Borrow money,Men info.,0.203,0.156
+TZ,Lend money,Men info.,0.126,0.081
+TZ,Borrow goods,Men info.,0.023,0.032
+TZ,Lend goods,Men info.,0.039,0.039
+TZ,Women behav.,Men info.,0.009,0.007
+TZ,Men behav.,Men info.,0.142,0.132
+TZ,Women info.,Men info.,0.033,0.041
+TZ,Gov/NGO,Men info.,0.013,0.023
+TZ,External support,Men info.,0.049,0.079
+TZ,Borrow money,Gov/NGO,0.01,0.022
+TZ,Lend money,Gov/NGO,-0.007,-0.008
+TZ,Borrow goods,Gov/NGO,0.013,0.041
+TZ,Lend goods,Gov/NGO,0.008,0.032
+TZ,Women behav.,Gov/NGO,-0.005,-0.006
+TZ,Men behav.,Gov/NGO,-0.007,-0.009
+TZ,Women info.,Gov/NGO,0.038,0.033
+TZ,Men info.,Gov/NGO,0.013,0.023
+TZ,External support,Gov/NGO,-0.004,-0.005
+TZ,Borrow money,External support,0.19,0.197
+TZ,Lend money,External support,0.091,0.062
+TZ,Borrow goods,External support,0.092,0.095
+TZ,Lend goods,External support,0.05,0.078
+TZ,Women behav.,External support,0.227,0.237
+TZ,Men behav.,External support,0.054,0.074
+TZ,Women info.,External support,0.06,0.08
+TZ,Men info.,External support,0.049,0.079
+TZ,Gov/NGO,External support,-0.004,-0.005
+UP,Lend money,Borrow money,0.655,0.577
+UP,Borrow goods,Borrow money,0.573,0.474
+UP,Lend goods,Borrow money,0.491,0.442
+UP,Women behav.,Borrow money,0.541,0.429
+UP,Men behav.,Borrow money,0.57,0.449
+UP,Women info.,Borrow money,0.536,0.424
+UP,Men info.,Borrow money,0.439,0.381
+UP,Gov/NGO,Borrow money,0.149,0.108
+UP,External support,Borrow money,0.157,0.159
+UP,Borrow money,Lend money,0.655,0.577
+UP,Borrow goods,Lend money,0.57,0.459
+UP,Lend goods,Lend money,0.553,0.492
+UP,Women behav.,Lend money,0.528,0.427
+UP,Men behav.,Lend money,0.589,0.455
+UP,Women info.,Lend money,0.491,0.424
+UP,Men info.,Lend money,0.437,0.386
+UP,Gov/NGO,Lend money,0.118,0.062
+UP,External support,Lend money,0.118,0.129
+UP,Borrow money,Borrow goods,0.573,0.474
+UP,Lend money,Borrow goods,0.57,0.459
+UP,Lend goods,Borrow goods,0.8,0.735
+UP,Women behav.,Borrow goods,0.648,0.56
+UP,Men behav.,Borrow goods,0.569,0.484
+UP,Women info.,Borrow goods,0.699,0.581
+UP,Men info.,Borrow goods,0.46,0.375
+UP,Gov/NGO,Borrow goods,0.114,0.089
+UP,External support,Borrow goods,0.108,0.128
+UP,Borrow money,Lend goods,0.491,0.442
+UP,Lend money,Lend goods,0.553,0.492
+UP,Borrow goods,Lend goods,0.8,0.735
+UP,Women behav.,Lend goods,0.585,0.54
+UP,Men behav.,Lend goods,0.553,0.481
+UP,Women info.,Lend goods,0.657,0.568
+UP,Men info.,Lend goods,0.454,0.373
+UP,Gov/NGO,Lend goods,0.128,0.088
+UP,External support,Lend goods,0.079,0.096
+UP,Borrow money,Women behav.,0.541,0.429
+UP,Lend money,Women behav.,0.528,0.427
+UP,Borrow goods,Women behav.,0.648,0.56
+UP,Lend goods,Women behav.,0.585,0.54
+UP,Men behav.,Women behav.,0.58,0.491
+UP,Women info.,Women behav.,0.709,0.568
+UP,Men info.,Women behav.,0.38,0.339
+UP,Gov/NGO,Women behav.,0.116,0.098
+UP,External support,Women behav.,0.077,0.088
+UP,Borrow money,Men behav.,0.57,0.449
+UP,Lend money,Men behav.,0.589,0.455
+UP,Borrow goods,Men behav.,0.569,0.484
+UP,Lend goods,Men behav.,0.553,0.481
+UP,Women behav.,Men behav.,0.58,0.491
+UP,Women info.,Men behav.,0.542,0.454
+UP,Men info.,Men behav.,0.494,0.444
+UP,Gov/NGO,Men behav.,0.142,0.078
+UP,External support,Men behav.,0.095,0.123
+UP,Borrow money,Women info.,0.536,0.424
+UP,Lend money,Women info.,0.491,0.424
+UP,Borrow goods,Women info.,0.699,0.581
+UP,Lend goods,Women info.,0.657,0.568
+UP,Women behav.,Women info.,0.709,0.568
+UP,Men behav.,Women info.,0.542,0.454
+UP,Men info.,Women info.,0.435,0.358
+UP,Gov/NGO,Women info.,0.099,0.073
+UP,External support,Women info.,0.102,0.112
+UP,Borrow money,Men info.,0.439,0.381
+UP,Lend money,Men info.,0.437,0.386
+UP,Borrow goods,Men info.,0.46,0.375
+UP,Lend goods,Men info.,0.454,0.373
+UP,Women behav.,Men info.,0.38,0.339
+UP,Men behav.,Men info.,0.494,0.444
+UP,Women info.,Men info.,0.435,0.358
+UP,Gov/NGO,Men info.,0.108,0.072
+UP,External support,Men info.,0.126,0.121
+UP,Borrow money,Gov/NGO,0.149,0.108
+UP,Lend money,Gov/NGO,0.118,0.062
+UP,Borrow goods,Gov/NGO,0.114,0.089
+UP,Lend goods,Gov/NGO,0.128,0.088
+UP,Women behav.,Gov/NGO,0.116,0.098
+UP,Men behav.,Gov/NGO,0.142,0.078
+UP,Women info.,Gov/NGO,0.099,0.073
+UP,Men info.,Gov/NGO,0.108,0.072
+UP,External support,Gov/NGO,0.063,0.064
+UP,Borrow money,External support,0.157,0.159
+UP,Lend money,External support,0.118,0.129
+UP,Borrow goods,External support,0.108,0.128
+UP,Lend goods,External support,0.079,0.096
+UP,Women behav.,External support,0.077,0.088
+UP,Men behav.,External support,0.095,0.123
+UP,Women info.,External support,0.102,0.112
+UP,Men info.,External support,0.126,0.121
+UP,Gov/NGO,External support,0.063,0.064
+VT,Lend money,Borrow money,-0.011,-0.011
+VT,Borrow goods,Borrow money,0.026,0.028
+VT,Lend goods,Borrow money,0.068,0.068
+VT,Women behav.,Borrow money,0.122,0.129
+VT,Men behav.,Borrow money,0.174,0.183
+VT,Women info.,Borrow money,0.083,0.083
+VT,Men info.,Borrow money,0.035,0.035
+VT,Gov/NGO,Borrow money,NA,NA
+VT,External support,Borrow money,NA,NA
+VT,Borrow money,Lend money,-0.011,-0.011
+VT,Borrow goods,Lend money,0.137,0.139
+VT,Lend goods,Lend money,0.152,0.177
+VT,Women behav.,Lend money,0.116,0.114
+VT,Men behav.,Lend money,0.147,0.107
+VT,Women info.,Lend money,0.076,0.059
+VT,Men info.,Lend money,-0.03,-0.031
+VT,Gov/NGO,Lend money,NA,NA
+VT,External support,Lend money,NA,NA
+VT,Borrow money,Borrow goods,0.026,0.028
+VT,Lend money,Borrow goods,0.137,0.139
+VT,Lend goods,Borrow goods,0.208,0.205
+VT,Women behav.,Borrow goods,0.245,0.222
+VT,Men behav.,Borrow goods,0.207,0.19
+VT,Women info.,Borrow goods,0.222,0.199
+VT,Men info.,Borrow goods,0.268,0.264
+VT,Gov/NGO,Borrow goods,NA,NA
+VT,External support,Borrow goods,NA,NA
+VT,Borrow money,Lend goods,0.068,0.068
+VT,Lend money,Lend goods,0.152,0.177
+VT,Borrow goods,Lend goods,0.208,0.205
+VT,Women behav.,Lend goods,0.216,0.213
+VT,Men behav.,Lend goods,0.216,0.23
+VT,Women info.,Lend goods,0.224,0.224
+VT,Men info.,Lend goods,0.269,0.269
+VT,Gov/NGO,Lend goods,NA,NA
+VT,External support,Lend goods,NA,NA
+VT,Borrow money,Women behav.,0.122,0.129
+VT,Lend money,Women behav.,0.116,0.114
+VT,Borrow goods,Women behav.,0.245,0.222
+VT,Lend goods,Women behav.,0.216,0.213
+VT,Men behav.,Women behav.,0.319,0.327
+VT,Women info.,Women behav.,0.397,0.418
+VT,Men info.,Women behav.,0.154,0.163
+VT,Gov/NGO,Women behav.,NA,NA
+VT,External support,Women behav.,NA,NA
+VT,Borrow money,Men behav.,0.174,0.183
+VT,Lend money,Men behav.,0.147,0.107
+VT,Borrow goods,Men behav.,0.207,0.19
+VT,Lend goods,Men behav.,0.216,0.23
+VT,Women behav.,Men behav.,0.319,0.327
+VT,Women info.,Men behav.,0.267,0.268
+VT,Men info.,Men behav.,0.18,0.191
+VT,Gov/NGO,Men behav.,NA,NA
+VT,External support,Men behav.,NA,NA
+VT,Borrow money,Women info.,0.083,0.083
+VT,Lend money,Women info.,0.076,0.059
+VT,Borrow goods,Women info.,0.222,0.199
+VT,Lend goods,Women info.,0.224,0.224
+VT,Women behav.,Women info.,0.397,0.418
+VT,Men behav.,Women info.,0.267,0.268
+VT,Men info.,Women info.,0.172,0.172
+VT,Gov/NGO,Women info.,NA,NA
+VT,External support,Women info.,NA,NA
+VT,Borrow money,Men info.,0.035,0.035
+VT,Lend money,Men info.,-0.03,-0.031
+VT,Borrow goods,Men info.,0.268,0.264
+VT,Lend goods,Men info.,0.269,0.269
+VT,Women behav.,Men info.,0.154,0.163
+VT,Men behav.,Men info.,0.18,0.191
+VT,Women info.,Men info.,0.172,0.172
+VT,Gov/NGO,Men info.,NA,NA
+VT,External support,Men info.,NA,NA
+VT,Borrow money,Gov/NGO,NA,NA
+VT,Lend money,Gov/NGO,NA,NA
+VT,Borrow goods,Gov/NGO,NA,NA
+VT,Lend goods,Gov/NGO,NA,NA
+VT,Women behav.,Gov/NGO,NA,NA
+VT,Men behav.,Gov/NGO,NA,NA
+VT,Women info.,Gov/NGO,NA,NA
+VT,Men info.,Gov/NGO,NA,NA
+VT,External support,Gov/NGO,NA,NA
+VT,Borrow money,External support,NA,NA
+VT,Lend money,External support,NA,NA
+VT,Borrow goods,External support,NA,NA
+VT,Lend goods,External support,NA,NA
+VT,Women behav.,External support,NA,NA
+VT,Men behav.,External support,NA,NA
+VT,Women info.,External support,NA,NA
+VT,Men info.,External support,NA,NA
+VT,Gov/NGO,External support,NA,NA
+WH,Lend money,Borrow money,NA,NA
+WH,Borrow goods,Borrow money,0.221,0.245
+WH,Lend goods,Borrow money,0.242,0.22
+WH,Women behav.,Borrow money,-0.018,-0.019
+WH,Men behav.,Borrow money,0.112,0.17
+WH,Women info.,Borrow money,0.188,0.219
+WH,Men info.,Borrow money,0.223,0.285
+WH,Gov/NGO,Borrow money,NA,NA
+WH,External support,Borrow money,NA,NA
+WH,Borrow money,Lend money,NA,NA
+WH,Borrow goods,Lend money,NA,NA
+WH,Lend goods,Lend money,NA,NA
+WH,Women behav.,Lend money,NA,NA
+WH,Men behav.,Lend money,NA,NA
+WH,Women info.,Lend money,NA,NA
+WH,Men info.,Lend money,NA,NA
+WH,Gov/NGO,Lend money,NA,NA
+WH,External support,Lend money,NA,NA
+WH,Borrow money,Borrow goods,0.221,0.245
+WH,Lend money,Borrow goods,NA,NA
+WH,Lend goods,Borrow goods,0.118,0.066
+WH,Women behav.,Borrow goods,-0.01,-0.011
+WH,Men behav.,Borrow goods,0.163,0.189
+WH,Women info.,Borrow goods,0.149,0.121
+WH,Men info.,Borrow goods,0.111,0.071
+WH,Gov/NGO,Borrow goods,NA,NA
+WH,External support,Borrow goods,NA,NA
+WH,Borrow money,Lend goods,0.242,0.22
+WH,Lend money,Lend goods,NA,NA
+WH,Borrow goods,Lend goods,0.118,0.066
+WH,Women behav.,Lend goods,0.242,0.269
+WH,Men behav.,Lend goods,0.047,0.039
+WH,Women info.,Lend goods,0.303,0.296
+WH,Men info.,Lend goods,0.126,0.108
+WH,Gov/NGO,Lend goods,NA,NA
+WH,External support,Lend goods,NA,NA
+WH,Borrow money,Women behav.,-0.018,-0.019
+WH,Lend money,Women behav.,NA,NA
+WH,Borrow goods,Women behav.,-0.01,-0.011
+WH,Lend goods,Women behav.,0.242,0.269
+WH,Men behav.,Women behav.,-0.013,-0.014
+WH,Women info.,Women behav.,0.259,0.235
+WH,Men info.,Women behav.,0.035,0.066
+WH,Gov/NGO,Women behav.,NA,NA
+WH,External support,Women behav.,NA,NA
+WH,Borrow money,Men behav.,0.112,0.17
+WH,Lend money,Men behav.,NA,NA
+WH,Borrow goods,Men behav.,0.163,0.189
+WH,Lend goods,Men behav.,0.047,0.039
+WH,Women behav.,Men behav.,-0.013,-0.014
+WH,Women info.,Men behav.,-0.036,-0.044
+WH,Men info.,Men behav.,0.178,0.196
+WH,Gov/NGO,Men behav.,NA,NA
+WH,External support,Men behav.,NA,NA
+WH,Borrow money,Women info.,0.188,0.219
+WH,Lend money,Women info.,NA,NA
+WH,Borrow goods,Women info.,0.149,0.121
+WH,Lend goods,Women info.,0.303,0.296
+WH,Women behav.,Women info.,0.259,0.235
+WH,Men behav.,Women info.,-0.036,-0.044
+WH,Men info.,Women info.,0.088,0.113
+WH,Gov/NGO,Women info.,NA,NA
+WH,External support,Women info.,NA,NA
+WH,Borrow money,Men info.,0.223,0.285
+WH,Lend money,Men info.,NA,NA
+WH,Borrow goods,Men info.,0.111,0.071
+WH,Lend goods,Men info.,0.126,0.108
+WH,Women behav.,Men info.,0.035,0.066
+WH,Men behav.,Men info.,0.178,0.196
+WH,Women info.,Men info.,0.088,0.113
+WH,Gov/NGO,Men info.,NA,NA
+WH,External support,Men info.,NA,NA
+WH,Borrow money,Gov/NGO,NA,NA
+WH,Lend money,Gov/NGO,NA,NA
+WH,Borrow goods,Gov/NGO,NA,NA
+WH,Lend goods,Gov/NGO,NA,NA
+WH,Women behav.,Gov/NGO,NA,NA
+WH,Men behav.,Gov/NGO,NA,NA
+WH,Women info.,Gov/NGO,NA,NA
+WH,Men info.,Gov/NGO,NA,NA
+WH,External support,Gov/NGO,NA,NA
+WH,Borrow money,External support,NA,NA
+WH,Lend money,External support,NA,NA
+WH,Borrow goods,External support,NA,NA
+WH,Lend goods,External support,NA,NA
+WH,Women behav.,External support,NA,NA
+WH,Men behav.,External support,NA,NA
+WH,Women info.,External support,NA,NA
+WH,Men info.,External support,NA,NA
+WH,Gov/NGO,External support,NA,NA
+WL,Lend money,Borrow money,NA,NA
+WL,Borrow goods,Borrow money,0.376,0.307
+WL,Lend goods,Borrow money,0.154,0.155
+WL,Women behav.,Borrow money,0.092,0.109
+WL,Men behav.,Borrow money,0.017,0.02
+WL,Women info.,Borrow money,0.21,0.178
+WL,Men info.,Borrow money,0.213,0.228
+WL,Gov/NGO,Borrow money,NA,NA
+WL,External support,Borrow money,NA,NA
+WL,Borrow money,Lend money,NA,NA
+WL,Borrow goods,Lend money,NA,NA
+WL,Lend goods,Lend money,NA,NA
+WL,Women behav.,Lend money,NA,NA
+WL,Men behav.,Lend money,NA,NA
+WL,Women info.,Lend money,NA,NA
+WL,Men info.,Lend money,NA,NA
+WL,Gov/NGO,Lend money,NA,NA
+WL,External support,Lend money,NA,NA
+WL,Borrow money,Borrow goods,0.376,0.307
+WL,Lend money,Borrow goods,NA,NA
+WL,Lend goods,Borrow goods,0.102,0.118
+WL,Women behav.,Borrow goods,0.161,0.176
+WL,Men behav.,Borrow goods,0.023,0.025
+WL,Women info.,Borrow goods,0.227,0.254
+WL,Men info.,Borrow goods,0.119,0.116
+WL,Gov/NGO,Borrow goods,NA,NA
+WL,External support,Borrow goods,NA,NA
+WL,Borrow money,Lend goods,0.154,0.155
+WL,Lend money,Lend goods,NA,NA
+WL,Borrow goods,Lend goods,0.102,0.118
+WL,Women behav.,Lend goods,0.045,0.053
+WL,Men behav.,Lend goods,0.08,0.094
+WL,Women info.,Lend goods,0.148,0.157
+WL,Men info.,Lend goods,0.054,0.068
+WL,Gov/NGO,Lend goods,NA,NA
+WL,External support,Lend goods,NA,NA
+WL,Borrow money,Women behav.,0.092,0.109
+WL,Lend money,Women behav.,NA,NA
+WL,Borrow goods,Women behav.,0.161,0.176
+WL,Lend goods,Women behav.,0.045,0.053
+WL,Men behav.,Women behav.,0.037,0.037
+WL,Women info.,Women behav.,0.225,0.255
+WL,Men info.,Women behav.,0.069,0.073
+WL,Gov/NGO,Women behav.,NA,NA
+WL,External support,Women behav.,NA,NA
+WL,Borrow money,Men behav.,0.017,0.02
+WL,Lend money,Men behav.,NA,NA
+WL,Borrow goods,Men behav.,0.023,0.025
+WL,Lend goods,Men behav.,0.08,0.094
+WL,Women behav.,Men behav.,0.037,0.037
+WL,Women info.,Men behav.,0.024,0.027
+WL,Men info.,Men behav.,0.127,0.115
+WL,Gov/NGO,Men behav.,NA,NA
+WL,External support,Men behav.,NA,NA
+WL,Borrow money,Women info.,0.21,0.178
+WL,Lend money,Women info.,NA,NA
+WL,Borrow goods,Women info.,0.227,0.254
+WL,Lend goods,Women info.,0.148,0.157
+WL,Women behav.,Women info.,0.225,0.255
+WL,Men behav.,Women info.,0.024,0.027
+WL,Men info.,Women info.,0.064,0.018
+WL,Gov/NGO,Women info.,NA,NA
+WL,External support,Women info.,NA,NA
+WL,Borrow money,Men info.,0.213,0.228
+WL,Lend money,Men info.,NA,NA
+WL,Borrow goods,Men info.,0.119,0.116
+WL,Lend goods,Men info.,0.054,0.068
+WL,Women behav.,Men info.,0.069,0.073
+WL,Men behav.,Men info.,0.127,0.115
+WL,Women info.,Men info.,0.064,0.018
+WL,Gov/NGO,Men info.,NA,NA
+WL,External support,Men info.,NA,NA
+WL,Borrow money,Gov/NGO,NA,NA
+WL,Lend money,Gov/NGO,NA,NA
+WL,Borrow goods,Gov/NGO,NA,NA
+WL,Lend goods,Gov/NGO,NA,NA
+WL,Women behav.,Gov/NGO,NA,NA
+WL,Men behav.,Gov/NGO,NA,NA
+WL,Women info.,Gov/NGO,NA,NA
+WL,Men info.,Gov/NGO,NA,NA
+WL,External support,Gov/NGO,NA,NA
+WL,Borrow money,External support,NA,NA
+WL,Lend money,External support,NA,NA
+WL,Borrow goods,External support,NA,NA
+WL,Lend goods,External support,NA,NA
+WL,Women behav.,External support,NA,NA
+WL,Men behav.,External support,NA,NA
+WL,Women info.,External support,NA,NA
+WL,Men info.,External support,NA,NA
+WL,Gov/NGO,External support,NA,NA
+YI,Lend money,Borrow money,0.573,0.584
+YI,Borrow goods,Borrow money,0.366,0.357
+YI,Lend goods,Borrow money,0.341,0.339
+YI,Women behav.,Borrow money,0.362,0.358
+YI,Men behav.,Borrow money,0.355,0.327
+YI,Women info.,Borrow money,0.298,0.294
+YI,Men info.,Borrow money,0.271,0.29
+YI,Gov/NGO,Borrow money,-0.003,-0.003
+YI,External support,Borrow money,0.361,0.338
+YI,Borrow money,Lend money,0.573,0.584
+YI,Borrow goods,Lend money,0.348,0.349
+YI,Lend goods,Lend money,0.345,0.353
+YI,Women behav.,Lend money,0.308,0.33
+YI,Men behav.,Lend money,0.299,0.291
+YI,Women info.,Lend money,0.336,0.329
+YI,Men info.,Lend money,0.26,0.278
+YI,Gov/NGO,Lend money,-0.003,-0.003
+YI,External support,Lend money,0.241,0.244
+YI,Borrow money,Borrow goods,0.366,0.357
+YI,Lend money,Borrow goods,0.348,0.349
+YI,Lend goods,Borrow goods,0.8,0.802
+YI,Women behav.,Borrow goods,0.564,0.583
+YI,Men behav.,Borrow goods,0.568,0.568
+YI,Women info.,Borrow goods,0.452,0.463
+YI,Men info.,Borrow goods,0.434,0.445
+YI,Gov/NGO,Borrow goods,-0.004,-0.004
+YI,External support,Borrow goods,0.125,0.135
+YI,Borrow money,Lend goods,0.341,0.339
+YI,Lend money,Lend goods,0.345,0.353
+YI,Borrow goods,Lend goods,0.8,0.802
+YI,Women behav.,Lend goods,0.553,0.58
+YI,Men behav.,Lend goods,0.571,0.573
+YI,Women info.,Lend goods,0.373,0.378
+YI,Men info.,Lend goods,0.466,0.483
+YI,Gov/NGO,Lend goods,-0.004,-0.004
+YI,External support,Lend goods,0.1,0.107
+YI,Borrow money,Women behav.,0.362,0.358
+YI,Lend money,Women behav.,0.308,0.33
+YI,Borrow goods,Women behav.,0.564,0.583
+YI,Lend goods,Women behav.,0.553,0.58
+YI,Men behav.,Women behav.,0.538,0.523
+YI,Women info.,Women behav.,0.583,0.606
+YI,Men info.,Women behav.,0.461,0.458
+YI,Gov/NGO,Women behav.,0.042,0.051
+YI,External support,Women behav.,0.103,0.123
+YI,Borrow money,Men behav.,0.355,0.327
+YI,Lend money,Men behav.,0.299,0.291
+YI,Borrow goods,Men behav.,0.568,0.568
+YI,Lend goods,Men behav.,0.571,0.573
+YI,Women behav.,Men behav.,0.538,0.523
+YI,Women info.,Men behav.,0.392,0.351
+YI,Men info.,Men behav.,0.486,0.507
+YI,Gov/NGO,Men behav.,-0.004,-0.004
+YI,External support,Men behav.,0.185,0.182
+YI,Borrow money,Women info.,0.298,0.294
+YI,Lend money,Women info.,0.336,0.329
+YI,Borrow goods,Women info.,0.452,0.463
+YI,Lend goods,Women info.,0.373,0.378
+YI,Women behav.,Women info.,0.583,0.606
+YI,Men behav.,Women info.,0.392,0.351
+YI,Men info.,Women info.,0.489,0.454
+YI,Gov/NGO,Women info.,0.047,0.053
+YI,External support,Women info.,0.213,0.199
+YI,Borrow money,Men info.,0.271,0.29
+YI,Lend money,Men info.,0.26,0.278
+YI,Borrow goods,Men info.,0.434,0.445
+YI,Lend goods,Men info.,0.466,0.483
+YI,Women behav.,Men info.,0.461,0.458
+YI,Men behav.,Men info.,0.486,0.507
+YI,Women info.,Men info.,0.489,0.454
+YI,Gov/NGO,Men info.,-0.004,-0.004
+YI,External support,Men info.,0.178,0.206
+YI,Borrow money,Gov/NGO,-0.003,-0.003
+YI,Lend money,Gov/NGO,-0.003,-0.003
+YI,Borrow goods,Gov/NGO,-0.004,-0.004
+YI,Lend goods,Gov/NGO,-0.004,-0.004
+YI,Women behav.,Gov/NGO,0.042,0.051
+YI,Men behav.,Gov/NGO,-0.004,-0.004
+YI,Women info.,Gov/NGO,0.047,0.053
+YI,Men info.,Gov/NGO,-0.004,-0.004
+YI,External support,Gov/NGO,-0.002,-0.003
+YI,Borrow money,External support,0.361,0.338
+YI,Lend money,External support,0.241,0.244
+YI,Borrow goods,External support,0.125,0.135
+YI,Lend goods,External support,0.1,0.107
+YI,Women behav.,External support,0.103,0.123
+YI,Men behav.,External support,0.185,0.182
+YI,Women info.,External support,0.213,0.199
+YI,Men info.,External support,0.178,0.206
+YI,Gov/NGO,External support,-0.002,-0.003
+YN,Lend money,Borrow money,0.654,0.498
+YN,Borrow goods,Borrow money,0.204,0.236
+YN,Lend goods,Borrow money,0.198,0.229
+YN,Women behav.,Borrow money,0.141,0.163
+YN,Men behav.,Borrow money,0.13,0.166
+YN,Women info.,Borrow money,0.164,0.19
+YN,Men info.,Borrow money,0.192,0.106
+YN,Gov/NGO,Borrow money,0.064,0.078
+YN,External support,Borrow money,0.111,0.138
+YN,Borrow money,Lend money,0.654,0.498
+YN,Borrow goods,Lend money,0.087,0.117
+YN,Lend goods,Lend money,0.174,0.232
+YN,Women behav.,Lend money,-0.002,-0.003
+YN,Men behav.,Lend money,-0.005,-0.005
+YN,Women info.,Lend money,-0.002,-0.002
+YN,Men info.,Lend money,0.171,0.05
+YN,Gov/NGO,Lend money,-0.009,-0.01
+YN,External support,Lend money,-0.008,-0.009
+YN,Borrow money,Borrow goods,0.204,0.236
+YN,Lend money,Borrow goods,0.087,0.117
+YN,Lend goods,Borrow goods,0.567,0.567
+YN,Women behav.,Borrow goods,0.117,0.117
+YN,Men behav.,Borrow goods,0.105,0.116
+YN,Women info.,Borrow goods,0.136,0.136
+YN,Men info.,Borrow goods,0.035,0.036
+YN,Gov/NGO,Borrow goods,0.046,0.047
+YN,External support,Borrow goods,0.12,0.129
+YN,Borrow money,Lend goods,0.198,0.229
+YN,Lend money,Lend goods,0.174,0.232
+YN,Borrow goods,Lend goods,0.567,0.567
+YN,Women behav.,Lend goods,0.113,0.113
+YN,Men behav.,Lend goods,0.046,0.051
+YN,Women info.,Lend goods,0.132,0.132
+YN,Men info.,Lend goods,0.09,0.092
+YN,Gov/NGO,Lend goods,0.107,0.11
+YN,External support,Lend goods,0.116,0.124
+YN,Borrow money,Women behav.,0.141,0.163
+YN,Lend money,Women behav.,-0.002,-0.003
+YN,Borrow goods,Women behav.,0.117,0.117
+YN,Lend goods,Women behav.,0.113,0.113
+YN,Men behav.,Women behav.,0.114,0.125
+YN,Women info.,Women behav.,-0.002,-0.002
+YN,Men info.,Women behav.,0.049,0.05
+YN,Gov/NGO,Women behav.,-0.01,-0.01
+YN,External support,Women behav.,0.062,0.067
+YN,Borrow money,Men behav.,0.13,0.166
+YN,Lend money,Men behav.,-0.005,-0.005
+YN,Borrow goods,Men behav.,0.105,0.116
+YN,Lend goods,Men behav.,0.046,0.051
+YN,Women behav.,Men behav.,0.114,0.125
+YN,Women info.,Men behav.,0.133,0.146
+YN,Men info.,Men behav.,0.177,0.169
+YN,Gov/NGO,Men behav.,0.013,0.017
+YN,External support,Men behav.,0.185,0.218
+YN,Borrow money,Women info.,0.164,0.19
+YN,Lend money,Women info.,-0.002,-0.002
+YN,Borrow goods,Women info.,0.136,0.136
+YN,Lend goods,Women info.,0.132,0.132
+YN,Women behav.,Women info.,-0.002,-0.002
+YN,Men behav.,Women info.,0.133,0.146
+YN,Men info.,Women info.,-0.01,-0.01
+YN,Gov/NGO,Women info.,0.069,0.072
+YN,External support,Women info.,0.074,0.08
+YN,Borrow money,Men info.,0.192,0.106
+YN,Lend money,Men info.,0.171,0.05
+YN,Borrow goods,Men info.,0.035,0.036
+YN,Lend goods,Men info.,0.09,0.092
+YN,Women behav.,Men info.,0.049,0.05
+YN,Men behav.,Men info.,0.177,0.169
+YN,Women info.,Men info.,-0.01,-0.01
+YN,Gov/NGO,Men info.,0.104,0.094
+YN,External support,Men info.,0.49,0.499
+YN,Borrow money,Gov/NGO,0.064,0.078
+YN,Lend money,Gov/NGO,-0.009,-0.01
+YN,Borrow goods,Gov/NGO,0.046,0.047
+YN,Lend goods,Gov/NGO,0.107,0.11
+YN,Women behav.,Gov/NGO,-0.01,-0.01
+YN,Men behav.,Gov/NGO,0.013,0.017
+YN,Women info.,Gov/NGO,0.069,0.072
+YN,Men info.,Gov/NGO,0.104,0.094
+YN,External support,Gov/NGO,0.121,0.092
+YN,Borrow money,External support,0.111,0.138
+YN,Lend money,External support,-0.008,-0.009
+YN,Borrow goods,External support,0.12,0.129
+YN,Lend goods,External support,0.116,0.124
+YN,Women behav.,External support,0.062,0.067
+YN,Men behav.,External support,0.185,0.218
+YN,Women info.,External support,0.074,0.08
+YN,Men info.,External support,0.49,0.499
+YN,Gov/NGO,External support,0.121,0.092

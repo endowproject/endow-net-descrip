@@ -5,15 +5,13 @@ This repository contains the analysis code for:
 > **"A cross-cultural dataset on the structure of social networks: The ENDOW project"**
 > The ENDOW Team
 
-The paper presents descriptive statistics on nomination patterns across a series of 10 social support network prompts and network summary statistics for sharing unit-level networks derived from those network prompts.
+The paper presents descriptive statistics on nomination patterns across a series of 10 social support network prompts and network summary statistics for sharing unit-level networks derived from those prompts.
 
-This repo provides code to generate all of the figures and tables, using faux data. With the use of faux data, the resulting tables/figures will not reproduce the actual figures/tables in the paper but instead fully show the code.
+This repo provides code to generate all of the figures and tables, using **faux data** for four simulated communities (EG, EX, SI, SM). Because the data are simulated, the resulting tables and figures will not reproduce those in the paper; they demonstrate that the code runs and show what each output looks like.
 
-The repo also includes the summary tables included in the paper as a series of CSVs in the ActualDataOutputs folder.
+The summary tables underlying the paper are included as CSVs in the `ActualDataOutputs/` folder. Running the code on the faux data writes to `FauxDataOutputs/` and does **not** overwrite them.
 
-Installation of the relevant R packages should be straightforward and take a matter of minutes.
-
-With the faux data, the full script should take XXX MINUTES to run.
+Installation of the relevant R packages should be straightforward and take a matter of minutes. With the faux data, the full pipeline should take just a few minutes to run.
 
 ---
 
@@ -26,17 +24,19 @@ With the faux data, the full script should take XXX MINUTES to run.
 5. [Pipeline Overview](#pipeline-overview)
 6. [Key Data Files](#key-data-files)
 7. [Output Locations](#output-locations)
-8. [R Package Dependencies](#r-package-dependencies)
+8. [Known Limitations](#known-limitations)
+9. [R Package Dependencies](#r-package-dependencies)
 
 ---
 
 ## Repository Layout
 
 ```
-ENDOW-net-descrip/
-├── Scripts/
+endow-net-descrip/
+├── .Rprofile                       # defines the path variables used by all scripts
+├── net_descriptives/
 │   ├── 00_setup.R
-│   ├── 01_name_generator_prompts.R
+│   ├── 01_name_generator_prompts.R # Included for completeness, but cannot be run (requires access to private repos)
 │   ├── 02_network_summary_stats.R
 │   ├── 03_respondent_coverage.R
 │   ├── 04_nomination_counts_composition.R
@@ -47,99 +47,119 @@ ENDOW-net-descrip/
 │   ├── 09_network_overlap.R
 │   ├── 10_pca.R
 │   ├── 11_kinship.R
-│   └── 12_variance_decomp.R
+│   └── 12_variance_decomp.R        # Included for completeness, but will throw some errors
 │
-├── DerivedData/
-│   ├── ... interim files created by scripts
-│   ├──
-│   ├──
-│   └──
+├── FauxData/                       # simulated inputs (see Key Data Files)
+│   ├── networks/                   #   <SITE>_networks.csv
+│   └── *.rdata, *.rds, *.csv       #   objects built from the simulated inputs; intermediate
+│                                   #   files created by the scripts are also saved here
 │
-├── FauxData/
-│   ├── ... things coming from rep repo that are called into 00_setup
-│   ├──
-│   ├──
-│   └──
+├── FauxDataOutputs/                # created when you run the scripts
+│   ├── Figures/
+│   ├── Tables/
+│   └── ...                         # CSV summaries and other outputs
 │
-├── ActualDataOutputs/
-│   ├── ... actual data CSVs
-│   ├──
-│   ├──
-│   └──
-
+└── ActualDataOutputs/              # summary-table CSVs from the actual data, as used in the paper
 ```
 
 ---
 
 ## Prerequisites
 
-You need three things set up before running any code:
-
-ELLY: UPDATE THIS TO PULL FROM FauxData FOLDER where I can dump the derived data files from main rep-code repo
-
-**1. GitHub repositories (local clones)**
-- `ENDOW-wealth-corr` — this repository
-
-**2. ENDOW database**
-- `endow-database` — the faux ENDOW database files; not actually needed here!
-
-**3. A Dropbox**
-- A local folder — all figures and tables are written here
-
-**4. R 4.x** — see [R Package Dependencies](#r-package-dependencies) below
+1. **R 4.x** (tested on R 4.6.1 on macOS) and the packages listed under [R Package Dependencies](#r-package-dependencies).
+2. **A clone of this repository.** Everything the scripts need is in the repo (with the exception of `01_name_generator_prompts.R`, which cannot run).
+3. **An internet connection on first run**, because `00_setup.R` downloads the *Roboto Mono* font from Google Fonts via `sysfonts::font_add_google()`.
 
 ---
 
 ## R Setup
 
-The scripts find files using path variables that you define in your `.Rprofile`. See [this guide](https://stackoverflow.com/questions/46819684/how-to-access-and-edit-rprofile) if you are not familiar with `.Rprofile`.
+The scripts find files using path variables (`EndowGitHub`, `EndowDatabase`, `EndowDerivedData`, `EndowDropbox`). This repository includes a project-level `.Rprofile` in its root that defines them relative to the repo, so no manual configuration is needed:
 
-Add the following to your `~/.Rprofile`, adjusting paths to match your machine, _or_ set them at the start of any session before executing 00_run_all.R:
-
-**Mac:**
 ```r
-EndowGitHub <- file.path("~", "Documents", "GitHub", "endow-net-descrip")
-EndowDatabase <- file.path("~", "Documents", "GitHub", "endow-net-descrip", "FauxData")
-EndowDropbox <- file.path("~", "Dropbox", "ENDOW")
+EndowGitHub      <- normalizePath(getwd())                    # repo root
+EndowDatabase    <- file.path(EndowGitHub, "FauxData")        # networks/*.csv
+EndowDerivedData <- file.path(EndowGitHub, "FauxData")        # .rdata / .rds objects
+EndowDropbox     <- file.path(EndowGitHub, "FauxDataOutputs") # Figures/ and Tables/ land here
 ```
 
-**Windows:**
-```r
-EndowGitHub <- file.path("C:/Users/tomru", "Dropbox (Personal)", "GitHub", "endow-net-descrip")
-EndowDatabase <- file.path("C:/Users/tomru", "OneDrive - Stanford", "Documents", "GitHub", "endow-net-descrip", "FauxData")
-EndowDropbox <- file.path("C:/Users/tomru", "Dropbox (Personal)", "ENDOW")
-```
+R runs this file automatically at startup, provided R is **launched from the repository root**. The easiest way is to open the repo as an RStudio project. If you start R another way, set the working directory to the repo root and restart R before running `00_setup.R`. See [this guide](https://stackoverflow.com/questions/46819684/how-to-access-and-edit-rprofile) if you are not familiar with `.Rprofile`.
 
-After editing `.Rprofile`, restart R to pick up the changes. The replication kit will stop with a clear error message if any required variable is missing.
+A few things to be aware of:
+
+- A project-level `.Rprofile` is used **instead of** your personal `~/.Rprofile` when R starts in this folder. If you rely on settings in your personal file, add `source("~/.Rprofile")` at the top of the project `.Rprofile`.
+- Scripts are run from the repo root and call `source("net_descriptives/00_setup.R")`, so the scripts folder must keep the name `net_descriptives`.
+- If you would rather define the paths yourself, edit the `.Rprofile` in the repo root, or set the four variables at the start of a session before running `00_setup.R`.
+
+The scripts will stop with a clear error message if any required variable is missing.
 
 ---
 
 ## Running the Replication Kit
 
-Open a **fresh R session**, set your working directory to the repo, and run any file directly — its `source()` calls will pull in what it needs:
+Open a **fresh R session** from the repo root and run any script directly; its `source()` call will pull in `00_setup.R`:
 
 ```r
-source("Scripts/11_pca.R")
+source("net_descriptives/10_pca.R")
 ```
 
-Or run the whole thing:
+Several scripts depend on intermediate files written by earlier ones (see [Pipeline Overview](#pipeline-overview)), so if you run scripts individually, run them in numerical order the first time.
+
+To run the whole pipeline, skipping the two scripts that are not expected to run on the faux data (see [Known Limitations](#known-limitations)):
 
 ```r
-for (f in file.path("Scripts", sprintf("%02d_*.R", 1:12))) { for (m in Sys.glob(f)) source(m) }
+scripts <- Sys.glob(file.path("net_descriptives", "[0-1][0-9]_*.R"))
+scripts <- scripts[!grepl("00_setup|01_name_generator|12_variance", scripts)]
+for (f in scripts) source(f)
 ```
 
 ---
 
 ## Pipeline Overview
 
-The code to generate the faux input data used here is on another public repository:
-  - https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/simulate_endow_database.R generates simulated data for four communities
-  - https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/process_data.R cleans the input data and generates basic networks
-  - https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/analyse_data_and_create_networks.R combines layers and computes descriptives
-These generate the objects included in the FauxData folder.
+The code that generated the faux input data is in another public repository:
 
-### 00_setup.R
+- [`simulate_endow_database.R`](https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/simulate_endow_database.R) generates simulated data for four communities (including what is contained in networks/)
+- [`process_data.R`](https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/process_data.R) cleans the input data and generates basic networks
+- [`analyse_data_and_create_networks.R`](https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/analyse_data_and_create_networks.R) combines layers and computes descriptives
+- [`analyse_data_and_create_networks.R`](https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/analyse_data_and_create_networks.R) combines layers and computes descriptives
+- [`kinship.R`](https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/kinship.R) creates kinship-support variables
 
+These generate the objects included in `FauxData/`.
+
+The scripts in `net_descriptives/` then produce the descriptive statistics, tables and figures:
+
+| Script | What it does | Reads from earlier scripts | Writes for later scripts |
+|---|---|---|---|
+| `00_setup.R` | Loads data, applies site-specific cleaning, builds shared lookups and plotting functions. Sourced by every other script. | | |
+| `01_name_generator_prompts.R` | Tables of the prompt wording used for each name generator, by community. *Not runnable here; see Known Limitations.* | | |
+| `02_network_summary_stats.R` | Network-level summary statistics (density, degree, centralization, clustering, etc.) by layer and community; cross-community distributions. | | `network_summaries_long.rdata` |
+| `03_respondent_coverage.R` | Sharing-unit and respondent coverage by community; degree and clustering vs. sampling. | `network_summaries_long.rdata` | `su_sampling.rdata` |
+| `04_nomination_counts_composition.R` | Nomination counts and their composition (internal vs. external, gender, age) by name generator and community. | | `external_alters.rdata`, `alters_summary.rdata` |
+| `05_concordance_within_su.R` | Concordance in nominations among members of the same sharing unit. | `alters_summary.rdata` | |
+| `06_concordance_req_give.R` | Concordance between paired request and give (double-sampled) networks. | | |
+| `07_degree_distributions.R` | Degree distributions (CCDFs) by layer. | | |
+| `08_network_visualizations.R` | Network visualizations by layer and community. | | |
+| `09_network_overlap.R` | Edge- and alter-level overlap across layers. | `alters_summary.rdata` | |
+| `10_pca.R` | Principal component analysis of network layers, by community and pooled. | | |
+| `11_kinship.R` | Kin composition of support networks. | | |
+| `12_variance_decomp.R` | Between-community variance decomposition (multilevel models). *Will run only with errors; see Known Limitations.* | `network_summaries_long.rdata`, `su_sampling.rdata`, `external_alters.rdata` | |
+
+---
+
+## Key Data Files
+
+All inputs are in `FauxData/`:
+
+| File(s) | Used by |
+|---|---|
+| `networks/<SITE>_networks.csv` | `00_setup.R`|
+| `people_observations.rdata`, `su_alters.rdata`, `su_meta.rdata` | `00_setup.R` |
+| `su_nets.rdata`, `su_nets_expanded.rdata`, `su_nets_expanded_withloops.rdata` | `00_setup.R` and downstream scripts |
+| `su_master.rds` | `03_respondent_coverage.R` |
+| `su_kin_support.csv`, `DataForLASSO.csv` | `11_kinship.R` |
+
+Two-letter codes in the `<SITE>` filenames identify the four simulated communities (EG, EX, SI, SM).
 
 ---
 
@@ -147,9 +167,23 @@ These generate the objects included in the FauxData folder.
 
 | Output type | Location |
 |-------------|----------|
-| All figures | `EndowDropbox/Figures/` (including exploratory subfolders) |
-| All tables | `EndowDropbox/Tables/` |
-| Intermediate datasets | `EndowGitHub/DerivedData/` |
+| Figures | `FauxDataOutputs/Figures/` (`DescriptiveStats/` and `Networks/`) |
+| Tables (LaTeX) | `FauxDataOutputs/Tables/` |
+| CSV summaries of tables | `FauxDataOutputs/` |
+| Intermediate datasets | `FauxData/` |
+| Tables from the actual data (paper) | `ActualDataOutputs/` |
+
+The output folders are created automatically by `00_setup.R`.
+
+---
+
+## Known Limitations
+
+Because this repository uses simulated data for four communities rather than the full private dataset:
+
+- **`01_name_generator_prompts.R` will not run.** It reads each community's name-generator metadata from private per-site repositories. It is included for completeness, to document how the prompt tables in the paper were produced.
+- **`12_variance_decomp.R` will throw errors.** It fits multilevel models with a random intercept for community, which is not meaningful with four communities. It is included for completeness.
+- Some scripts contain site-specific handling for communities not in the faux data (for example, special cases for particular sites in `00_setup.R` and `04_nomination_counts_composition.R`). These are skipped or have no effect with the faux data.
 
 ---
 
@@ -160,21 +194,17 @@ Install all required packages before running:
 ```r
 # From CRAN
 install.packages(c(
-  "data.table", "dplyr", "tidyr", "ggplot2", "ggpubr", "ggrepel",
-  "gridExtra", "ggstance", "viridis", "reshape2", "purrr", "tibble",
-  "igraph", "DescTools", "ineq",
-  "stargazer", "plm", "glmnet", "lme4",
-  "stringr", "janitor", "readr", "egg",
-  "wbwdi", "pipr", "kableExtra",
-  "mice", "splitstackshape", "tidyverse",
-  "fastDummies", "readxl", "latex2exp",
-  "knitr", "ggridges", "magick", "ggforce",
-  "sf", "rnaturalearth", "rnaturalearthdata",
-  "cNORM", "acid", "randomForest", "reshape",
-  "colorRamps", "ggcorrplot", "ppcor", "tidytext",
-  "showtext", "sysfonts", "patchwork", "metafor"
+  # core
+  "tidyverse", "igraph", "data.table", "patchwork", "scales",
+  "kableExtra", "ggrepel", "ggh4x", "RColorBrewer", "viridis",
+  "broom", "glue", "withr",
+  # network plotting (08_network_visualizations.R)
+  "tidygraph", "ggraph",
+  # fonts (00_setup.R)
+  "showtext", "sysfonts",
+  # multilevel models (12_variance_decomp.R)
+  "lme4"
 ))
-
 ```
 
 The analysis has been tested on **R 4.6.1** on macOS.
