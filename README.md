@@ -18,8 +18,8 @@ Installation of the relevant R packages should be straightforward and take a mat
 ## Table of Contents
 
 1.  [Repository Layout](#repository-layout)
-2.  [Actual Data Outputs](#actual-data)
-3.  [Prerequisites](#prerequisites)
+2.  [Actual Data Outputs](#actual-data-outputs)
+3.  [Prerequisites](#prerequisites-for-executing-scripts)
 4.  [R Setup](#r-setup)
 5.  [Running the Replication Kit](#running-the-replication-kit)
 6.  [Pipeline Overview](#pipeline-overview)
@@ -204,22 +204,29 @@ These generate the objects included in `FauxData/`. (Two figures and one table i
 
 The scripts in `net_descriptives/` then produce the descriptive statistics, tables and figures of this paper:
 
-| Script | What it does | Reads from earlier scripts | Writes for later scripts |
-|---|------|---|---|
-| `00_setup.R` | Loads data, applies site-specific cleaning, builds shared lookups and plotting functions. Sourced by every other script. | | |
-| `01_name_generator_prompts.R` | Tables of the prompt wording used for each name generator, by community. *Not runnable here; see Known Limitations.* | | |
-| `02_network_summary_stats.R` | Network-level summary statistics (density, degree, centralization, clustering, etc.) by layer and community; cross-community distributions. | | `network_summaries_long.rdata` |
-| `03_respondent_coverage.R` | Sharing-unit and respondent coverage by community; degree and clustering vs. sampling. | `network_summaries_long.rdata` | `su_sampling.rdata` |
-| `04_nomination_counts_composition.R` | Nomination counts and their composition (internal vs. external, gender, age) by name generator and community. | | `external_alters.rdata`, `alters_summary.rdata` |
-| `05_concordance_within_su.R` | Concordance in nominations among members of the same sharing unit. | `alters_summary.rdata` | |
-| `06_concordance_req_give.R` | Concordance between paired request and give (double-sampled) networks. | | |
-| `07_degree_distributions.R` | Degree distributions (CCDFs) by layer. | | |
-| `08_network_visualizations.R` | Network visualizations by layer and community. | | |
-| `09_network_overlap.R` | Edge- and alter-level overlap across layers. | `alters_summary.rdata` | |
-| `10_pca.R` | Principal component analysis of network layers, by community and pooled. | | |
-| `11_kinship.R` | Kin composition of support networks. | | |
-| `12_variance_decomp.R` | Between-community variance decomposition (multilevel models). *Will run only with errors; see Known Limitations.* | `network_summaries_long.rdata`, `su_sampling.rdata`, `external_alters.rdata` | |
+| Script | What it does |
+|---|---|
+| `00_setup.R` | Loads data, applies site-specific cleaning, builds shared lookups and plotting functions. Sourced by every other script. |
+| `01_name_generator_prompts.R` | Tables of the prompt wording used for each name generator, by community. *Not runnable here; see Known Limitations.* |
+| `02_network_summary_stats.R` | Network-level summary statistics (density, degree, centralization, clustering, etc.) by layer and community; cross-community distributions. |
+| `03_respondent_coverage.R` | Sharing-unit and respondent coverage by community; degree and clustering vs. sampling. |
+| `04_nomination_counts_composition.R` | Nomination counts and their composition (internal vs. external, gender, age) by name generator and community. |
+| `05_concordance_within_su.R` | Concordance in nominations among members of the same sharing unit. |
+| `06_concordance_req_give.R` | Concordance between paired request and give (double-sampled) networks. |
+| `07_degree_distributions.R` | Degree distributions (CCDFs) by layer. |
+| `08_network_visualizations.R` | Network visualizations by layer and community. |
+| `09_network_overlap.R` | Edge- and alter-level overlap across layers. |
+| `10_pca.R` | Principal component analysis of network layers, by community and pooled. |
+| `11_kinship.R` | Kin composition of support networks. |
+| `12_variance_decomp.R` | Between-community variance decomposition (multilevel models). *Will run only with errors; see Known Limitations.* |
 
+Some scripts save intermediate files in `FauxData/` that later scripts load, so run them in numerical order the first time:
+
+| Script | Writes | Read by |
+|---|---|---|
+| `02_network_summary_stats.R` | `network_summaries_long.rdata` | `03`, `12` |
+| `03_respondent_coverage.R` | `su_sampling.rdata` | `12` |
+| `04_nomination_counts_composition.R` | `external_alters.rdata`, `alters_summary.rdata` | `05`, `09` (`alters_summary`); `12` (`external_alters`) |
 ---
 
 ## Key Data Files
@@ -242,7 +249,7 @@ Two-letter codes in the `<SITE>` filenames identify the four simulated communiti
 
 | Output type | Location |
 |-------------|----------|
-| Figures | `FauxDataOutputs/Figures/` (`DescriptiveStats/` and `Networks/`) |
+| Figures | `FauxDataOutputs/Figures/` |
 | Tables (LaTeX) | `FauxDataOutputs/Tables/` |
 | CSV summaries of tables | `FauxDataOutputs/` |
 | Intermediate datasets | `FauxData/` |
