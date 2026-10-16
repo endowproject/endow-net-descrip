@@ -76,7 +76,7 @@ endow-net-descrip/
 
 ### Network layers
 
-Many files are organized by network prompt / network layer. The layers are the ten name generators plus two derived layers:
+Many files are organized by network prompt / network layer. The layers are the ten name generator prompts plus two derived layers (the aggregate network and the primary kin network). (Networks derived from the `govt` and `external` prompts are generally excluded, because they inherently focus on connections *outside* the community, resulting in sharing unit level networks that are very sparse and not meaningful/informative).
 
 | Layer code | Layer (as labelled in tables) |
 |---|---|
@@ -87,7 +87,7 @@ Many files are organized by network prompt / network layer. The layers are the t
 | `govt` | Government and NGO ties |
 | `external` | Support outside the community |
 | `primary_kin` | Primary (close) kin |
-| `sum` | Aggregate of the name-generator layers |
+| `sum` | Aggregate of `loan_req`, `exchange_req`, `f_behav`, `m_behav`, `f_info`, and `m_info` layers |
 
 ### Top-level files
 
@@ -129,13 +129,11 @@ Many files are organized by network prompt / network layer. The layers are the t
 
 ### `nomination-summary-stats/`
 
-*Produced by `04_nomination_counts_composition.R`.* Entries of the form `mean (SD)` summarize nominations made by respondents.
+*Produced by `04_nomination_counts_composition.R`.* Columns: `Prop. Zero` (proportion of respondents nominating no alters), `N Indiv.` (number of individuals nominated), `N SU` (number of sharing units nominated), `Prop. Same SU` (proportion of nominated individuals who are in the respondent's own sharing unit) and `Prop. Ext.` (proportion of nominated individuals external to the community). Entries of the form `mean (SD)` summarize nominations made by respondents.
 
-**`global-nominations-summary.csv`**: one row per name generator, across all respondents in all communities.
+**`global-nominations-summary.csv`**: one row per name generator prompt, across all respondents in all communities.
 
-**`nominations-summary-<layer>.csv`** (11 files: the ten name generators and `sum`, the aggregate): the same measures, one row per community. These include the additional column `N Resp.`, the number of respondents.
-
-Columns: `Prop. Zero` (proportion of respondents nominating no alters), `N Indiv.` (number of individuals nominated), `N SU` (number of sharing units nominated), `Prop. Same SU` (proportion of nominated individuals who are in the respondent's own sharing unit) and `Prop. Ext.` (proportion of nominated individuals external to the community).
+**`nominations-summary-<layer>.csv`** (11 files: the ten name generator prompts and `sum`, the aggregate): the same measures, one row per community. These include the additional column `N Resp.`, the number of respondents.
 
 ---
 
@@ -192,7 +190,7 @@ for (f in scripts) source(f)
 
 ## Pipeline Overview
 
-The code that generated the faux input data is in another public repository:
+The code that generated the faux input data is in the [endow-wealth-corr-rep-code](https://github.com/endowproject/endow-wealth-corr-rep-code) public repository:
 
 - [`simulate_endow_database.R`](https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/simulate_endow_database.R) generates simulated data for four communities (including what is contained in networks/)
 - [`process_data.R`](https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/process_data.R) cleans the input data and generates basic networks
@@ -200,7 +198,7 @@ The code that generated the faux input data is in another public repository:
 - [`analyse_data_and_create_networks.R`](https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/analyse_data_and_create_networks.R) combines layers and computes descriptives
 - [`kinship.R`](https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/kinship.R) creates kinship-support variables
 
-These generate the objects included in `FauxData/`. (Two figures and one table in this paper are also generated in code in the [`descriptivestats.R`](https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/descriptivestats.R) script in that repository: the overall world map with community locations (`sites_map.png`), the table showing primary and secondary subsistence type (`subsistence.png`), and the table giving details on each ENDOW community including participants, data lead(s), etc. (`su_net_summary.tex`).)
+These generate the objects included in `FauxData/`. (Two figures and one table in this paper are generated in the [`descriptivestats.R`](https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/descriptivestats.R) script in that repository: the overall world map with community locations (`sites_map.png`), the table showing primary and secondary subsistence type (`subsistence.png`), and the table giving details on each ENDOW community including participants, data lead(s), etc. (`su_net_summary.tex`).)
 
 The scripts in `net_descriptives/` then produce the descriptive statistics, tables and figures of this paper:
 
