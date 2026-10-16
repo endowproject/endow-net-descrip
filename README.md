@@ -17,16 +17,16 @@ Installation of the relevant R packages should be straightforward and take a mat
 
 ## Table of Contents
 
-1. [Repository Layout](#repository-layout)
-2. [Actual Data Outputs](#actual-data)
-2. [Prerequisites](#prerequisites)
-3. [R Setup](#r-setup)
-4. [Running the Replication Kit](#running-the-replication-kit)
-5. [Pipeline Overview](#pipeline-overview)
-6. [Key Data Files](#key-data-files)
-7. [Output Locations](#output-locations)
-8. [Known Limitations](#known-limitations)
-9. [R Package Dependencies](#r-package-dependencies)
+1.  [Repository Layout](#repository-layout)
+2.  [Actual Data Outputs](#actual-data)
+3.  [Prerequisites](#prerequisites)
+4.  [R Setup](#r-setup)
+5.  [Running the Replication Kit](#running-the-replication-kit)
+6.  [Pipeline Overview](#pipeline-overview)
+7.  [Key Data Files](#key-data-files)
+8.  [Output Locations](#output-locations)
+9.  [Known Limitations](#known-limitations)
+10. [R Package Dependencies](#r-package-dependencies)
 
 ---
 
