@@ -125,9 +125,9 @@ The code that generated the faux input data is in another public repository:
 - [`analyse_data_and_create_networks.R`](https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/analyse_data_and_create_networks.R) combines layers and computes descriptives
 - [`kinship.R`](https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/kinship.R) creates kinship-support variables
 
-These generate the objects included in `FauxData/`.
+These generate the objects included in `FauxData/`. (Two figures and one table in this paper are also generated in code in the [`descriptivestats.R`](https://github.com/endowproject/endow-wealth-corr-rep-code/blob/main/descriptivestats.R) script in that repository: the overall world map with community locations (`sites_map.png`), the table showing primary and secondary subsistence type (`subsistence.png`), and the table giving details on each ENDOW community including participants, data lead(s), etc. (`su_net_summary.tex`).)
 
-The scripts in `net_descriptives/` then produce the descriptive statistics, tables and figures:
+The scripts in `net_descriptives/` then produce the descriptive statistics, tables and figures of this paper:
 
 | Script | What it does | Reads from earlier scripts | Writes for later scripts |
 |---|---|---|---|
